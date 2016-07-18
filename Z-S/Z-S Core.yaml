@@ -108,7 +108,6 @@ overviewColumns:
 - DISTANCE
 - ICON
 - NAME
-- TAG
 - TRANSVERSALVELOCITY
 - TYPE
 - VELOCITY
@@ -3273,7 +3272,7 @@ tabSetup:
       - '<color=0xB3B3B3B3><fontsize=12>⌘</fontsize> Brackets: Default</color>'
 - - 1
   - - - bracket
-      - '<color=0xB3B3B3B3><fontsize=12>⌘</fontsize> Brackets: Hostile</color>'
+      - '<color=0xB3B3B3B3><fontsize=12>⌘</fontsize> --- Brackets: All</color>'
     - - name
       - '<fontsize=12><color=0xFF66CCFF><b> Z-S Core loaded! </b></color></fontsize>
 
@@ -3284,42 +3283,42 @@ tabSetup:
       - '<color=0xB3B3B3B3><fontsize=12>⌘</fontsize> Brackets: None</color>'
 - - 2
   - - - bracket
-      - '<color=0xB3B3B3B3><fontsize=12>⌘</fontsize> Brackets: Skirmish </color>'
+      - '<color=0xB3B3B3B3><fontsize=12>⌘</fontsize> --- Brackets: All</color>'
     - - name
       - ''
     - - overview
       - '<color=0xFF66FF66><fontsize=12>➲</fontsize> Extra: Align Points</color>'
 - - 3
   - - - bracket
-      - '<color=0xFFFFFFFF><fontsize=12>✈</fontsize> Travel: Hide Stations</color>'
+      - '<color=0xB3B3B3B3><fontsize=12>⌘</fontsize> --- Brackets: All</color>'
     - - name
       - ''
     - - overview
       - '<color=0xFFFFFFFF><fontsize=12>✈</fontsize> Travel: Show All</color>'
 - - 4
   - - - bracket
-      - '<color=0xFFFD9666><fontsize=12>✜</fontsize> --- PvE: Basic</color>'
+      - '<color=0xB3B3B3B3><fontsize=12>⌘</fontsize> --- Brackets: All</color>'
     - - name
       - ''
     - - overview
       - '<color=0xFF66CCFF><fontsize=12>✪</fontsize> = Friendly: Fleet</color>'
 - - 5
   - - - bracket
-      - '<color=0xFFFD96CF><fontsize=12>※</fontsize> --- D-Scan: All</color>'
+      - '<color=0xB3B3B3B3><fontsize=12>⌘</fontsize> --- Brackets: All</color>'
     - - name
       - ''
     - - overview
       - '<color=0xFFFD96CF><fontsize=12>※</fontsize> D-Scan: Pos (Cel)</color>'
 - - 6
   - - - bracket
-      - '<color=0xFFFD96CF><fontsize=12>※</fontsize> D-Scan: Pos + Mods (Cel)</color>'
+      - '<color=0xB3B3B3B3><fontsize=12>⌘</fontsize> --- Brackets: All</color>'
     - - name
       - ''
     - - overview
       - '<color=0xFFFD96CF><fontsize=12>※</fontsize> D-Scan: Pos + Mods (No Cel)</color>'
 - - 7
   - - - bracket
-      - '<color=0xFFFD96CF><fontsize=12>※</fontsize> D-Scan: Ships (No Cel)</color>'
+      - '<color=0xB3B3B3B3><fontsize=12>⌘</fontsize> --- Brackets: All</color>'
     - - name
       - ''
     - - overview
