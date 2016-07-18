@@ -1,56 +1,60 @@
-# Zirio-Syundai Special Overview
+# Zirio-Syundai Special Overview, Kafferton Mod
 ### Overview Pack for EVE Online
 
-The Zirio-Syundai Special™ Overview was created to provide a generalized, user-friendly, 6- or 8-tab overview, ready to use as-is with room to be tailored as needed.
-What started as a stop-gap measure to bring the SaraShawa overview up-to-date for 118.6 instead snowballed into a complete re-write of the .yaml file and [total overhaul of the visuals.](http://prntscr.com/br0lar)
-If you're familiar with SaraShawa, it shouldn't take too long to adjust to the changes.
+The Zirio-Syundai Special™ Overview was created to provide a generalized, user-friendly, 6- or 8-tab overview, ready to use as-is with room to be tailored as needed. Initially, a stop-gap measure to bring the SaraShawa overview up-to-date for 118.6 instead snowballed into a complete re-write of the .yaml file and [total overhaul of the visuals.](http://prntscr.com/br0lar)
+
+This, however, is not the Zirio-Syundai Special Overview. This is the Kafferton Mod to Zirio-Syundai. It is intended as a place to maintain a set of modifications and tweaks atop the Zirio-Syundai Overview.
 
 ##### New features include:
-- Choice of Full-Size or Compact 6- or 8-Tab Layouts that can be swapped at any time without reloading the entire pack.
-- Modular Setup: Load the Preset Packs you need, not the ones you don't.
-- New presets, including dedicated Faction Warfare and Incursion presets.
-- [Color-coded presets by category for improved ease of selection.](http://prntscr.com/br0kp1)
+- Not very many. We're talking about generally minor tweaks. Scroll down to the changelog for specifics.
 
-#### Current Version: 2.6.1
-- For Release: 118.6
-- Updated: 2016.07.16 EVE Calendar
-- Join our Mailing List in-game: Zirio-Syundai Overview
-- Visit us on [Reddit r/EVE](http://www.reddit.com/r/Eve/comments/4s3z9i/introducing_the_ziriosyundai_special_overview_pack/)
+#### Current Version: 2.6.1m1
 
-Zirio - YAML Coding & Pack Maintenence  
-Deuce Syundai - Design & Text Formatting
+#### Current Version based on: Zirio-Syundai 2.6.1
+- Join *their* Mailing List in-game: Zirio-Syundai Overview
+- See them on [r/EVE](http://www.reddit.com/r/Eve/comments/4s3z9i/introducing_the_ziriosyundai_special_overview_pack/)
+- Glance at their [GitHub repository](https://github.com/Arziel1992/Z-S-Overview-Pack)
+
+Zirio-Syundai 2.6.1 credits are as follows:
+- Zirio - YAML Coding & Pack Maintenence  
+- Deuce Syundai - Design & Text Formatting
+
+The Kafferton Mod is maintained by:
+- Sally Kafferton - Minor Tweak Maintenence
+
+### License
+At the time of forking 2.6.1, Z-S was licensed under the GNU GPLv3. The Kafferton Mod is licensed similarly as a result. Further information can be found in the LICENSE file of the repository.
 
 ### How to install
 
-#### Option 1: In-game, from "Zirio-Syundai Overview" chat channel:
-1. Open up your Overview Settings ( ≡ button at top left of the Overview window).
-2. Go to the "Misc" tab and click "Reset All Overview Settings." You MUST do this the first time you install. This prevents any weirdness that may be caused by any changes already made to the overview.
-3. Apply the Z-S Core preset pack FIRST. This is the only preset pack required. When combined with a Tab Layout, it includes the following presets:
-	- All Travel, Warpout, D-scan, and Bracket presets
-	- PvE: Basic and PvE: Salvage/Loot
-	- PvP: Basic and Target: Drones
-	- Friendly: All and Friendly: Fleet
-4. (Optional) Apply any of these Optional preset packs you may need for more specialized presets:
-	- Z-S PvE contains presets for Anoms/Ratting, Incursion, Mining, and Show Drones.
-	- Z-S PvP Basic contains presets for Faction Warfare, Ships Only, Bombing Warpouts, Deployables, NPSI, Structures, and Wartargets.
-	- Z-S PvP Extended packs include presets for specific categories from Fighters to Frigates to Logi to Titans. Each pack contains half the categories and should be installed together.
-	- Z-S Friendly Extended includes presets for Capitals, Supercapitals, Carriers, Dictors, Dreads, Logi, and Recon.
-5. To finish and set up the tabs, apply a Tab Layout. Standard has each tab named for a purpose, and Compact replaces most of the names with numbers or sorter names for reduced tab width.
-	- You can alternate between Layouts at any time without reloading the entire pack.
-	- _Some features might not show correctly at first, It may be necessary to Dock and then Undock at any station to reload the UI to apply all changes._
+#### Option 1: In-game:
+1. Mash your head upon your desk and follow the out-of-game instructions. While modular sets such as those offered by Z-S are currently maintained with the same tweaks, the focus of the Kafferton mod is firmly on the Full overview set, and no guarantees can thus be made about the entirely untested modular sets.
 
 #### Option 2: Out of game:
-1. Go to the most recent version folder and download the "Zirio-Syundai Full.yaml" file.
+1. Go to the Z-S folder and download the "Zirio-Syundai Full.yaml" file.
 2. Go to "C:\Users\YourName\Documents\EVE\Overview" and paste the downloaded file here.
 3. Start the game and open up your Overview Settings ( ≡ button at top left of the Overview window).
 4. Go to the "Misc" tab and click "Import Overview Settings".
 5. Select "Zirio-Syundai Full" on the left list and click "Check All" on the top middle, then click "Import".
 	- _Some features might not show correctly at first, It may be necessary to Dock and then Undock at any station to reload the UI to apply all changes._
-
+    
+#### How to install previous versions of Z-S Kmod:
+1. In the GitHub repository page, refer to the "releases" tab.
+2. Scroll down to the desired overview pack version.
+3. Download your desired version of the archive and follow the instructions for out-of-game installation.
 
 ### Changelog
 
-##### Version v2.6.1
+##### Version v2.6.1m1
+>1. Reverted the v2.6.1 addition of the Tag column.
+    - The column ordering is maintained, thus, if you add the tag column back it will be between the icon and the distance columns.
+>2. Removed the fontsize attribute and padding spaces from overview tab names.
+    - No more will tabs be oversized, instead now fitting in nicely with the rest of the EVE UI again.
+>3. Changed default brackets of all tabs to "Brackets: All".
+    - Previously, default brackets were (generally) what the overview of each tab was set to.
+    - This isn't maintained in modular sets outside of "Core", as these sets don't actually have Bracket presets, and thus changing the brackets in those sets seems like a Bad Idea.
+
+##### Version v2.6.1 (Z-S Pure)
 >1. Updated Ship Brackets:
 	- Removed "ShipName" variable (completely).
 >2. Reordered Overview Columns:
@@ -70,7 +74,7 @@ Deuce Syundai - Design & Text Formatting
 	- "✥ --- PvP: Basic (No NPC)"
 
 
-##### Version v2.6
+##### Version v2.6 (Z-S Pure)
 >1. Revamped Ship Brackets:
 	- Condensed the information from 4 to 2 rows for legibility in ship clusters.
 	- Recolored the variables for better identification.
@@ -94,7 +98,7 @@ Deuce Syundai - Design & Text Formatting
 	- "※ D-Scan: Pos + Mods (No Cel)" 
 
 
-##### Version v2.5
+##### Version v2.5 (Z-S Pure)
 >1. Categorized preset links:
 	- Replaces the split preset part system for a more convenient preset category system, where the player loads the preset category he/she wants/needs, then applies the final Tab Layout.
 	- Made to reduce cluttering of unwanted/unneeded presets.
@@ -103,7 +107,7 @@ Deuce Syundai - Design & Text Formatting
 	- Version v2.4
 
 
-##### Version v2.4 (not released, pushed to next version)
+##### Version v2.4 (not released, pushed to next version) (Z-S Pure)
 >1. Renamed "Brackets" presets for consistency.
 >2. Renamed "Hostile" presets to "Target" for consistency.
 >3. Updated presets:
@@ -118,7 +122,7 @@ Deuce Syundai - Design & Text Formatting
 		- Added Entity: Mission Container, Event Container.
 
 
-##### Version v2.3 (not released, pushed to next version)
+##### Version v2.3 (not released, pushed to next version) (Z-S Pure)
 >1. Added presets:
 	- Added new preset "⌘ --- Brackets: All":
 		- More permanent solution to "Show All Brackets".
@@ -130,14 +134,14 @@ Deuce Syundai - Design & Text Formatting
 		- Combination of "※ D-Scan: Ships" and "※ D-Scan: Pos All".
 
 
-##### Version v2.2
+##### Version v2.2 (Z-S Pure)
 >1. Ranamed "Finishes" to "Tab Layouts".
 >2. Adjusted the sizes of both 6 & 8 Compact Layouts to fit better on smaller screens.
 >3. Increased the Icon size on the presets for better legibility.
 >4. Replaced the Hostile Icon for a more adequate one to fit the new sizes.
 
 
-##### Version v2.1
+##### Version v2.1 (Z-S Pure)
 >1. Adjusted information rows on Player Ship brackets.
 >2. Updated presets:
 	- Added Fighters to preset "Friendly: All".
@@ -146,7 +150,7 @@ Deuce Syundai - Design & Text Formatting
 	- Corrected typo on preset "PvP: Normal".
 
 
-##### Version v2.0
+##### Version v2.0 (Z-S Pure)
 >1. Rewrote the entirety of the code for consistency, readability, compactness and scalability.
 >2. Adjusted split imports:
 	- Adjusted into 4 base parts.
@@ -162,7 +166,7 @@ Deuce Syundai - Design & Text Formatting
 	- Added "PvE: Incursion: preset.
 
 
-##### Version v1.0
+##### Version v1.0 (Z-S Pure)
 >1. Manual fork from SaraShawa-Overview Pack v9.1.
 	- (Export pack from the game to the overview folder, then edit the .YAML file)
 >2. Simplified tabs:
@@ -174,7 +178,3 @@ Deuce Syundai - Design & Text Formatting
 	- Added 6 base parts.
 	- Added 1 finish.
 	- Added 1 optional finish.
-
-
-### Notice:
-SaraShawa Overview Pack did not have a GitHub repository nor it was under any License at the moment of the manual fork and at the moment of creation of this repository.
