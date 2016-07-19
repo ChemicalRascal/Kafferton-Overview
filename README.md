@@ -12,7 +12,7 @@ This, however, is not the Zirio-Syundai Special Overview. This is the Kafferton 
 
 #### Current Version based on: Zirio-Syundai 2.6.1
 - Join *their* Mailing List in-game: Zirio-Syundai Overview
-- See them on [r/EVE](http://www.reddit.com/r/Eve/comments/4s3z9i/introducing_the_ziriosyundai_special_overview_pack/)
+- See them on [r/EVE](https://www.reddit.com/r/Eve/comments/4s3z9i/introducing_the_ziriosyundai_special_overview_pack/)
 - Glance at their [GitHub repository](https://github.com/Arziel1992/Z-S-Overview-Pack)
 
 Zirio-Syundai 2.6.1 credits are as follows:
@@ -31,11 +31,13 @@ At the time of forking 2.6.1, Z-S was licensed under the GNU GPLv3. The Kafferto
 1. Mash your head upon your desk and follow the out-of-game instructions. While modular sets such as those offered by Z-S are currently maintained with the same tweaks, the focus of the Kafferton mod is firmly on the Full overview set, and no guarantees can thus be made about the entirely untested modular sets.
 
 #### Option 2: Out of game:
-1. Go to the Z-S folder and download the "Zirio-Syundai Full.yaml" file.
-2. Go to "C:\Users\YourName\Documents\EVE\Overview" and paste the downloaded file here.
-3. Start the game and open up your Overview Settings ( ≡ button at top left of the Overview window).
-4. Go to the "Misc" tab and click "Import Overview Settings".
-5. Select "Zirio-Syundai Full" on the left list and click "Check All" on the top middle, then click "Import".
+1. Click the green "Clone or download" button located at the top right of the above file list, then click "Download ZIP".
+2. Once downloaded in the folder of your preference, extract the .zip file contents in a folder of your preference.
+3. Go to the most recent version folder and copy the "Zirio-Syundai Full.yaml" file.
+4. Go to "C:\Users\YourName\Documents\EVE\Overview" and paste the downloaded file here.
+5. Start the game and open up your Overview Settings ( ≡ button at top left of the Overview window).
+6. Go to the "Misc" tab and click "Import Overview Settings".
+7. Select "Zirio-Syundai Full" on the left list and click "Check All" on the top middle, then click "Import".
 	- _Some features might not show correctly at first, It may be necessary to Dock and then Undock at any station to reload the UI to apply all changes._
     
 #### How to install previous versions of Z-S Kmod:
@@ -54,11 +56,12 @@ At the time of forking 2.6.1, Z-S was licensed under the GNU GPLv3. The Kafferto
     - Previously, default brackets were (generally) what the overview of each tab was set to.
     - This isn't maintained in modular sets outside of "Core", as these sets don't actually have Bracket presets, and thus changing the brackets in those sets seems like a Bad Idea.
 
-##### Version v2.6.1 (Z-S Pure)
+##### Version v2.6.1 - _Kr0nK's tweaks_ (Z-S Pure)
 >1. Updated Ship Brackets:
 	- Removed "ShipName" variable (completely).
 >2. Reordered Overview Columns:
-	- Added "Tag" coumn.
+	- Added "Tag" coumn:
+		- Easiness of sorting and viewing of target broadcasts during fleet fights.
 >3. Renamed packs:
 	- "Z-S PvE Basic" to "Z-S PvE Basic Extended"
 		- Corrected "Loaded" text to match the pack name.
@@ -73,8 +76,7 @@ At the time of forking 2.6.1, Z-S was licensed under the GNU GPLv3. The Kafferto
 >5. Added presets:
 	- "✥ --- PvP: Basic (No NPC)"
 
-
-##### Version v2.6 (Z-S Pure)
+##### Version v2.6 - _Kithanu, Teroh & Sansh's improved Ship Brackets_ (Z-S Pure)
 >1. Revamped Ship Brackets:
 	- Condensed the information from 4 to 2 rows for legibility in ship clusters.
 	- Recolored the variables for better identification.
@@ -97,15 +99,13 @@ At the time of forking 2.6.1, Z-S was licensed under the GNU GPLv3. The Kafferto
 >5. Added presets:
 	- "※ D-Scan: Pos + Mods (No Cel)" 
 
-
-##### Version v2.5 (Z-S Pure)
+##### Version v2.5 - _Logain's Modular Overhaul_ (Z-S Pure)
 >1. Categorized preset links:
 	- Replaces the split preset part system for a more convenient preset category system, where the player loads the preset category he/she wants/needs, then applies the final Tab Layout.
 	- Made to reduce cluttering of unwanted/unneeded presets.
 >2. Included changes from:
 	- Version v2.3
 	- Version v2.4
-
 
 ##### Version v2.4 (not released, pushed to next version) (Z-S Pure)
 >1. Renamed "Brackets" presets for consistency.
@@ -133,15 +133,13 @@ At the time of forking 2.6.1, Z-S was licensed under the GNU GPLv3. The Kafferto
 	- Added new preset "※ --- D-Scan: All":
 		- Combination of "※ D-Scan: Ships" and "※ D-Scan: Pos All".
 
-
-##### Version v2.2 (Z-S Pure)
+##### Version v2.2 - _Deuce's design improvements_ (Z-S Pure)
 >1. Ranamed "Finishes" to "Tab Layouts".
 >2. Adjusted the sizes of both 6 & 8 Compact Layouts to fit better on smaller screens.
 >3. Increased the Icon size on the presets for better legibility.
 >4. Replaced the Hostile Icon for a more adequate one to fit the new sizes.
 
-
-##### Version v2.1 (Z-S Pure)
+##### Version v2.1 - _Zirio's experiments_ (Z-S Pure)
 >1. Adjusted information rows on Player Ship brackets.
 >2. Updated presets:
 	- Added Fighters to preset "Friendly: All".
@@ -149,8 +147,7 @@ At the time of forking 2.6.1, Z-S was licensed under the GNU GPLv3. The Kafferto
 	- Added Custom Offices to preset "Structures".
 	- Corrected typo on preset "PvP: Normal".
 
-
-##### Version v2.0 (Z-S Pure)
+##### Version v2.0 - _Zirio's renovation_ (Z-S Pure)
 >1. Rewrote the entirety of the code for consistency, readability, compactness and scalability.
 >2. Adjusted split imports:
 	- Adjusted into 4 base parts.
@@ -165,8 +162,7 @@ At the time of forking 2.6.1, Z-S was licensed under the GNU GPLv3. The Kafferto
 >5. Added presets:
 	- Added "PvE: Incursion: preset.
 
-
-##### Version v1.0 (Z-S Pure)
+##### Version v1.0 - _Zirio's tweaks_ (Z-S Pure)
 >1. Manual fork from SaraShawa-Overview Pack v9.1.
 	- (Export pack from the game to the overview folder, then edit the .YAML file)
 >2. Simplified tabs:
