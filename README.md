@@ -6,7 +6,7 @@ What started as a stop-gap measure to bring the SaraShawa overview up-to-date fo
 If you're familiar with SaraShawa, it shouldn't take too long to adjust to the changes.
 
 ##### New features include:
-- Choice of Full-Size or Compact 6- or 8-Tab Layouts that can be swapped at any time without reloading the entire pack.
+- Choice of Full-Size or Compact 6-Tab Layouts that can be swapped at any time without reloading the entire pack.
 - Modular Setup: Load the Preset Packs you need, not the ones you don't.
 - New presets, including dedicated Faction Warfare and Incursion presets.
 - [Color-coded presets by category for improved ease of selection.](http://prntscr.com/br0kp1)
@@ -15,9 +15,9 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 - For Release: 118.6
 - Updated: 2016.07.24 EVE Calendar
 - Join our Mailing List in-game: Zirio-Syundai Overview
-- Visit us on [Reddit r/EVE](https://www.reddit.com/r/Eve/comments/4s3z9i/introducing_the_ziriosyundai_special_overview_pack/)
+- Visit us on [Reddit](https://www.reddit.com/r/Eve/comments/4s3z9i/introducing_the_ziriosyundai_special_overview_pack/)
 
-Zirio - YAML Coding & Pack Maintenence  
+Zirio - YAML Coding & Pack Maintenence
 Deuce Syundai - Design & Text Formatting
 
 ### How to install
@@ -29,9 +29,6 @@ Deuce Syundai - Design & Text Formatting
 6. Go to the "Misc" tab and click "Import Overview Settings".
 7. Select "Zirio-Syundai Full" on the left list and click "Check All" on the top middle, then click "Import".
 	- _Some features might not show correctly at first, It may be necessary to Dock and then Undock at any station to reload the UI to apply all changes._
-
-### Popular Forks
-- [Zirio-Syundai Special Overview, Kafferton Mod](https://github.com/ChemicalRascal/Z-S-Overview-Kafferton-Mod)
 
 ### Preset list
 - ⌘ --- Brackets: All
@@ -263,7 +260,7 @@ Deuce Syundai - Design & Text Formatting
 	- Added 1 optional finish.
 
 ### License  
-Overview Pack licensed under "GNU GENERAL PUBLIC LICENSE - Version 3, 29 June 2007"  
+Overview Pack licensed under "GNU GENERAL PUBLIC LICENSE - Version 3, 29 June 2007"
 Further documentation in the LICENSE file.
 
 ### Notice  
