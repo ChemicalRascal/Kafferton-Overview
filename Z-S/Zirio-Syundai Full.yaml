@@ -4067,7 +4067,7 @@ presets:
         - 1735
         - 1736
         - 1737
-- - '<color=0xFFFF6666><fontsize=12>✥</fontsize> --- PvP: Basic (+NPC +Neut)</color>'
+- - '<color=0xFFFF6666><fontsize=12>✥</fontsize> --- PvP: Basic (+Neut +NPC)</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -4366,7 +4366,102 @@ presets:
         - 1735
         - 1736
         - 1737
-- - '<color=0xFFFF6666><fontsize=12>✥</fontsize> --- PvP: Basic (+NPC -Neut)</color>'
+- - '<color=0xFFFF6666><fontsize=12>✥</fontsize> --- PvP: Basic (+Neut -NPC)</color>'
+  - - - alwaysShownStates
+      - []
+    - - filteredStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 21
+        - 45
+        - 49
+    - - groups
+      - - 6
+        - 10
+        - 15
+        - 25
+        - 26
+        - 27
+        - 28
+        - 29
+        - 30
+        - 31
+        - 90
+        - 237
+        - 286
+        - 306
+        - 310
+        - 324
+        - 358
+        - 361
+        - 365
+        - 366
+        - 380
+        - 381
+        - 383
+        - 411
+        - 419
+        - 420
+        - 463
+        - 479
+        - 485
+        - 492
+        - 513
+        - 540
+        - 541
+        - 543
+        - 547
+        - 548
+        - 659
+        - 707
+        - 830
+        - 831
+        - 832
+        - 833
+        - 834
+        - 835
+        - 836
+        - 838
+        - 839
+        - 863
+        - 864
+        - 883
+        - 893
+        - 894
+        - 897
+        - 898
+        - 900
+        - 902
+        - 906
+        - 925
+        - 941
+        - 963
+        - 988
+        - 1003
+        - 1005
+        - 1012
+        - 1022
+        - 1149
+        - 1201
+        - 1202
+        - 1249
+        - 1273
+        - 1274
+        - 1275
+        - 1276
+        - 1283
+        - 1305
+        - 1312
+        - 1316
+        - 1527
+        - 1534
+        - 1538
+        - 1657
+        - 1731
+- - '<color=0xFFFF6666><fontsize=12>✥</fontsize> --- PvP: Basic (-Neut +NPC)</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -4667,102 +4762,7 @@ presets:
         - 1735
         - 1736
         - 1737
-- - '<color=0xFFFF6666><fontsize=12>✥</fontsize> --- PvP: Basic (-NPC +Neut)</color>'
-  - - - alwaysShownStates
-      - []
-    - - filteredStates
-      - - 11
-        - 12
-        - 14
-        - 15
-        - 16
-        - 21
-        - 45
-        - 49
-    - - groups
-      - - 6
-        - 10
-        - 15
-        - 25
-        - 26
-        - 27
-        - 28
-        - 29
-        - 30
-        - 31
-        - 90
-        - 237
-        - 286
-        - 306
-        - 310
-        - 324
-        - 358
-        - 361
-        - 365
-        - 366
-        - 380
-        - 381
-        - 383
-        - 411
-        - 419
-        - 420
-        - 463
-        - 479
-        - 485
-        - 492
-        - 513
-        - 540
-        - 541
-        - 543
-        - 547
-        - 548
-        - 659
-        - 707
-        - 830
-        - 831
-        - 832
-        - 833
-        - 834
-        - 835
-        - 836
-        - 838
-        - 839
-        - 863
-        - 864
-        - 883
-        - 893
-        - 894
-        - 897
-        - 898
-        - 900
-        - 902
-        - 906
-        - 925
-        - 941
-        - 963
-        - 988
-        - 1003
-        - 1005
-        - 1012
-        - 1022
-        - 1149
-        - 1201
-        - 1202
-        - 1249
-        - 1273
-        - 1274
-        - 1275
-        - 1276
-        - 1283
-        - 1305
-        - 1312
-        - 1316
-        - 1527
-        - 1534
-        - 1538
-        - 1657
-        - 1731
-- - '<color=0xFFFF6666><fontsize=12>✥</fontsize> --- PvP: Basic (-NPC -Neut)</color>'
+- - '<color=0xFFFF6666><fontsize=12>✥</fontsize> --- PvP: Basic (-Neut -NPC)</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -7029,7 +7029,7 @@ presets:
         - 1652
         - 1653
         - 1657
-- - '<color=0xFFFD96CF><fontsize=12>※</fontsize> D-Scan: POS (+Mods +Cel)</color>'
+- - '<color=0xFFFD96CF><fontsize=12>※</fontsize> D-Scan: POS (+Cel +Mods)</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -7089,54 +7089,7 @@ presets:
         - 1212
         - 1247
         - 1282
-- - '<color=0xFFFD96CF><fontsize=12>※</fontsize> D-Scan: POS (+Mods -Cel)</color>'
-  - - - alwaysShownStates
-      - []
-    - - filteredStates
-      - []
-    - - groups
-      - - 90
-        - 311
-        - 361
-        - 363
-        - 365
-        - 397
-        - 404
-        - 413
-        - 416
-        - 417
-        - 426
-        - 430
-        - 438
-        - 439
-        - 440
-        - 441
-        - 443
-        - 444
-        - 449
-        - 471
-        - 473
-        - 479
-        - 548
-        - 707
-        - 709
-        - 837
-        - 838
-        - 839
-        - 863
-        - 864
-        - 1149
-        - 1212
-        - 1249
-        - 1282
-        - 1404
-        - 1405
-        - 1406
-        - 1407
-        - 1408
-        - 1409
-        - 1410
-- - '<color=0xFFFD96CF><fontsize=12>※</fontsize> D-Scan: POS (-Mods +Cel)</color>'
+- - '<color=0xFFFD96CF><fontsize=12>※</fontsize> D-Scan: POS (+Cel -Mods)</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -7185,7 +7138,54 @@ presets:
         - 1082
         - 1149
         - 1247
-- - '<color=0xFFFD96CF><fontsize=12>※</fontsize> D-Scan: Ships (-Cel)</color>'
+- - '<color=0xFFFD96CF><fontsize=12>※</fontsize> D-Scan: POS (-Cel +Mods)</color>'
+  - - - alwaysShownStates
+      - []
+    - - filteredStates
+      - []
+    - - groups
+      - - 90
+        - 311
+        - 361
+        - 363
+        - 365
+        - 397
+        - 404
+        - 413
+        - 416
+        - 417
+        - 426
+        - 430
+        - 438
+        - 439
+        - 440
+        - 441
+        - 443
+        - 444
+        - 449
+        - 471
+        - 473
+        - 479
+        - 548
+        - 707
+        - 709
+        - 837
+        - 838
+        - 839
+        - 863
+        - 864
+        - 1149
+        - 1212
+        - 1249
+        - 1282
+        - 1404
+        - 1405
+        - 1406
+        - 1407
+        - 1408
+        - 1409
+        - 1410
+- - '<color=0xFFFD96CF><fontsize=12>※</fontsize> D-Scan: Ships (-Cel +Dro)</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -7210,6 +7210,7 @@ presets:
         - 419
         - 420
         - 463
+        - 479
         - 485
         - 513
         - 540
@@ -7217,6 +7218,7 @@ presets:
         - 543
         - 544
         - 547
+        - 548
         - 639
         - 640
         - 641
@@ -7255,6 +7257,71 @@ presets:
         - 1538
         - 1652
         - 1653
+        - 1657
+- - '<color=0xFFFD96CF><fontsize=12>※</fontsize> D-Scan: Ships (-Cel -Dro)</color>'
+  - - - alwaysShownStates
+      - []
+    - - filteredStates
+      - []
+    - - groups
+      - - 25
+        - 26
+        - 27
+        - 28
+        - 29
+        - 30
+        - 31
+        - 237
+        - 324
+        - 358
+        - 361
+        - 365
+        - 380
+        - 381
+        - 411
+        - 419
+        - 420
+        - 463
+        - 479
+        - 485
+        - 513
+        - 540
+        - 541
+        - 543
+        - 547
+        - 548
+        - 659
+        - 830
+        - 831
+        - 832
+        - 833
+        - 834
+        - 883
+        - 893
+        - 894
+        - 898
+        - 900
+        - 902
+        - 906
+        - 941
+        - 963
+        - 1022
+        - 1149
+        - 1201
+        - 1202
+        - 1249
+        - 1283
+        - 1305
+        - 1404
+        - 1405
+        - 1406
+        - 1407
+        - 1408
+        - 1409
+        - 1410
+        - 1527
+        - 1534
+        - 1538
         - 1657
 shipLabelOrder:
 - ship type
@@ -7374,11 +7441,11 @@ tabSetup:
       - '<color=0xFFFFFFFF><fontsize=12>✈</fontsize> --- Travel: Basic</color>'
 - - 1
   - - - bracket
-      - '<color=0xFFFF6666><fontsize=12>✥</fontsize> --- PvP: Basic (+NPC +Neut)</color>'
+      - '<color=0xFFFF6666><fontsize=12>✥</fontsize> --- PvP: Basic (+Neut +NPC)</color>'
     - - name
       - '<fontsize=11><color=0xFFFF6666><b>  Combat  </b></color></fontsize>'
     - - overview
-      - '<color=0xFFFF6666><fontsize=12>✥</fontsize> --- PvP: Basic (+NPC +Neut)</color>'
+      - '<color=0xFFFF6666><fontsize=12>✥</fontsize> --- PvP: Basic (+Neut +NPC)</color>'
 - - 2
   - - - bracket
       - '<color=0xFFFF6666><fontsize=12>✥</fontsize> Target: Drones</color>'

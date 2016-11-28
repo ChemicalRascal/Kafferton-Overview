@@ -1,11 +1,11 @@
 # Zirio-Syundai Special Overview
 ### Overview Pack for EVE Online
 
-The Zirio-Syundai Special™ Overview was created to provide a generalized, user-friendly, 6- or 8-tab overview, ready to use as-is with room to be tailored as needed.
+The Zirio-Syundai Special™ Overview was created to provide a generalized, user-friendly, 6-Tab Overview, ready to use as-is with room to be tailored as needed.
 What started as a stop-gap measure to bring the SaraShawa overview up-to-date for 118.6 instead snowballed into a complete re-write of the .yaml file and total overhaul of the visuals.
 If you're familiar with SaraShawa, it shouldn't take too long to adjust to the changes.
 
-**Zirio** - YAML Coding & Pack Maintenence  
+**Zirio** - YAML Coding & Pack Maintenence
 **Deuce Syundai** - Design & Text Formatting
 
 ##### New features include:
@@ -14,9 +14,9 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 - New presets, including dedicated Faction Warfare and Incursion presets.
 - Color-coded presets by category for improved ease of selection.
 
-#### Current Version: v3.06.0523
+#### Current Version: v3.0.2
 - For Release: **118.7**
-- Updated: **2016.08.17**
+- Updated: **2016.08.23**
 
 #### Links
 - Mailing List in-game: **Zirio-Syundai Overview**
@@ -37,7 +37,7 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
     ⌘ Brackets: Default
     ⌘ Brackets: Hostile
     ⌘ Brackets: None
-    ⌘ Brackets: Skirmirsh 
+    ⌘ Brackets: Skirmirsh
     ➲ Extra: Align Points
     ➲ Extra: Podsaver (!)
     ✈ --- Travel: Basic
@@ -50,10 +50,10 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
     ✜ PvE: Mining
     ✜ PvE: Ratting
     ✜ PvE: Salvage/Loot
-    ✥ --- PvP: Basic (+NPC +Neut)
-    ✥ --- PvP: Basic (+NPC -Neut)
-    ✥ --- PvP: Basic (-NPC +Neut)
-    ✥ --- PvP: Basic (-NPC -Neut)
+    ✥ --- PvP: Basic (+Neut +NPC)
+    ✥ --- PvP: Basic (+Neut -NPC)
+    ✥ --- PvP: Basic (-Neut +NPC)
+    ✥ --- PvP: Basic (-Neut -NPC)
     ✥ --- PvP: FW
     ✥ -- Ships only
     ✥ = Bombing Warpouts
@@ -91,23 +91,44 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
     ✪ Friendly: Recons
     ✪ Friendly: SC/T
     ※ --- D-Scan: All
-    ※ D-Scan: POS (+Mod +Cel)
-    ※ D-Scan: POS (+Mod -Cel)
-    ※ D-Scan: POS (-Mod +Cel)
-    ※ D-Scan: Ships (-Cel)
+    ※ D-Scan: POS (+Cel +Mod)
+    ※ D-Scan: POS (+Cel -Mod)
+    ※ D-Scan: POS (-Cel +Mod)
+    ※ D-Scan: Ships (-Cel +Dro)
+    ※ D-Scan: Ships (-Cel -Dro)
 
 #### Nomenclature
-    - Dro:  Drone(s) & Fighter(s)
-    - NPC:  Rat(s) - Non-Player Character(s)
-    - Neut: Neutral(s)
-    - Mod:  Module(s)
     - Cel:  Celestial(s)
+    - Dro:  Drone(s) & Fighter(s)
+    - Neut: Neutral(s)
+    - NPC:  Rat(s) - Non-Player Character(s)
+    - Mod:  Module(s)
 
 ### Changelog
 ##### A note on versioning:
 > The version numbers listed here are not identical to upstream version numbers. Versions are renumbered here in order to attempt to maintain semver.
 
-##### Version v3.06.0523 - 118.7 - _Strawpoll results tweaks_
+##### Version v3.0.2 - 118.7 - _Cixin Airuta's illumination_
+>1. Changed presets:
+    - Renamed "✥ --- PvP: Basic (+NPC +Neut)" to "✥ --- PvP: Basic (+Neut +NPC)"
+    - Renamed "✥ --- PvP: Basic (+NPC -Neut)" to "✥ --- PvP: Basic (-Neut +NPC)"
+    - Renamed "✥ --- PvP: Basic (-NPC +Neut)" to "✥ --- PvP: Basic (+Neut -NPC)"
+    - Renamed "✥ --- PvP: Basic (-NPC -Neut)" to "✥ --- PvP: Basic (-Neut -NPC)"
+    - Renamed "※ D-Scan: POS (+Mod +Cel)" to "※ D-Scan: POS (+Cel +Mod)"
+    - Renamed "※ D-Scan: POS (+Mod -Cel)" to "※ D-Scan: POS (-Cel +Mod)"
+    - Renamed "※ D-Scan: POS (-Mod +Cel)" to "※ D-Scan: POS (+Cel -Mod)"
+    - Renamed "※ D-Scan: Ships (-Cel)" to "※ D-Scan: Ships (-Cel +Dro)"
+    - Added "※ D-Scan: Ships (-Cel -Dro)"
+>2. Updated presets:
+    - Added Charge:
+        - "Scanner Probe" to:
+            - "※ D-Scan: Ships (-Cel +Dro)"
+            - "※ D-Scan: Ships (-Cel -Dro)"
+        - "Interdiction Probe" to:
+            - "※ D-Scan: Ships (-Cel +Dro)"
+            - "※ D-Scan: Ships (-Cel -Dro)"
+
+##### Version v3.0.1 - 118.7 - _Strawpoll results tweaks_
 >1. Added a new "Z-S Full Unstylized Presets.yaml" import file.
     - SK: _This is_ **not** _present in the Kafferton mod repo, and will be removed from future trees in kind._
     - It'll allow the player to save any changes to the presets without breaking the preset name entirely.
@@ -332,7 +353,7 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 		- "※ D-Scan: Pos All" to "※ D-Scan: Pos + Mods (Cel)"
 		- "※ D-Scan: Ships" to "※ D-Scan: Ships (No Cel)"
 	- Updated "✜ PvE: Incursion":
-		- Added the most widely used and useful entities. 
+		- Added the most widely used and useful entities.
 
 ##### Version v2.5 - _Logain's Modular Overhaul_
 >1. Categorized preset links:
@@ -409,9 +430,9 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 	- Added 1 finish.
 	- Added 1 optional finish.
 
-### License  
+### License
 Overview Pack licensed under "GNU GENERAL PUBLIC LICENSE - Version 3, 29 June 2007"
 Further documentation in the LICENSE file.
 
-## Notice  
+## Notice
 SaraShawa Overview Pack did not have a GitHub repository nor it was under any License at the moment of the manual fork and at the moment of creation of this repository.
