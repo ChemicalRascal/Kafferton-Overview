@@ -2,23 +2,25 @@
 ### Overview Pack for EVE Online
 
 The Zirio-Syundai Special™ Overview was created to provide a generalized, user-friendly, 6- or 8-tab overview, ready to use as-is with room to be tailored as needed.
-What started as a stop-gap measure to bring the SaraShawa overview up-to-date for 118.6 instead snowballed into a complete re-write of the .yaml file and [total overhaul of the visuals.](http://prntscr.com/br0lar)
+What started as a stop-gap measure to bring the SaraShawa overview up-to-date for 118.6 instead snowballed into a complete re-write of the .yaml file and total overhaul of the visuals.
 If you're familiar with SaraShawa, it shouldn't take too long to adjust to the changes.
+
+**Zirio** - YAML Coding & Pack Maintenence  
+**Deuce Syundai** - Design & Text Formatting
 
 ##### New features include:
 - Choice of Full-Size or Compact 6-Tab Layouts that can be swapped at any time without reloading the entire pack.
 - Modular Setup: Load the Preset Packs you need, not the ones you don't.
 - New presets, including dedicated Faction Warfare and Incursion presets.
-- [Color-coded presets by category for improved ease of selection.](http://prntscr.com/br0kp1)
+- Color-coded presets by category for improved ease of selection.
 
 #### Current Version: v3.05.0522
-- For Release: 118.7
-- Updated: 2016.08.11
-- Join our Mailing List in-game: Zirio-Syundai Overview
-- Visit us on: [Reddit](https://www.reddit.com/r/Eve/comments/4s3z9i/introducing_the_ziriosyundai_special_overview_pack/) - [Slack](https://tweetfleet.slack.com/messages/zs-overview-dev/)
+- For Release: **118.7**
+- Updated: **2016.08.11**
 
-Zirio - YAML Coding & Pack Maintenence
-Deuce Syundai - Design & Text Formatting
+#### Links
+- Mailing List in-game: **Zirio-Syundai Overview**
+- Visit us on: **[Reddit](https://www.reddit.com/r/Eve/comments/4s3z9i/introducing_the_ziriosyundai_special_overview_pack/) - [Slack](https://tweetfleet.slack.com/messages/zs-overview-dev/)**
 
 ### How to install
 1. Click the green "Clone or download" button located at the top right of the above file list, then click "Download ZIP".
@@ -105,6 +107,27 @@ Deuce Syundai - Design & Text Formatting
 ##### A note on versioning:
 > The version numbers listed here are not identical to upstream version numbers. Versions are renumbered here in order to attempt to maintain semver.
 
+##### Version v3.06.0523 - 118.7 - _Strawpoll results tweaks_
+>1. Added a new "Z-S Full Unstylized Presets.yaml" import file.
+    - SK: _This is_ **not** _present in the Kafferton mod repo, and will be removed from future trees in kind._
+    - It'll allow the player to save any changes to the presets without breaking the preset name entirely.
+        - Will not show styling tags anymore (`<color>` & `<fontsize>`).
+        - The presets will have the Default colouring.
+        - The presets will have the Default font size.
+    - Currently when a player saves an edited preset, the system prompts to input a name for it. The input field's character limit will cut some pre-added names.
+    - The file will only be available via download from GitHub and the player will have to import it manually into the game.
+        - This will avoid creating a new Mailing List and Channel due to character limits in both the Welcoming Mail and MOTD respectively.
+    - We will contact CCP regarding a small update to the Overview input fields that will allow to:
+        - Input longer names.
+        - Input Capital letters.
+        - Input styling tags (`<color>` & `<fontsize>`).
+>2. Updated presets:
+    - Removed Orbital:
+        - "Orbital Infrastructure" from:
+            - "✥ --- PvP: Basic (+NPC +Neut)"
+            - "✥ --- PvP: Basic (+NPC -Neut)"
+            - "✥ --- PvP: Basic (-NPC +Neut)"
+            - "✥ --- PvP: Basic (-NPC -Neut)"
 
 ##### Version v3.0.0 - _118.7 Release - Bug fixing, Tweaking & Cleaning_
 >SK: In the intergration of this version, non-"full" variations of the overview pack were removed from the tree. Future versions of the Kafferton mod, even on the stock branch, will continue to remove all but the "full" .yaml. This is to ease maintenance and is based on the understanding that the user is capable of selecting which particulars they wish to import.
