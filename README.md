@@ -12,10 +12,10 @@ This, however, is not the Zirio-Syundai Special Overview. This is the Kafferton 
 
 #### Current Version: v3.0.2m1
 - For Release: **118.7**
-- Updated: **2016.08.23**
+- Updated: **2016.11.29**
 
 #### Current Version based on: Zirio-Syundai 3.0.2 (3.06.1425)
-- Join *their* Mailing List in-game: Zirio-Syundai Overview
+- Join their mailing list in-game: Zirio-Syundai Overview
 - See them on [Reddit](https://www.reddit.com/r/Eve/comments/4s3z9i/introducing_the_ziriosyundai_special_overview_pack/)
 - Glance at their [GitHub repository](https://github.com/Arziel1992/Z-S-Overview-Pack)
 
@@ -32,14 +32,16 @@ At the time of forking, Z-S was licensed under the GNU GPLv3. The Kafferton Mod 
 ### How to install
 1. Click the green "Clone or download" button located at the top right of the above file list, then click "Download ZIP".
 2. Once downloaded in the folder of your preference, extract the .zip file contents in a folder of your preference.
-3. Go to the most recent version folder and copy the "Zirio-Syundai Full.yaml" file.
-4. Go to "C:\Users\YourName\Documents\EVE\Overview" and paste the downloaded file here.
-5. Start the game and open up your Overview Settings ( ≡ button at top left of the Overview window).
-6. Go to the "Misc" tab and click "Import Overview Settings".
-7. Select "Zirio-Syundai Full" on the left list and click "Check All" on the top middle, then click "Import".
-	- _Some features might not show correctly at first, It may be necessary to Dock and then Undock at any station to reload the UI to apply all changes._
+3. Copy the "Zirio-Syundai Full.yaml" file to "C:\Users\**<USERNAME>**\Documents\EVE\Overview".
+4. Start the game and open up your Overview Settings ( ≡ button at top left of the Overview window).
+5. Go to the "Misc" tab and click "Import Overview Settings".
+6. Select "Zirio-Syundai Full" on the left list and click "Check All" on the top middle, then click "Import".
+   - Optionally, you can be clever and not import all of the presets, for whatever reason you choose! Make choices! Do things! Live life to the full!
 
-#### Preset list
+### Feedback
+If you really, really want to provide feedback... Just EVE-Mail me. Or open an issue. I dunno, whatever works for you.
+
+### Preset list
     ⌘ --- Brackets: All
     ⌘ Brackets: Default
     ⌘ Brackets: Hostile
