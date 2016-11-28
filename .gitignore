@@ -1,0 +1,37 @@
+# This .gitignore was actually copied from my (abandoned, meaningless) fork of zstd, which is why it's full of stuff I can't be bothered to remove.
+
+# Object files
+*.o
+*.ko
+*.dSYM
+
+# Libraries
+*.lib
+*.a
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Test artefacts
+tmp*
+dictionary*
+
+# Other files
+.directory
+_codelite/
+_zstdbench/
+.clang_complete
+*.idea
+*.swp
+.DS_Store
+googletest/
+*.d
+*~

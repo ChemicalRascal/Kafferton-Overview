@@ -11,11 +11,11 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 - New presets, including dedicated Faction Warfare and Incursion presets.
 - [Color-coded presets by category for improved ease of selection.](http://prntscr.com/br0kp1)
 
-#### Current Version: v2.66.2012
-- For Release: 118.6
-- Updated: 2016.07.24 EVE Calendar
+#### Current Version: v3.05.0522
+- For Release: 118.7
+- Updated: 2016.08.11
 - Join our Mailing List in-game: Zirio-Syundai Overview
-- Visit us on [Reddit](https://www.reddit.com/r/Eve/comments/4s3z9i/introducing_the_ziriosyundai_special_overview_pack/)
+- Visit us on: [Reddit](https://www.reddit.com/r/Eve/comments/4s3z9i/introducing_the_ziriosyundai_special_overview_pack/) - [Slack](https://tweetfleet.slack.com/messages/zs-overview-dev/)
 
 Zirio - YAML Coding & Pack Maintenence
 Deuce Syundai - Design & Text Formatting
@@ -30,87 +30,212 @@ Deuce Syundai - Design & Text Formatting
 7. Select "Zirio-Syundai Full" on the left list and click "Check All" on the top middle, then click "Import".
 	- _Some features might not show correctly at first, It may be necessary to Dock and then Undock at any station to reload the UI to apply all changes._
 
-### Preset list
-- ⌘ --- Brackets: All
-- ⌘ Brackets: Default
-- ⌘ Brackets: Hostile
-- ⌘ Brackets: None
-- ⌘ Brackets: Skirmirsh 
-- ➲ Extra: Align Points
-- ➲ Extra: Podsaver (!)
-- ✈ --- Travel: Basic
-- ✈ Travel: Hide Stations
-- ✈ Travel: Show All
-- ✜ --- PvE: Basic
-- ✜ PvE: Anoms
-- ✜ PvE: Incursion
-- ✜ PvE: Mining
-- ✜ PvE: Ratting
-- ✜ PvE: Salvage/Loot
-- ✜ PvE: Show Drones
-- ✥ --- PvP: Basic (+NPC +Neut)
-- ✥ --- PvP: Basic (+NPC -Neut)
-- ✥ --- PvP: Basic (-NPC +Neut)
-- ✥ --- PvP: Basic (-NPC -Neut)
-- ✥ --- PvP: FW
-- ✥ -- Ships only
-- ✥ = Bombing Warpouts
-- ✥ = Deployables
-- ✥ = NPSI
-- ✥ = Structures
-- ✥ = Wartargets
-- ✥ Target: Antibombers (!)
-- ✥ Target: Battlecruisers
-- ✥ Target: Battleships
-- ✥ Target: Caps
-- ✥ Target: Carriers
-- ✥ Target: Cmd Dest
-- ✥ Target: Cruisers
-- ✥ Target: CS/T3
-- ✥ Target: Dictors
-- ✥ Target: Dreads
-- ✥ Target: Drones
-- ✥ Target: Fax
-- ✥ Target: Fighters
-- ✥ Target: Frig/Dest
-- ✥ Target: Logistics
-- ✥ Target: Recons
-- ✥ Target: SC/T
-- ✥ Target: Supercarriers
-- ✥ Target: Titans
-- ✪ --- Friendly: All
-- ✪ = Friendly: Fleet
-- ✪ Friendly: Capitals
-- ✪ Friendly: Carriers
-- ✪ Friendly: Dictors
-- ✪ Friendly: Dreads
-- ✪ Friendly: Logistic
-- ✪ Friendly: Recons
-- ✪ Friendly: SC/T
-- ※ --- D-Scan: All
-- ※ D-Scan: POS (+Mods +Celes)
-- ※ D-Scan: POS (+Mods -Celes)
-- ※ D-Scan: POS (-Mods +Celes)
-- ※ D-Scan: Ships (-Celes)
+#### Preset list
+    ⌘ --- Brackets: All
+    ⌘ Brackets: Default
+    ⌘ Brackets: Hostile
+    ⌘ Brackets: None
+    ⌘ Brackets: Skirmirsh 
+    ➲ Extra: Align Points
+    ➲ Extra: Podsaver (!)
+    ✈ --- Travel: Basic
+    ✈ Travel: Hide Stations
+    ✈ Travel: Show All
+    ✜ --- PvE: Basic (+Dro)
+    ✜ --- PvE: Basic (-Dro)
+    ✜ PvE: Anoms
+    ✜ PvE: Incursion
+    ✜ PvE: Mining
+    ✜ PvE: Ratting
+    ✜ PvE: Salvage/Loot
+    ✥ --- PvP: Basic (+NPC +Neut)
+    ✥ --- PvP: Basic (+NPC -Neut)
+    ✥ --- PvP: Basic (-NPC +Neut)
+    ✥ --- PvP: Basic (-NPC -Neut)
+    ✥ --- PvP: FW
+    ✥ -- Ships only
+    ✥ = Bombing Warpouts
+    ✥ = Deployables
+    ✥ = NPSI
+    ✥ = Structures
+    ✥ = Wartargets
+    ✥ Target: Antibombers (!)
+    ✥ Target: Battlecruisers
+    ✥ Target: Battleships
+    ✥ Target: Caps
+    ✥ Target: Carriers
+    ✥ Target: Cmd Dest
+    ✥ Target: Cruisers
+    ✥ Target: CS/T3
+    ✥ Target: Dictors
+    ✥ Target: Dreads
+    ✥ Target: Drones
+    ✥ Target: Fax
+    ✥ Target: Fighters
+    ✥ Target: Frig/Dest
+    ✥ Target: Logistics
+    ✥ Target: Recons
+    ✥ Target: SC/T
+    ✥ Target: Supercarriers
+    ✥ Target: Titans
+    ✪ --- Friendly: All (+Dro)
+    ✪ --- Friendly: All (-Dro)
+    ✪ = Friendly: Fleet
+    ✪ Friendly: Capitals
+    ✪ Friendly: Carriers
+    ✪ Friendly: Dictors
+    ✪ Friendly: Dreads
+    ✪ Friendly: Logistic
+    ✪ Friendly: Recons
+    ✪ Friendly: SC/T
+    ※ --- D-Scan: All
+    ※ D-Scan: POS (+Mod +Cel)
+    ※ D-Scan: POS (+Mod -Cel)
+    ※ D-Scan: POS (-Mod +Cel)
+    ※ D-Scan: Ships (-Cel)
+
+#### Nomenclature
+    - Dro:  Drone(s) & Fighter(s)
+    - NPC:  Rat(s) - Non-Player Character(s)
+    - Neut: Neutral(s)
+    - Mod:  Module(s)
+    - Cel:  Celestial(s)
 
 ### Changelog
 ##### A note on versioning:
 > The version numbers listed here are not identical to upstream version numbers. Versions are renumbered here in order to attempt to maintain semver.
+
+
+##### Version v3.0.0 - _118.7 Release - Bug fixing, Tweaking & Cleaning_
+>SK: In the intergration of this version, non-"full" variations of the overview pack were removed from the tree. Future versions of the Kafferton mod, even on the stock branch, will continue to remove all but the "full" .yaml. This is to ease maintenance and is based on the understanding that the user is capable of selecting which particulars they wish to import.
+>1. Implemented standard nomenclatures.
+>2. Renamed "Ship Bracket Row" (SBR) to "Ship Bracket Line" (SBL)
+    - Updated Layout names accordingly.
+>3. Changed presets:
+    - Renamed "✜ --- PvE: Basic" to "✜ --- PvE: Basic (+Dro)"
+    - Renamed "✪ --- Friendly: All" to "✪ --- Friendly: All (+Dro)"
+    - Added "✪ --- Friendly: All (-Dro)"
+    - Added "✜ --- PvE: Basic (-Dro)"
+    - Removed "✜ PvE: Show Drones"
+>4. Updated presets:
+    - Updated NPC:
+        - "Pirate NPC" on:
+            - "✜ --- PvE: Basic (+Dro)"
+            - "✜ --- PvE: Basic (-Dro)"
+            - "✜ PvE: Anoms"
+            - "✜ PvE: Mining"
+            - "✜ PvE: Ratting"
+            - "✥ --- PvP: Basic (+NPC +Neut)"
+            - "✥ --- PvP: Basic (+NPC -Neut)"
+            - "✥ --- PvP: FW"
+    - Added Celestial:
+        - "Force Field" to:
+            - "✥ --- PvP: Basic (+NPC +Neut)"
+            - "✥ --- PvP: Basic (+NPC -Neut)"
+            - "✥ --- PvP: Basic (-NPC +Neut)"
+            - "✥ --- PvP: Basic (-NPC -Neut)"
+    - Added Charge:
+        - Several to:
+            - "※ D-Scan: POS (+Mod -Cel)"
+    - Added Drones:
+        - "Combat Drone" to:
+            - "※ --- D-Scan: All"
+            - "※ D-Scan: POS (+Mod +Cel)"
+        - Several to:
+            - "※ D-Scan: Ships (-Cel)"
+    - Added Fighters:
+        - All to:
+            - "※ --- D-Scan: All"
+            - "※ D-Scan: Ships (-Cel)"
+    - Added Orbital:
+        - "Orbital Infrastructure" to:
+            - "✥ --- PvP: Basic (+NPC +Neut)"
+            - "✥ --- PvP: Basic (+NPC -Neut)"
+            - "✥ --- PvP: Basic (-NPC +Neut)"
+            - "✥ --- PvP: Basic (-NPC -Neut)"
+            - "※ --- D-Scan: All"
+    - Added Sovereignty Structures:
+        - "Sovereignty Blockade Unit" to:
+            - "✥ --- PvP: Basic (+NPC +Neut)"
+            - "✥ --- PvP: Basic (+NPC -Neut)"
+            - "✥ --- PvP: Basic (-NPC +Neut)"
+            - "✥ --- PvP: Basic (-NPC -Neut)"
+    - Added Starbase:
+        - "Control Tower" to:
+            - "✥ --- PvP: Basic (+NPC +Neut)"
+            - "✥ --- PvP: Basic (+NPC -Neut)"
+            - "✥ --- PvP: Basic (-NPC +Neut)"
+            - "✥ --- PvP: Basic (-NPC -Neut)"
+        - Several to:
+            - "※ D-Scan: POS (-Mod +Cel)"
+    - Added Structure:
+        - "Citadel" to:
+            - "✜ PvE: Anoms"
+            - "✜ PvE: Incursion"
+            - "✜ PvE: Ratting"
+            - "✜ PvE: Salvage/Loot"
+    - Removed Asteroids:
+        - All from:
+            - "※ --- D-Scan: All"
+            - "※ D-Scan: POS (+Mod +Cel)"
+            - "※ D-Scan: POS (-Mod +Cel)"
+    - Removed Celestial:
+        - Several from:
+            - "※ --- D-Scan: All"
+            - "※ D-Scan: POS (+Mod +Cel)"
+            - "※ D-Scan: POS (-Mod +Cel)"
+    - Removed Charge:
+        - "Survey Probe" from:
+            - "※ --- D-Scan: All"
+            - "※ D-Scan: POS (+Mod +Cel)"
+            - "※ D-Scan: POS (-Mod +Cel)"
+            - "※ D-Scan: Ships (-Cel)"
+    - Removed Drones:
+        - Several from:
+            - "※ D-Scan: POS (+Mod +Cel)"
+            - "※ D-Scan: POS (-Mod +Cel)"
+    - Removed Entity:
+        - All from:
+            - "※ --- D-Scan: All"
+            - "※ D-Scan: POS (+Mod +Cel)"
+            - "※ D-Scan: POS (-Mod +Cel)"
+    - Removed NPC:
+        - "Mission NPC" from:
+            - "※ --- D-Scan: All"
+            - "※ D-Scan: POS (+Mod +Cel)"
+            - "※ D-Scan: POS (-Mod +Cel)"
+        - "Pirate NPC" from:
+            - "※ --- D-Scan: All"
+            - "※ D-Scan: POS (+Mod +Cel)"
+            - "※ D-Scan: POS (-Mod +Cel)"
+    - Removed Orbital:
+        - "Orbital Construction Platform" from:
+            - "※ D-Scan: POS (+Mod +Cel)"
+            - "※ D-Scan: POS (-Mod +Cel)"
+    - Removed Sovereignty Structures:
+        - All from:
+            - "※ D-Scan: POS (+Mod +Cel)"
+            - "※ D-Scan: POS (-Mod +Cel)"
+    - Removed Starbase:
+        - Several from:
+            - "※ D-Scan: POS (-Mod +Cel)"
+    - Removed Station:
+        - "Station" from:
+            - "※ D-Scan: POS (+Mod +Cel)"
+            - "※ D-Scan: POS (-Mod +Cel)"
 
 ##### Version v2.7.0 - _Skrimokst & Parthannun's adjustements_
 >1. Created two new Layouts that allow players to have single-line Player Ship Brackets instead of double-line:
 	- "1 SB Row" = "1 Ship Bracket Row"
 	- "2 SB Row" = "2 Ship Bracket Rows"
 >2. Chaged Layouts:
-	- Added "Z-S 6-Tab Compact 1 SB Row"
-	- Added "Z-S 6-Tab Standard 1 SB Row"
 	- Renamed "Z-S 6-Tab Compact Layout" to "Z-S 6-Tab Compact 2 SB Rows"
 	- Renamed "Z-S 6-Tab Standard Layout" to "Z-S 6-Tab Standard 2 SB Rows"
+    - Added "Z-S 6-Tab Compact 1 SB Row"
+	- Added "Z-S 6-Tab Standard 1 SB Row"
 	- Removed "Z-S 8-Tab Compact Layout"
 	- Removed "Z-S 8-Tab Standard Layout"
 >3. Changed presets:
-	- Added "✥ --- PvP: Basic (+NPC -Neut)"
-	- Added "✥ --- PvP: Basic (-NPC -Neut)"
 	- Renamed "✥ --- PvP: Basic (NPC)" to "✥ --- PvP: Basic (+NPC +Neut)"
 	- Renamed "✥ --- PvP: Basic (No NPC)" to "✥ --- PvP: Basic (-NPC +Neut)"
 	- Renamed "※ D-Scan: POS + Mods (Cel)" to "※ D-Scan: POS (+Mods +Celes)"
@@ -120,6 +245,8 @@ Deuce Syundai - Design & Text Formatting
 	- Split "✜ PvE: Anoms/Ratting" into:
 		- "✜ PvE: Anoms"
 		- "✜ PvE: Ratting"
+    - Added "✥ --- PvP: Basic (+NPC -Neut)"
+	- Added "✥ --- PvP: Basic (-NPC -Neut)"
 >4. Updated presets:
 	- Added Celestial:
 		- "Force Field" to "※ D-Scan: Sips (-Celes)"
@@ -263,5 +390,5 @@ Deuce Syundai - Design & Text Formatting
 Overview Pack licensed under "GNU GENERAL PUBLIC LICENSE - Version 3, 29 June 2007"
 Further documentation in the LICENSE file.
 
-### Notice  
+## Notice  
 SaraShawa Overview Pack did not have a GitHub repository nor it was under any License at the moment of the manual fork and at the moment of creation of this repository.
