@@ -14,9 +14,9 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 - New presets, including dedicated Faction Warfare and Incursion presets.
 - Color-coded presets by category for improved ease of selection.
 
-#### Current Version: v3.0.2
+#### Current Version: v3.1.1
 - For Release: **118.7**
-- Updated: **2016.08.23**
+- Updated: **2016.09.01**
 
 #### Links
 - Mailing List in-game: **Zirio-Syundai Overview**
@@ -107,6 +107,62 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 ### Changelog
 ##### A note on versioning:
 > The version numbers listed here are not identical to upstream version numbers. Versions are renumbered here in order to attempt to maintain semver.
+
+##### Version v3.1.1 - 118.7 _Smoothing_
+>1. Changed Appearance:
+    - Colortag:
+        - Reverted to old settings.
+    - Background:
+        - Reverted to old settings.
+
+##### Version v3.1.0 - 118.7 - _Carson Moore's discoveries_
+>1. Changed Appearance:
+    - Colortag:
+        - Colors match E-UNI's specifications.
+        - Blinking match E-UNI's specifications.
+        - Priority order stay the same (further revision needed)
+    - Background:
+        - Colors match E-UNI's specifications.
+        - Blinking match E-UNI's specifications.
+        - Priority order stay the same (further revision needed)
+>2. Updated presets:
+    - Added Deployable:
+        - "Mobile Warp Disruptor" to:
+            - "✜ PvE: Anoms"
+            - "✜ PvE: Ratting"
+            - "✜ PvE: Salvage/Loot"
+        - "Mobile Cyno Inhibitor" to:
+            - "✜ PvE: Anoms"
+            - "✜ PvE: Ratting"
+        - "Mobile Scan Inhibitor" to:
+            - "✜ PvE: Anoms"
+            - "✜ PvE: Ratting"
+        - "Mobile Micro Jump Unit" to:
+            - "✜ PvE: Anoms"
+            - "✜ PvE: Ratting"
+    - Removed Drones:
+        - All from:
+            - "✜ PvE: Anoms"
+            - "✜ PvE: Mining"
+            - "✜ PvE: Ratting"
+    - Removed Charge:
+        - "Survey Probe" from:
+            - "✜ --- PvE: Basic (+Dro)"
+            - "✜ --- PvE: Basic (-Dro)"
+            - "✜ PvE: Anoms"
+            - "✜ PvE: Mining"
+            - "✜ PvE: Ratting"
+    - Removed Deployable:
+        - "Mobile Siphon Unit" from:
+            - "✜ PvE: Mining"
+        - "Encounter Surveillance System" from:
+            - "✜ PvE: Mining"
+    - Updated State:
+        - Show by default:
+            - "Pilot is in your fleet" on "✜ --- PvE: Basic (+Dro)"
+            - "Pilot is in your fleet" on "✜ --- PvE: Basic (-Dro)"
+            - "Pilot is in your fleet" on "✜ PvE: Anoms"
+            - "Pilot is in your fleet" on "✜ PvE: Ratting"
 
 ##### Version v3.0.2 - 118.7 - _Cixin Airuta's illumination_
 >1. Changed presets:
