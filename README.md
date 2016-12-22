@@ -14,12 +14,12 @@ This, however, is not the Zirio-Syundai Special Overview. This is the Kafferton 
 - For Release: **118.10**
 - Updated: **2016.12.22**
 
-#### Current Version based on: Zirio-Syundai 3.0.2 (3.06.1425)
+#### Current Version based on: Zirio-Syundai 5.1.0 (5.01.0313)
 - Join their mailing list in-game: Zirio-Syundai Overview
 - See them on [Reddit](https://www.reddit.com/r/Eve/comments/4s3z9i/introducing_the_ziriosyundai_special_overview_pack/)
 - Glance at their [GitHub repository](https://github.com/Arziel1992/Z-S-Overview-Pack)
 
-Zirio-Syundai 3.0.2 credits are as follows:
+Zirio-Syundai 5.1.0 credits are as follows:
 - Zirio - YAML Coding & Pack Maintenence
 - Deuce Syundai - Design & Text Formatting
 
