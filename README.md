@@ -10,9 +10,9 @@ This, however, is not the Zirio-Syundai Special Overview. This is the Kafferton 
 ##### New features include:
 - Not very many. We're talking about generally minor tweaks. Scroll down to the changelog for specifics.
 
-#### Current Version: v3.0.2m1
-- For Release: **118.7**
-- Updated: **2016.11.29**
+#### Current Version: v5.0.1m2
+- For Release: **118.10**
+- Updated: **2016.12.22**
 
 #### Current Version based on: Zirio-Syundai 3.0.2 (3.06.1425)
 - Join their mailing list in-game: Zirio-Syundai Overview
@@ -41,81 +41,393 @@ At the time of forking, Z-S was licensed under the GNU GPLv3. The Kafferton Mod 
 ### Feedback
 If you really, really want to provide feedback... Just EVE-Mail me. Or open an issue. I dunno, whatever works for you.
 
-### Preset list
-    ⌘ --- Brackets: All
-    ⌘ Brackets: Default
-    ⌘ Brackets: Hostile
-    ⌘ Brackets: None
-    ⌘ Brackets: Skirmirsh
-    ➲ Extra: Align Points
-    ➲ Extra: Podsaver (!)
-    ✈ --- Travel: Basic
-    ✈ Travel: Hide Stations
-    ✈ Travel: Show All
-    ✜ --- PvE: Basic (+Dro)
-    ✜ --- PvE: Basic (-Dro)
-    ✜ PvE: Anoms
-    ✜ PvE: Incursion
-    ✜ PvE: Mining
-    ✜ PvE: Ratting
-    ✜ PvE: Salvage/Loot
-    ✥ --- PvP: Basic (+Neut +NPC)
-    ✥ --- PvP: Basic (+Neut -NPC)
-    ✥ --- PvP: Basic (-Neut +NPC)
-    ✥ --- PvP: Basic (-Neut -NPC)
-    ✥ --- PvP: FW
-    ✥ -- Ships only
-    ✥ = Bombing Warpouts
-    ✥ = Deployables
-    ✥ = NPSI
-    ✥ = Structures
-    ✥ = Wartargets
-    ✥ Target: Antibombers (!)
-    ✥ Target: Battlecruisers
-    ✥ Target: Battleships
-    ✥ Target: Caps
-    ✥ Target: Carriers
-    ✥ Target: Cmd Dest
-    ✥ Target: Cruisers
-    ✥ Target: CS/T3
-    ✥ Target: Dictors
-    ✥ Target: Dreads
-    ✥ Target: Drones
-    ✥ Target: Fax
-    ✥ Target: Fighters
-    ✥ Target: Frig/Dest
-    ✥ Target: Logistics
-    ✥ Target: Recons
-    ✥ Target: SC/T
-    ✥ Target: Supercarriers
-    ✥ Target: Titans
-    ✪ --- Friendly: All (+Dro)
-    ✪ --- Friendly: All (-Dro)
-    ✪ = Friendly: Fleet
-    ✪ Friendly: Capitals
-    ✪ Friendly: Carriers
-    ✪ Friendly: Dictors
-    ✪ Friendly: Dreads
-    ✪ Friendly: Logistic
-    ✪ Friendly: Recons
-    ✪ Friendly: SC/T
-    ※ --- D-Scan: All
-    ※ D-Scan: POS (+Cel +Mod)
-    ※ D-Scan: POS (+Cel -Mod)
-    ※ D-Scan: POS (-Cel +Mod)
-    ※ D-Scan: Ships (-Cel +Dro)
-    ※ D-Scan: Ships (-Cel -Dro)
-
-#### Nomenclature
-    - Cel:  Celestial(s)
-    - Dro:  Drone(s) & Fighter(s)
-    - Neut: Neutral(s)
-    - NPC:  Rat(s) - Non-Player Character(s)
-    - Mod:  Module(s)
-
 ### Changelog
 ##### A note on versioning:
 > The version numbers listed here are not identical to upstream version numbers. Versions are renumbered here in order to attempt to maintain semver.
+
+##### Version v5.1.0m2
+>1. Brought forward modifications from v3.0.2m1
+>2. Reverted Removal of Brackets: All preset.
+
+##### Version v5.1.0 - _Ascension_ - _Kr0nK Resync_
+>1. Updated ship brackets styles to allow the activation of `Ship Name`, mimicking the naming convention of Star Trek, i.e **USS _Enterprise_**
+    - `Corp Ticker + Ship Name`
+>2. Moved preset:
+    - `✜ --- PvE: Basic (-Dro)` to `Z-S Core`
+    - `✜ --- PvE: Basic (+Dro)` to `Z-S PvE Extended`
+>3. Updated presets:
+    - Added Entity:
+        - All `Hidden Zenith (Faction) Capital` to:
+            - `⌘ Brackets: Combat/Targets/Friendly (+Dro)`
+            - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+    - Added Structure:
+        - `Engineering Complex` to:
+            - `➲ Extra: Align Points`
+    - Removed Starbase:
+        - `Control Tower` from:
+            - `※ D-Scan: Ships (+Dro / Defensive)`
+            - `※ D-Scan: Ships (-Dro / Defensive)`
+
+##### Version v5.0.1 (not released, pushed to the next version)
+>1. Reapplied all Updated presets of v5.00.0110:
+    - Some entity changes failed to carry over in random presets on some packs.
+
+##### Version v5.0.0 - _Ascension_
+>1. Changed presets:
+    - Renamed `✪ Friendly: Logistic` to `✪ Friendly: Logistics`
+>2. Updated presets:
+    - Added Celestial:
+        - `Effect Beacon` to:
+            - `⌘ Brackets: Combat/Targets/Friendly (+Dro)`
+            - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+            - `⌘ Brackets: Misc`
+            - `⌘ Brackets: Travel`
+            - `✈ --- Travel: All`
+            - `✈ Travel (+Ship -Sta)`
+            - `✈ Travel (-Ship +Sta)`
+            - `✥ --- PvP: Basic (+Neut +NPC)`
+            - `✥ --- PvP: Basic (+Neut -NPC)`
+            - `✥ --- PvP: Basic (-Neut +NPC)`
+            - `✥ --- PvP: Basic (-Neut -NPC)`
+            - `✥ = CovOps: Collidables`
+            - `✥ = NPSI`
+            - `✥ = Wartargets`
+            - `✪ --- Friendly: All (+Dro)`
+            - `✪ --- Friendly: All (-Dro)`
+            - `✪ = Friendly: Fleet`
+        - `Super Weapon Beacon` to:
+            - `⌘ Brackets: Combat/Targets/Friendly (+Dro)`
+            - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+            - `⌘ Brackets: Misc`
+            - `⌘ Brackets: Travel`
+            - `✈ --- Travel: All`
+            - `✈ Travel (+Ship -Sta)`
+            - `✈ Travel (-Ship +Sta)`
+            - `✥ --- PvP: Basic (+Neut +NPC)`
+            - `✥ --- PvP: Basic (+Neut -NPC)`
+            - `✥ --- PvP: Basic (-Neut +NPC)`
+            - `✥ --- PvP: Basic (-Neut -NPC)`
+            - `✥ -- Ships only`
+            - `✥ = CovOps: Collidables`
+            - `✥ = NPSI`
+            - `✥ = Wartargets`
+            - `✪ --- Friendly: All (+Dro)`
+            - `✪ --- Friendly: All (-Dro)`
+            - `✪ = Friendly: Fleet`
+    - Added Charge:
+        - `Structure Guided Bomb` to:
+            - `⌘ Brackets: Combat/Targets/Friendly (+Dro)`
+            - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+            - `⌘ Brackets: Travel`
+            - `✈ --- Travel: All`
+            - `✈ Travel (+Ship -Sta)`
+            - `✈ Travel (-Ship +Sta)`
+            - `✜ --- PvE: Basic (+Dro)`
+            - `✜ --- PvE: Basic (-Dro)`
+            - `✜ PvE: Anoms`
+            - `✜ PvE: Incursion`
+            - `✜ PvE: Mining`
+            - `✜ PvE: Ratting`
+            - `✜ PvE: Salvage/Loot`
+            - `✥ --- PvP: Basic (+Neut +NPC)`
+            - `✥ --- PvP: Basic (+Neut -NPC)`
+            - `✥ --- PvP: Basic (-Neut +NPC)`
+            - `✥ --- PvP: Basic (-Neut -NPC)`
+            - `✥ -- Ships only`
+            - `✥ = CovOps: Collidables`
+            - `✥ = Deployables`
+            - `✥ = NPSI`
+            - `✥ = Wartargets`
+            - `✪ --- Friendly: All (+Dro)`
+            - `✪ --- Friendly: All (-Dro)`
+            - `✪ = Friendly: Fleet`
+            - `✪ Friendly: Capitals`
+            - `✪ Friendly: Carriers`
+            - `✪ Friendly: Dictors`
+            - `✪ Friendly: Dreads`
+            - `✪ Friendly: Logistics`
+            - `✪ Friendly: Recons`
+            - `✪ Friendly: SC/T`
+    - Added Entity:
+        - All `Mission (Faction) (Ship)` to:
+            - `⌘ Brackets: Combat/Targets/Friendly (+Dro)`
+            - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+            - `✜ --- PvE: Basic (+Dro)`
+            - `✜ --- PvE: Basic (-Dro)`
+            - `✜ PvE: Anoms`
+            - `✜ PvE: Incursion`
+            - `✜ PvE: Ratting`
+        - All `♦ Mining (Ship)` to:
+            - `⌘ Brackets: Combat/Targets/Friendly (+Dro)`
+            - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+            - `⌘ Brackets: Misc`
+            - `✜ --- PvE: Basic (+Dro)`
+            - `✜ --- PvE: Basic (-Dro)`
+            - `✜ PvE: Anoms`
+            - `✜ PvE: Mining`
+            - `✜ PvE: Ratting`
+            - `✥ --- PvP: Basic (+Neut +NPC)`
+            - `✥ --- PvP: Basic (-Neut +NPC)`
+            - `✥ = CovOps: Collidables`
+        - All `♦ (Ship)` to:
+            - `⌘ Brackets: Combat/Targets/Friendly (+Dro)`
+            - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+            - `⌘ Brackets: Misc`
+            - `✜ --- PvE: Basic (+Dro)`
+            - `✜ --- PvE: Basic (-Dro)`
+            - `✜ PvE: Anoms`
+            - `✜ PvE: Mining`
+            - `✜ PvE: Ratting`
+            - `✜ PvE: Salvage/Loot`
+            - `✥ --- PvP: Basic (+Neut +NPC)`
+            - `✥ --- PvP: Basic (-Neut +NPC)`
+            - `✥ = CovOps: Collidables`
+            - `✥ PvP: FW`
+        - `Tutorial Seekers` to:
+            - `⌘ Brackets: Combat/Targets/Friendly (+Dro)`
+            - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+            - `⌘ Brackets: Misc`
+            - `✜ --- PvE: Basic (+Dro)`
+            - `✜ --- PvE: Basic (-Dro)`
+            - `✜ PvE: Anoms`
+            - `✜ PvE: Ratting`
+            - `✜ PvE: Salvage/Loot`
+            - `✥ --- PvP: Basic (+Neut +NPC)`
+            - `✥ --- PvP: Basic (-Neut +NPC)`
+        - All `Hidden Zenith (Faction) (Ship)` to:
+            - `⌘ Brackets: Combat/Targets/Friendly (+Dro)`
+            - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+        - All `Hidden Zenith (Faction) Capital` to:
+            - `✜ --- PvE: Basic (+Dro)`
+            - `✜ --- PvE: Basic (-Dro)`
+            - `✜ PvE: Anoms`
+            - `✜ PvE: Ratting`
+            - `✜ PvE: Salvage/Loot`
+            - `✥ --- PvP: Basic (+Neut +NPC)`
+            - `✥ --- PvP: Basic (-Neut +NPC)`
+    - Added Structure:
+        - `Engineering Complex` to:
+            - `⌘ Brackets: Combat/Targets/Friendly (+Dro)`
+            - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+            - `⌘ Brackets: Misc`
+            - `⌘ Brackets: Travel`
+            - `⌘ Brackets: Warpout (!)`
+            - `✈ --- Travel: All`
+            - `✈ Travel (-Ship +Sta)`
+            - `✜ --- PvE: Basic (+Dro)`
+            - `✜ --- PvE: Basic (-Dro)`
+            - `✜ PvE: Anoms`
+            - `✜ PvE: Incursion`
+            - `✜ PvE: Mining`
+            - `✜ PvE: Ratting`
+            - `✜ PvE: Salvage/Loot`
+            - `✥ --- PvP: Basic (+Neut +NPC)`
+            - `✥ --- PvP: Basic (+Neut -NPC)`
+            - `✥ --- PvP: Basic (-Neut +NPC)`
+            - `✥ --- PvP: Basic (-Neut -NPC)`
+            - `✥ = Structures`
+            - `✥ PvP: Exploring`
+            - `✥ PvP: FW`
+            - `✥ PvP: PI`
+            - `✪ --- Friendly: All (+Dro)`
+            - `✪ --- Friendly: All (-Dro)`
+            - `※ --- D-Scan: All`
+            - `※ D-Scan: Hunter (+Dro / Offensive)`
+            - `※ D-Scan: Hunter (-Dro / Offensive)`
+            - `※ D-Scan: Ships (+Dro / Defensive)`
+            - `※ D-Scan: Ships (-Dro / Defensive)`
+
+##### Version v4.2.1 - 118.9 - _Large Hadron Collider_
+>1. Removed `<fontsize=11>` tags due they are the default game fontsize and do not need to be declared.
+>2. Changed presets:
+    - Added `✥ = CovOps: Collidables`
+    - Removed `✥ = Bombing Warpouts`
+        - `➲ Extra: Align Points` has the same, if not better, functionality.
+>3. Updated presets:
+    - Added Deployable:
+        - `Encounter Surveillance System` to:
+            - `✜ PvE: Anoms`
+            - `✜ PvE: Ratting`
+
+##### Version v4.2.0 - 118.9 - _Critical fixes & additions_
+>1. Changed tab colors:
+    - `Targets` tab color to orange (#FD9666)
+    - `Misc` tab color to purple (#D38FFD)
+>2. Changed `Friendly` tab main preset from `✪ --- Friendly: All (+Dro)` to `✪ --- Friendly: All (-Dro)`
+>3. Changed preset colors:
+    - All `✜ PvE` presets to yellow (#FFFF66)
+    - All `✥ Target` presets to orange (#FD9666)
+>4. Changed presets:
+    - Renamed `※ D-Scan: Hunter` to `※ D-Scan: Hunter (+Dro / Offensive)`
+    - Renamed `※ D-Scan: Ships (-Cel +Dro)` to `※ D-Scan: Ships (+Dro / Defensive)`
+    - Renamed `※ D-Scan: Ships (-Cel -Dro)` to `※ D-Scan: Ships (-Dro / Defensive)`
+    - Added `⌘ Brackets: Combat/Targets/Friendly (+Dro)`
+        - Focuses on combat-related entities and NPC's, player ships regardless of standing.
+    - Added `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+        - Focuses on combat-related entities and NPC's, player ships regardless of standing, and drones.
+    - Added `⌘ Brackets: Misc`
+        - Includes most available entities and asteroids to be used with almost any preset.
+    - Added `⌘ Brackets: Travel`
+        - Focuses on travel-related brackets, including ships and entities that could present a threat depending on location/security status.
+    - Added `⌘ Brackets: Warpout (!)`
+        - Includes mostly celestial align points for escape.
+    - Added `※ D-Scan: Hunter (-Dro / Offensive)`
+    - Removed `⌘ --- Brackets: All`
+    - Removed `⌘ Brackets: Default`
+    - Removed `⌘ Brackets: Hostile`
+    - Removed `⌘ Brackets: None`
+    - Removed `⌘ Brackets: Skirmirsh`
+>5. Updated presets:
+    - Removed Celestial:
+        - `Stargate` to:
+            - `✪ --- Friendly: All (+Dro)`
+            - `✪ --- Friendly: All (-Dro)`
+            - `✪ = Friendly: Fleet`
+        - `Warp Gate` to:
+            - `✪ --- Friendly: All (+Dro)`
+            - `✪ --- Friendly: All (-Dro)`
+            - `✪ = Friendly: Fleet`
+        - `Wormhole` to:
+            - `✪ --- Friendly: All (+Dro)`
+            - `✪ --- Friendly: All (-Dro)`
+            - `✪ = Friendly: Fleet`
+    - Added Entity:
+        - `Large Collidable Structure` to:
+            - `✜ PvE: Incursion`
+    - Removed Celestial:
+        - `Large Collidable Object` from:
+            - `✜ PvE: Incursion`
+        - `Force Field` from:
+            - `✥ --- PvP: Basic (+Neut +NPC)`
+            - `✥ --- PvP: Basic (+Neut -NPC)`
+            - `✥ --- PvP: Basic (-Neut +NPC)`
+            - `✥ --- PvP: Basic (-Neut -NPC)`
+            - `※ D-Scan: Ships (+Dro / Defensive)  Defense`
+            - `※ D-Scan: Ships (-Dro / Defensive)  Defense`
+
+##### Version v4.1.1 - 118.9 - _Feedback follow-up & 118.9 tweaks_
+>1. The `Drones` tab is now called `Targets`.
+    - Changed its color to a brighter purple (#D38FFD), it can be read more easily.
+>2. All `✥ Target` presets now have a new purple (#D38FFD) color to identify them more easily and be consistent with the Tab renaming and recoloring in point 1. 
+>3. Changed presets:
+    - Renamed `✥ --- PvP: FW` to `✥ PvP: FW`
+    - Added `✥ PvP: Exploring`
+    - Added `✥ PvP: PI`
+>4. Updated presets:
+    - Added Celestial:
+        - `Large Collidable Object` to:
+            - `✜ PvE: Incursion`
+    - Removed Celestial:
+        - `Entosis Command Node` from:
+            - `✜ PvE: Mining`
+    - Removed Entity:
+        - All FW entities from:
+            - `✜ PvE: Mining`
+        - All Mission entities from:
+            - `✜ PvE: Mining`
+        - `Deadspace Sleeper Upgraded Avenger` from:
+            - `✜ PvE: Mining`
+        - `Event Container` from:
+            - `✜ PvE: Mining`
+        - `Scatter Container` from:
+            - `✜ PvE: Mining`
+    - Removed NPC:
+        - `Mission NPC` from:
+            - `✜ PvE: Mining`
+    - Removed Sovereignty Structures:
+        - All from:
+            - `✜ PvE: Mining`
+
+##### Version v4.1.0 - 118.8 - _Feedback follow-up_
+>1. Added new pack `Z-S D-Scan Extended`
+>2. Changed presets:
+    - All styled presets now have the default font size.
+    - Styled `Brackets` presets now have the default color.
+        - Will allow the player to edit and save them without breaking the HTML tags.
+    - Renamed `✈ Travel: Show All` to `✈ --- Travel: All`
+    - Added `✈ Travel (+Ship -Sta)`
+    - Added `✈ Travel (-Ship +Sta)`
+    - Added `※ D-Scan: Hunter`
+    - Removed `✈ --- Travel: Basic`
+    - Removed `✈ Travel: Hide Stations`
+>3. Updated presets:
+    - Added Celestial:
+        - `Wormhole` to:
+            - `➲ Extra: Align Points`
+            - `➲ Extra: Podsaver (!)`
+        - `Stargate` to:
+            - `➲ Extra: Align Points`
+    - Removed Celestial:
+        - `Moon` from:
+            - `✈ --- Travel: All`
+
+##### Version v4.0.0 - 118.8 - _New release_
+>1. Updated presets:
+    - Added Entity:
+        - New event entities to:
+            - Several
+    - Updated NPC:
+        - `Pirate NPC` on:
+            - `⌘ Brackets: Default`
+            - `⌘ Brackets: Hostile`
+            - `⌘ Brackets: Skirmirsh`
+
+
+##### Version v3.1.1 - 118.7 _Smoothing_
+>1. Changed Appearance:
+    - Colortag:
+        - Reverted to old settings.
+    - Background:
+        - Reverted to old settings.
+
+##### Version v3.1.0 - 118.7 - _Carson Moore's discoveries_
+>1. Changed Appearance:
+    - Colortag:
+        - Colors match E-UNI's specifications.
+        - Blinking match E-UNI's specifications.
+        - Priority order stay the same (further revision needed)
+    - Background:
+        - Colors match E-UNI's specifications.
+        - Blinking match E-UNI's specifications.
+        - Priority order stay the same (further revision needed)
+>2. Updated presets:
+    - Added Deployable:
+        - "Mobile Warp Disruptor" to:
+            - "✜ PvE: Anoms"
+            - "✜ PvE: Ratting"
+            - "✜ PvE: Salvage/Loot"
+        - "Mobile Cyno Inhibitor" to:
+            - "✜ PvE: Anoms"
+            - "✜ PvE: Ratting"
+        - "Mobile Scan Inhibitor" to:
+            - "✜ PvE: Anoms"
+            - "✜ PvE: Ratting"
+        - "Mobile Micro Jump Unit" to:
+            - "✜ PvE: Anoms"
+            - "✜ PvE: Ratting"
+    - Removed Drones:
+        - All from:
+            - "✜ PvE: Anoms"
+            - "✜ PvE: Mining"
+            - "✜ PvE: Ratting"
+    - Removed Charge:
+        - "Survey Probe" from:
+            - "✜ --- PvE: Basic (+Dro)"
+            - "✜ --- PvE: Basic (-Dro)"
+            - "✜ PvE: Anoms"
+            - "✜ PvE: Mining"
+            - "✜ PvE: Ratting"
+    - Removed Deployable:
+        - "Mobile Siphon Unit" from:
+            - "✜ PvE: Mining"
+        - "Encounter Surveillance System" from:
+            - "✜ PvE: Mining"
+    - Updated State:
+        - Show by default:
+            - "Pilot is in your fleet" on "✜ --- PvE: Basic (+Dro)"
+            - "Pilot is in your fleet" on "✜ --- PvE: Basic (-Dro)"
+            - "Pilot is in your fleet" on "✜ PvE: Anoms"
+            - "Pilot is in your fleet" on "✜ PvE: Ratting"
 
 ##### Version v3.0.2m1
 >1. Brought forward modifications from v2.6.1m1
