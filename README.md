@@ -1,4 +1,4 @@
-# Zirio-Syundai Special Overview
+# Zirio-Syundai Overview Pack
 ### Overview Pack for EVE Online
 
 The Zirio-Syundai Special™ Overview was created to provide a generalized, user-friendly, 6-Tab Overview, ready to use as-is with room to be tailored as needed.
@@ -14,13 +14,13 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 - New presets, including dedicated Faction Warfare and Incursion presets.
 - Color-coded presets by category for improved ease of selection.
 
-#### Current Version: v5.0.1
+#### Current Version: v5.2.0
 - For Release: **118.10**
-- Updated: **2016.11.29**
+- Updated: **2017.01.01**
 
 #### Links
-- Mailing List in-game: **Zirio-Syundai Overview**
-- Visit us on: **[Reddit](https://www.reddit.com/r/Eve/comments/4s3z9i/introducing_the_ziriosyundai_special_overview_pack/) - [Slack](https://tweetfleet.slack.com/messages/zs-overview-dev/)**
+- Mailing List in-game: **Z-S Overview**
+- Visit us on: **[Slack](https://tweetfleet.slack.com/messages/zs-overview-dev/) - [Twitter](https://twitter.com/Arziel1992) - [Discord](http://discord.gg/NSfFKcx)**
 
 ### How to install
 1. Click the green "Clone or download" button located at the top right of the above file list, then click "Download ZIP".
@@ -35,6 +35,60 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 ### Changelog
 ##### A note on versioning:
 > The version numbers listed here are not identical to upstream version numbers. Versions are renumbered here in order to attempt to maintain semver.
+
+##### Version v5.2.0 - 118.10 - _Welcome 119!_
+>1. Updated Layouts:
+    - Moved `⌘ Brackets: Combat/Targets/Friendly (+Dro)` from `Z-S Core` to all 4 Layouts.
+    - Moved `⌘ Brackets: Combat/Targets/Friendly (-Dro)` from `Z-S Core` to all 4 Layouts.
+    - Moved `⌘ Brackets: Misc` from `Z-S Core` to all 4 Layouts.
+    - Moved `⌘ Brackets: Travel` from `Z-S Core` to all 4 Layouts.
+    - Moved `⌘ Brackets: Warpout (!)` from `Z-S Core` to all 4 Layouts.
+    - `✈` tabs had their default `Bracket Preset` changed to (in all Layouts and Full profiles):
+        - `⌘ Brackets: Travel`
+    - `Combat`, `Main` tabs had their default `Bracket Preset` changed to (in all Layouts and Full profiles):
+        - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+    - `Targets`, `3` tabs had their default `Bracket Preset` changed to (in all Layouts and Full profiles):
+        - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+    - `Misc`, `4` tabs had their default `Bracket Preset` changed to (in all Layouts and Full profiles):
+        - `⌘ Brackets: Misc`
+    - `Friendly`, `5` tabs had their default `Bracket Preset` changed to (in all Layouts and Full profiles):
+        - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+    - `Warpout!`, `Exit!` tabs had their default `Bracket Preset` changed to (in all Layouts and Full profiles):
+        - `⌘ Brackets: Warpout (!)`
+>2. Changed presets:
+    - Added `✜ --- PvE: Mission Filter (+LCO +LCS)`
+>3. Updated presets:
+    - Added Celestial:
+        - `Planet` to:
+            - `➲ Extra: Podsaver (!)`
+            - `✥ PvP: PI-
+        - `Harvestable Cloud` to:
+            - `✥ = CovOps: Collidables`
+        - `Wormhole` to:
+            - `✥ = CovOps: Collidables`
+    - Added Orbitals:
+        - `Orbital Infrastructure` to:
+            - `✥ = CovOps: Collidables`
+        - `Orbital Construction Platform` to:
+            - `✥ = CovOps: Collidables`
+    - Added Station:
+        - `Station` to:
+            - `✥ = CovOps: Collidables`
+    - Added Structure:
+        - `Engineering Complex` to:
+            - `✥ = CovOps: Collidables`
+        - `Citadel` to:
+            - `✥ = CovOps: Collidables`
+    - Removed Celestial:
+        - `Biomass` from:
+            - `※ D-Scan: Hunter (+Dro / Offensive)`
+            - `※ D-Scan: Hunter (-Dro / Offensive)`
+        - `Large Collidable Object` from:
+            - `✜ --- PvE: Basic (+Dro)`
+            - `✜ --- PvE: Basic (-Dro)`
+        - `Wreck` from:
+            - `※ D-Scan: Hunter (+Dro / Offensive)`
+            - `※ D-Scan: Hunter (-Dro / Offensive)`
 
 ##### Version v5.1.0 - _Ascension_ - _Kr0nK Resync_
 >1. Updated ship brackets styles to allow the activation of `Ship Name`, mimicking the naming convention of Star Trek, i.e **USS _Enterprise_**
