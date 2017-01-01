@@ -24,6 +24,8 @@ Zirio-Syundai 5.2.0 credits are as follows:
 The Kafferton Mod is maintained by:
 - Sally Kafferton - Minor Tweak Maintenence
 
+Send feedback on the mod stuff to Sally Kafferton in-game, if you'd like.
+
 ### License
 At the time of forking, Z-S was licensed under the GNU GPLv3. The Kafferton Mod is licensed similarly as a result. Further information can be found in the LICENSE file of the repository.
 
