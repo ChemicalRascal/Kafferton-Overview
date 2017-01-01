@@ -14,7 +14,7 @@ This, however, is not the Zirio-Syundai Special Overview. This is the Kafferton 
 
 #### Current Version based on: Zirio-Syundai 5.2.0 (5.11.0424)
 - Mailing List in-game: **Z-S Overview**
-- Visit us on: **[Slack](https://tweetfleet.slack.com/messages/zs-overview-dev/) - [Twitter](https://twitter.com/Arziel1992) - [Discord](http://discord.gg/NSfFKcx)**
+- Visit us on: **[Slack](https://tweetfleet.slack.com/messages/zs-overview-dev/) - [Twitter](https://twitter.com/Arziel1992)**
 - Glance at their [GitHub repository](https://github.com/Arziel1992/Z-S-Overview-Pack)
 
 Zirio-Syundai 5.2.0 credits are as follows:
@@ -68,7 +68,7 @@ If you really, really want to provide feedback... Just EVE-Mail me. Or open an i
     - Added Celestial:
         - `Planet` to:
             - `➲ Extra: Podsaver (!)`
-            - `✥ PvP: PI-
+            - `✥ PvP: PI`
         - `Harvestable Cloud` to:
             - `✥ = CovOps: Collidables`
         - `Wormhole` to:
