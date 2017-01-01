@@ -10,16 +10,14 @@ This, however, is not the Zirio-Syundai Special Overview. This is the Kafferton 
 ##### New features include:
 - Not very many. We're talking about generally minor tweaks. Scroll down to the changelog for specifics.
 
-#### Current Version: v5.0.1m2
-- For Release: **118.10**
-- Updated: **2016.12.22**
+#### Current Version: Dev Branch
 
-#### Current Version based on: Zirio-Syundai 5.1.0 (5.01.0313)
-- Join their mailing list in-game: Zirio-Syundai Overview
-- See them on [Reddit](https://www.reddit.com/r/Eve/comments/4s3z9i/introducing_the_ziriosyundai_special_overview_pack/)
+#### Current Version based on: Zirio-Syundai 5.2.0 (5.11.0424)
+- Mailing List in-game: **Z-S Overview**
+- Visit us on: **[Slack](https://tweetfleet.slack.com/messages/zs-overview-dev/) - [Twitter](https://twitter.com/Arziel1992) - [Discord](http://discord.gg/NSfFKcx)**
 - Glance at their [GitHub repository](https://github.com/Arziel1992/Z-S-Overview-Pack)
 
-Zirio-Syundai 5.1.0 credits are as follows:
+Zirio-Syundai 5.2.0 credits are as follows:
 - Zirio - YAML Coding & Pack Maintenence
 - Deuce Syundai - Design & Text Formatting
 
@@ -45,6 +43,60 @@ If you really, really want to provide feedback... Just EVE-Mail me. Or open an i
 ##### A note on versioning:
 > The version numbers listed here are not identical to upstream version numbers. Versions are renumbered here in order to attempt to maintain semver.
 
+##### Version v5.2.0 - 118.10 - _Welcome 119!_
+>1. Updated Layouts:
+    - Moved `⌘ Brackets: Combat/Targets/Friendly (+Dro)` from `Z-S Core` to all 4 Layouts.
+    - Moved `⌘ Brackets: Combat/Targets/Friendly (-Dro)` from `Z-S Core` to all 4 Layouts.
+    - Moved `⌘ Brackets: Misc` from `Z-S Core` to all 4 Layouts.
+    - Moved `⌘ Brackets: Travel` from `Z-S Core` to all 4 Layouts.
+    - Moved `⌘ Brackets: Warpout (!)` from `Z-S Core` to all 4 Layouts.
+    - `✈` tabs had their default `Bracket Preset` changed to (in all Layouts and Full profiles):
+        - `⌘ Brackets: Travel`
+    - `Combat`, `Main` tabs had their default `Bracket Preset` changed to (in all Layouts and Full profiles):
+        - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+    - `Targets`, `3` tabs had their default `Bracket Preset` changed to (in all Layouts and Full profiles):
+        - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+    - `Misc`, `4` tabs had their default `Bracket Preset` changed to (in all Layouts and Full profiles):
+        - `⌘ Brackets: Misc`
+    - `Friendly`, `5` tabs had their default `Bracket Preset` changed to (in all Layouts and Full profiles):
+        - `⌘ Brackets: Combat/Targets/Friendly (-Dro)`
+    - `Warpout!`, `Exit!` tabs had their default `Bracket Preset` changed to (in all Layouts and Full profiles):
+        - `⌘ Brackets: Warpout (!)`
+>2. Changed presets:
+    - Added `✜ --- PvE: Mission Filter (+LCO +LCS)`
+>3. Updated presets:
+    - Added Celestial:
+        - `Planet` to:
+            - `➲ Extra: Podsaver (!)`
+            - `✥ PvP: PI-
+        - `Harvestable Cloud` to:
+            - `✥ = CovOps: Collidables`
+        - `Wormhole` to:
+            - `✥ = CovOps: Collidables`
+    - Added Orbitals:
+        - `Orbital Infrastructure` to:
+            - `✥ = CovOps: Collidables`
+        - `Orbital Construction Platform` to:
+            - `✥ = CovOps: Collidables`
+    - Added Station:
+        - `Station` to:
+            - `✥ = CovOps: Collidables`
+    - Added Structure:
+        - `Engineering Complex` to:
+            - `✥ = CovOps: Collidables`
+        - `Citadel` to:
+            - `✥ = CovOps: Collidables`
+    - Removed Celestial:
+        - `Biomass` from:
+            - `※ D-Scan: Hunter (+Dro / Offensive)`
+            - `※ D-Scan: Hunter (-Dro / Offensive)`
+        - `Large Collidable Object` from:
+            - `✜ --- PvE: Basic (+Dro)`
+            - `✜ --- PvE: Basic (-Dro)`
+        - `Wreck` from:
+            - `※ D-Scan: Hunter (+Dro / Offensive)`
+            - `※ D-Scan: Hunter (-Dro / Offensive)`
+
 ##### Version v5.1.0m2
 >1. Brought forward modifications from v3.0.2m1
 >2. Reverted Removal of Brackets: All preset.
@@ -68,8 +120,8 @@ If you really, really want to provide feedback... Just EVE-Mail me. Or open an i
             - `※ D-Scan: Ships (+Dro / Defensive)`
             - `※ D-Scan: Ships (-Dro / Defensive)`
 
-##### Version v5.0.1 (not released, pushed to the next version)
->1. Reapplied all Updated presets of v5.00.0110:
+##### Version v5.0.1
+>1. Reapplied all Updated presets of v5.0.0:
     - Some entity changes failed to carry over in random presets on some packs.
 
 ##### Version v5.0.0 - _Ascension_
