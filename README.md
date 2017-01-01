@@ -15,12 +15,12 @@ This, however, is not the Zirio-Syundai Special Overview. This is the Kafferton 
 #### Current Version based on: Zirio-Syundai 5.2.0 (5.11.0424)
 
 ### Current Differences to Z-S 5.2.0 (5.11.0424)
->1. D-Scan Hunting presets have wrecks and biomasses.
->2. PvE Basic presets have LCOs.
->3. Brackets: All preset is maintained.
->4. Default brackets on all tabs is, consistently, "Brackets: All".
->5. Tag column is removed.
->6. Fontsize attributes and padding spaces in overview tab names are removed.
+- D-Scan Hunting presets have wrecks and biomasses.
+- PvE Basic presets have LCOs.
+- Brackets: All preset is maintained.
+- Default brackets on all tabs is, consistently, "Brackets: All".
+- Tag column is removed.
+- Fontsize attributes and padding spaces in overview tab names are removed.
 
 ### Credits and Feedback
 Zirio-Syundai 5.2.0 credits are as follows:
