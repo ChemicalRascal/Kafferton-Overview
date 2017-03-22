@@ -7,10 +7,10 @@ If you're familiar with SaraShawa, it shouldn't take too long to adjust to the c
 
 This, however, is not the Zirio-Syundai Special Overview. This is the Kafferton Mod to Zirio-Syundai. It is intended as a place to maintain a set of modifications and tweaks atop the Zirio-Syundai Overview.
 
-#### Current Version: 5.2.0m3
-- For Release: 118.10
-- Updated: 2017.01.02
-- Amarr: Victor!
+#### Current Version: v5.2.0m4
+- For Release: 119.4
+- Updated: 2017.03.23
+- Rorquals: Balanced!
 
 #### Current Version based on: Zirio-Syundai 5.2.0 (5.11.0424)
 
