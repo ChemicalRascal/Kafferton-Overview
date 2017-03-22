@@ -10027,9 +10027,7 @@ shipLabels:
   - - - post
       - ']</fontsize><color=0xFFFFFFFF><b> -'
     - - pre
-      - '
-
-        <fontsize=10> ['
+      - '<fontsize=10> ['
     - - state
       - 1
     - - type

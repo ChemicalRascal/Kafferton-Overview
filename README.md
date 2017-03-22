@@ -15,6 +15,7 @@ This, however, is not the Zirio-Syundai Special Overview. This is the Kafferton 
 #### Current Version based on: Zirio-Syundai 5.2.0 (5.11.0424)
 
 ### Current Differences to Z-S 5.2.0 (5.11.0424)
+- Ship labels are all on one line, no forced linebreak messing up who-scrambled-who messages.
 - D-Scan Hunting presets have wrecks and biomasses.
 - PvE Basic presets have LCOs.
 - Brackets: All preset is maintained.
@@ -49,6 +50,9 @@ At the times of forking, Z-S was licensed under the GNU GPLv3. The Kafferton Mod
 ### Changelog
 ##### A note on versioning:
 > The version numbers listed here are not identical to upstream version numbers. Versions are renumbered here in order to attempt to maintain semver.
+
+##### Version v5.2.0m4
+>1. Removed linebreak in ship labels.
 
 ##### Version v5.2.0m3
 >1. Brought forward modifications from v5.1.0m2
