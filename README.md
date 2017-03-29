@@ -43,8 +43,10 @@ At the times of forking, Z-S was licensed under the GNU GPLv3. The Kafferton Mod
 2. Once downloaded in the folder of your preference, extract the .zip file contents in a folder of your preference.
 3. Copy the "Zirio-Syundai Full.yaml" file to "C:\Users\**<USERNAME>**\Documents\EVE\Overview".
 4. Start the game and open up your Overview Settings ( ≡ button at top left of the Overview window).
-5. Go to the "Misc" tab and click "Import Overview Settings".
-6. Select "Zirio-Syundai Full" on the left list and click "Check All" on the top middle, then click "Import".
+5. Go to the "Misc" tab and click "Reset All Overview Settings".
+   - Note, this will nuke all your current overview customizations all the way back to CCP's defaults. Maybe export your overview first, as a backup, if you've made \~\~important customizations\~\~.
+6. Go to the "Misc" tab and click "Import Overview Settings".
+7. Select "Zirio-Syundai Full" on the left list and click "Check All" on the top middle, then click "Import".
    - Optionally, you can be clever and not import all of the presets, for whatever reason you choose! Make choices! Do things! Live life to the full!
 
 ### Changelog
