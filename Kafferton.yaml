@@ -5697,8 +5697,14 @@ presets:
         - 1878
         - 1879
         - 1880
+        - 1884 #Ubiquitous Moon Asteroids
         - 1896
         - 1909
+        - 1911 #Empire Asteroids
+        - 1920 #Common Moon Asteroids
+        - 1921 #Uncommon Moon Asteroids
+        - 1922 #Rare Moon Asteroids
+        - 1923 #Exceptional Moon Asteroids
         - 1924
 - - '<color=0xFFFF6666>✥ = Deployables</color>'
   - - - alwaysShownStates
