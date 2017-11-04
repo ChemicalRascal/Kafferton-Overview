@@ -1,0 +1,1329 @@
+0: '#System'
+1: Character
+2: Corporation
+3: Region
+4: Constellation
+5: Solar System
+6: Sun
+7: Planet
+8: Moon
+9: Asteroid Belt
+10: Stargate
+11: Asteroid OLD
+12: Cargo Container
+13: Ring
+14: Biomass
+15: Station
+16: Station Services
+17: Money
+18: Mineral
+19: Faction
+20: Drug
+23: Clone
+24: Voucher
+25: Frigate
+26: Cruiser
+27: Battleship
+28: Industrial
+29: Capsule
+30: Titan
+31: Shuttle
+32: Alliance
+38: Shield Extender
+39: Shield Recharger
+40: Shield Booster
+41: Remote Shield Booster
+43: Capacitor Recharger
+46: Propulsion Module
+47: Cargo Scanner
+48: Ship Scanner
+49: Survey Scanner
+52: Warp Scrambler
+53: Energy Weapon
+54: Mining Laser
+55: Projectile Weapon
+56: Missile Launcher
+57: Shield Power Relay
+59: Gyrostabilizer
+60: Damage Control
+61: Capacitor Battery
+62: Armor Repair Unit
+63: Hull Repair Unit
+65: Stasis Web
+67: Remote Capacitor Transmitter
+68: Energy Nosferatu
+71: Energy Neutralizer
+72: Smart Bomb
+74: Hybrid Weapon
+76: Capacitor Booster
+77: Shield Hardener
+78: Reinforced Bulkhead
+80: Burst Jammer
+82: Passive Targeting System
+83: Projectile Ammo
+85: Hybrid Charge
+86: Frequency Crystal
+87: Capacitor Booster Charge
+88: Defender Missiles
+89: Torpedo
+90: Bomb
+92: Mine
+94: Trading
+95: Trade Session
+96: Automated Targeting System
+97: Proximity Drone
+98: Armor Coating
+99: Sentry Gun
+100: Combat Drone
+101: Mining Drone
+104: Clone Blueprint
+105: Frigate Blueprint
+106: Cruiser Blueprint
+107: Battleship Blueprint
+108: Industrial Blueprint
+109: Capsule Blueprint
+110: Titan Blueprint
+111: Shuttle Blueprint
+118: Shield Extender Blueprint
+119: Shield Recharger Blueprint
+120: Shield Booster Blueprint
+121: Remote Shield Booster Blueprint
+123: Capacitor Recharger Blueprint
+126: Propulsion Module Blueprint
+127: Cargo Scanner Blueprint
+128: Ship Scanner Blueprint
+129: Survey Scanner Blueprint
+130: ECM Blueprint
+131: ECCM Blueprint
+132: Warp Scrambler Blueprint
+133: Energy Weapon Blueprint
+134: Mining Laser Blueprint
+135: Projectile Weapon Blueprint
+136: Missile Launcher Blueprint
+137: Power Manager Blueprint
+139: Gunnery Upgrade Blueprint
+140: Damage Control Blueprint
+141: Capacitor Battery Blueprint
+142: Armor Repair Unit Blueprint
+143: Hull Repair Unit Blueprint
+145: Stasis Web Blueprint
+147: Remote Capacitor Transmitter Blueprint
+148: Energy Nosferatu Blueprint
+151: Energy Neutralizer Blueprint
+152: Smart Bomb Blueprint
+154: Hybrid Weapon Blueprint
+156: Capacitor Booster Blueprint
+157: Shield Hardener Blueprint
+158: Hull Mods Blueprint
+160: Burst Jammer Blueprint
+161: Passive Targeting System Blueprint
+162: Automated Targeting System Blueprint
+163: Armor Coating Blueprint
+165: Projectile Ammo Blueprint
+166: Missile Blueprint
+167: Hybrid Charge Blueprint
+168: Frequency Crystal Blueprint
+169: Capacitor Booster Charge Blueprint
+170: Defender Missile Blueprint
+172: Bomb Blueprint
+174: Mine Blueprint
+175: Proximity Drone Blueprint
+176: Combat Drone Blueprint
+177: Mining Drone Blueprint
+178: Drug Blueprint
+180: Protective Sentry Gun
+182: Police Drone
+185: Pirate Drone
+186: Wreck
+190: Bloodline Bonus
+191: Physical Benefit
+192: Physical Handicap
+193: Phobia Handicap
+194: Social Handicap
+195: Amarr Education
+196: Caldari Education
+197: Gallente Education
+198: Minmatar Education
+199: Career Bonus
+201: ECM
+202: ECCM
+203: Sensor Backup Array
+205: Heat Sink
+208: Sensor Dampener
+209: Remote Tracking Computer
+210: Signal Amplifier
+211: Tracking Enhancer
+212: Sensor Booster
+213: Tracking Computer
+218: Heat Sink Blueprint
+223: Sensor Booster Blueprint
+224: Tracking Computer Blueprint
+225: Cheat Module Group
+226: Large Collidable Object
+227: Cloud
+237: Corvette
+255: Gunnery
+256: Missiles
+257: Spaceship Command
+258: Fleet Support
+266: Corporation Management
+267: Obsolete Books
+268: Production
+269: Rigging
+270: Science
+272: Electronic Systems
+273: Drones
+274: Trade
+275: Navigation
+278: Social
+279: LCO Drone
+280: General
+281: Frozen
+282: Radioactive
+283: Livestock
+284: Biohazard
+285: CPU Enhancer
+286: Minor Threat
+287: Rogue Drone
+288: Faction Drone
+289: Projected ECCM
+290: Remote Sensor Booster
+291: Weapon Disruptor
+295: Shield Resistance Amplifier
+296: Shield Resistance Amplifier Blueprint
+297: Convoy
+298: Convoy Drone
+299: Repair Drone
+300: Cyberimplant
+301: Concord Drone
+302: Magnetic Field Stabilizer
+303: Booster
+304: DNA Mutator
+305: Comet
+306: Spawn Container
+307: Construction Platform
+308: Countermeasure Launcher
+309: Autopilot
+310: Beacon
+311: Reprocessing Array
+312: Planetary Cloud
+313: Drugs
+314: Miscellaneous
+315: Warp Core Stabilizer
+316: Gang Coordinator
+317: Computer Interface Node
+318: Landmark
+319: Large Collidable Structure
+321: Shield Disruptor
+323: Billboard
+324: Assault Frigate
+325: Remote Armor Repairer
+326: Armor Plating Energized
+328: Armor Hardener
+329: Armor Reinforcer
+330: Cloaking Device
+332: Tool
+333: Datacores
+334: Construction Components
+335: Temporary Cloud
+336: Mobile Sentry Gun
+337: Mission Drone
+338: Shield Boost Amplifier
+339: Auxiliary Power Core
+340: Secure Cargo Container
+341: Signature Scrambling
+342: Anti Warp Scrambler Blueprint
+343: Weapon Disruptor Blueprint
+344: Tracking Enhancer Blueprint
+345: Remote Tracking Computer Blueprint
+346: Co-Processor Blueprint
+347: Signal Amplifier Blueprint
+348: Armor Hardener Blueprint
+349: Armor Reinforcer Blueprint
+350: Remote Armor Repairer Blueprint
+352: Auxiliary Power Core Blueprint
+353: QA Module
+355: Refinables
+356: Tool Blueprint
+357: DroneBayExpander
+358: Heavy Assault Cruiser
+360: Shield Boost Amplifier Blueprint
+361: Mobile Warp Disruptor
+363: Ship Maintenance Array
+364: Mobile Storage
+365: Control Tower
+366: Warp Gate
+367: Ballistic Control system
+368: Global Warp Disruptor
+369: Ship Logs
+370: Criminal Tags
+371: Mobile Warp Disruptor Blueprint
+372: Advanced Autocannon Ammo
+373: Advanced Railgun Charge
+374: Advanced Beam Laser Crystal
+375: Advanced Pulse Laser Crystal
+376: Advanced Artillery Ammo
+377: Advanced Blaster Charge
+378: Cruise Control
+379: Target Painter
+380: Deep Space Transport
+381: Elite Battleship
+382: Shipping Crates
+383: Destructible Sentry Gun
+384: Light Missile
+385: Heavy Missile
+386: Cruise Missile
+387: Rocket
+394: Auto-Targeting Light Missile
+395: Auto-Targeting Heavy Missile
+396: Auto-Targeting Cruise Missile
+397: Assembly Array
+400: Ballistic Control System Blueprint
+401: Cloaking Device Blueprint
+404: Silo
+405: Anti Cloaking Pulse
+406: Smartbomb Supercharger
+407: Fighter Support Unit
+408: Drone Upgrade Blueprint
+409: Empire Insignia Drops
+410: Anti Cloaking Pulse Blueprint
+411: Force Field
+413: Laboratory
+414: Mobile Power Core
+416: Moon Mining
+417: Mobile Missile Sentry
+418: Mobile Shield Generator
+419: Combat Battlecruiser
+420: Destroyer
+422: Gas Isotopes
+423: Ice Product
+425: Orbital Assault Unit
+426: Mobile Projectile Sentry
+427: Moon Materials
+428: Intermediate Materials
+429: Composite
+430: Mobile Laser Sentry
+435: Deadspace Overseer
+436: Simple Reaction
+438: Mobile Reactor
+439: Electronic Warfare Battery
+440: Sensor Dampening Battery
+441: Stasis Webification Battery
+443: Warp Scrambling Battery
+444: Shield Hardening Array
+445: Force Field Array
+446: Customs Official
+447: Construction Component Blueprints
+448: Audit Log Secure Container
+449: Mobile Hybrid Sentry
+450: Arkonor
+451: Bistot
+452: Crokite
+453: Dark Ochre
+454: Hedbergite
+455: Hemorphite
+456: Jaspet
+457: Kernite
+458: Plagioclase
+459: Pyroxeres
+460: Scordite
+461: Spodumain
+462: Veldspar
+463: Mining Barge
+464: Strip Miner
+465: Ice
+467: Gneiss
+468: Mercoxit
+469: Omber
+470: Unanchoring Drone
+471: Corporate Hangar Array
+472: System Scanner
+473: Tracking Array
+474: Acceleration Gate Keys
+475: Microwarpdrive
+476: XL Torpedo
+477: Mining Barge Blueprint
+478: System Scanner Blueprint
+479: Scanner Probe
+480: Stealth Emitter Array
+481: Scan Probe Launcher
+482: Mining Crystal
+483: Frequency Mining Laser
+484: Complex Reactions
+485: Dreadnought
+486: Scan Probe Blueprint
+487: Destroyer Blueprint
+489: Battlecruiser Blueprint
+490: Strip Miner Blueprint
+492: Survey Probe
+493: Overseer Personal Effects
+494: Deadspace Overseer's Structure
+495: Deadspace Overseer's Sentry
+496: Deadspace Overseer's Belongings
+497: Fuel
+498: Modifications
+499: New EW Testing
+500: Festival Charges
+501: Festival Launcher
+502: Cosmic Signature
+503: Elite Industrial Blueprint
+504: Target Painter Blueprint
+505: Fake Skills
+506: Missile Launcher Cruise
+507: Missile Launcher Rocket
+508: Missile Launcher Torpedo
+509: Missile Launcher Light
+510: Missile Launcher Heavy
+511: Missile Launcher Rapid Light
+512: Missile Launcher Defender
+513: Freighter
+514: ECM Stabilizer
+515: Siege Module
+516: Siege Module Blueprint
+517: Agents in Space
+518: Anti Ballistic Defense System
+519: Terran Artifacts
+520: Storyline Frigate
+521: Identification
+522: Storyline Cruiser
+523: Storyline Battleship
+524: Missile Launcher XL Torpedo
+525: Freighter Blueprint
+526: Commodities
+527: Storyline Mission Frigate
+528: Artifacts and Prototypes
+530: Materials and Compounds
+532: Gang Coordinator Blueprint
+533: Storyline Mission Cruiser
+534: Storyline Mission Battleship
+535: Construction Platform Blueprint
+536: Station Components
+537: Dreadnought Blueprint
+538: Data Miners
+540: Command Ship
+541: Interdictor
+543: Exhumer
+544: Energy Neutralizer Drone
+545: Warp Scrambling Drone
+546: Mining Upgrade
+547: Carrier
+548: Interdiction Probe
+549: Fighter Drone
+550: Asteroid Angel Cartel Frigate
+551: Asteroid Angel Cartel Cruiser
+552: Asteroid Angel Cartel Battleship
+553: Asteroid Angel Cartel Officer
+554: Asteroid Angel Cartel Hauler
+555: Asteroid Blood Raiders Cruiser
+556: Asteroid Blood Raiders Battleship
+557: Asteroid Blood Raiders Frigate
+558: Asteroid Blood Raiders Hauler
+559: Asteroid Blood Raiders Officer
+560: Asteroid Guristas Battleship
+561: Asteroid Guristas Cruiser
+562: Asteroid Guristas Frigate
+563: Asteroid Guristas Hauler
+564: Asteroid Guristas Officer
+565: Asteroid Sansha's Nation Battleship
+566: Asteroid Sansha's Nation Cruiser
+567: Asteroid Sansha's Nation Frigate
+568: Asteroid Sansha's Nation Hauler
+569: Asteroid Sansha's Nation Officer
+570: Asteroid Serpentis Battleship
+571: Asteroid Serpentis Cruiser
+572: Asteroid Serpentis Frigate
+573: Asteroid Serpentis Hauler
+574: Asteroid Serpentis Officer
+575: Asteroid Angel Cartel Destroyer
+576: Asteroid Angel Cartel BattleCruiser
+577: Asteroid Blood Raiders Destroyer
+578: Asteroid Blood Raiders BattleCruiser
+579: Asteroid Guristas Destroyer
+580: Asteroid Guristas BattleCruiser
+581: Asteroid Sansha's Nation Destroyer
+582: Asteroid Sansha's Nation BattleCruiser
+583: Asteroid Serpentis Destroyer
+584: Asteroid Serpentis BattleCruiser
+585: Remote Hull Repairer
+586: Drone Modules
+588: Super Weapon
+589: Interdiction Sphere Launcher
+590: Jump Portal Generator
+593: Deadspace Angel Cartel BattleCruiser
+594: Deadspace Angel Cartel Battleship
+595: Deadspace Angel Cartel Cruiser
+596: Deadspace Angel Cartel Destroyer
+597: Deadspace Angel Cartel Frigate
+602: Deadspace Blood Raiders BattleCruiser
+603: Deadspace Blood Raiders Battleship
+604: Deadspace Blood Raiders Cruiser
+605: Deadspace Blood Raiders Destroyer
+606: Deadspace Blood Raiders Frigate
+611: Deadspace Guristas BattleCruiser
+612: Deadspace Guristas Battleship
+613: Deadspace Guristas Cruiser
+614: Deadspace Guristas Destroyer
+615: Deadspace Guristas Frigate
+620: Deadspace Sansha's Nation BattleCruiser
+621: Deadspace Sansha's Nation Battleship
+622: Deadspace Sansha's Nation Cruiser
+623: Deadspace Sansha's Nation Destroyer
+624: Deadspace Sansha's Nation Frigate
+629: Deadspace Serpentis BattleCruiser
+630: Deadspace Serpentis Battleship
+631: Deadspace Serpentis Cruiser
+632: Deadspace Serpentis Destroyer
+633: Deadspace Serpentis Frigate
+638: Navigation Computer
+639: Electronic Warfare Drone
+640: Logistic Drone
+641: Stasis Webifying Drone
+642: Super Gang Enhancer
+643: Carrier Blueprint
+644: Drone Navigation Computer
+645: Drone Damage Modules
+646: Drone Tracking Modules
+647: Drone Control Range Module
+648: Advanced Rocket
+649: Freight Container
+650: Tractor Beam
+651: Super Weapon Blueprint
+652: Lease
+653: Advanced Light Missile
+654: Advanced Heavy Assault Missile
+655: Advanced Heavy Missile
+656: Advanced Cruise Missile
+657: Advanced Torpedo
+658: Cynosural Field
+659: Supercarrier
+660: Energy Vampire Slayer
+661: Simple Biochemical Reactions
+662: Complex Biochemical Reactions
+663: Mercoxit Mining Crystal
+665: Mission Amarr Empire Frigate
+666: Mission Amarr Empire Battlecruiser
+667: Mission Amarr Empire Battleship
+668: Mission Amarr Empire Cruiser
+669: Mission Amarr Empire Destroyer
+670: Mission Amarr Empire Other
+671: Mission Caldari State Frigate
+672: Mission Caldari State Battlecruiser
+673: Mission Caldari State Cruiser
+674: Mission Caldari State Battleship
+675: Mission Caldari State Other
+676: Mission Caldari State Destroyer
+677: Mission Gallente Federation Frigate
+678: Mission Gallente Federation Cruiser
+679: Mission Gallente Federation Destroyer
+680: Mission Gallente Federation Battleship
+681: Mission Gallente Federation Battlecruiser
+682: Mission Gallente Federation Other
+683: Mission Minmatar Republic Frigate
+684: Mission Minmatar Republic Destroyer
+685: Mission Minmatar Republic Battlecruiser
+686: Mission Minmatar Republic Other
+687: Mission Khanid Frigate
+688: Mission Khanid Destroyer
+689: Mission Khanid Cruiser
+690: Mission Khanid Battlecruiser
+691: Mission Khanid Battleship
+692: Mission Khanid Other
+693: Mission CONCORD Frigate
+694: Mission CONCORD Destroyer
+695: Mission CONCORD Cruiser
+696: Mission CONCORD Battlecruiser
+697: Mission CONCORD Battleship
+698: Mission CONCORD Other
+699: Mission Mordu Frigate
+700: Mission Mordu Destroyer
+701: Mission Mordu Cruiser
+702: Mission Mordu Battlecruiser
+703: Mission Mordu Battleship
+704: Mission Mordu Other
+705: Mission Minmatar Republic Cruiser
+706: Mission Minmatar Republic Battleship
+707: Jump Portal Array
+709: Scanner Array
+710: Logistics Array
+711: Harvestable Cloud
+712: Biochemical Material
+715: Destructible Agents In Space
+716: Data Interfaces
+718: Booster Blueprints
+721: Temp
+722: Advanced Hybrid Charge Blueprint
+723: Tractor Beam Blueprint
+724: Implant Blueprints
+725: Advanced Projectile Ammo Blueprint
+726: Advanced Frequency Crystal Blueprint
+727: Mining Crystal Blueprint
+728: Decryptors - Amarr
+729: Decryptors - Minmatar
+730: Decryptors - Gallente
+731: Decryptors - Caldari
+732: Decryptors - Sleepers
+733: Decryptors - Yan Jung
+734: Decryptors - Takmahl
+735: Decryptors - Talocan
+737: Gas Cloud Harvester
+738: Cyber Armor
+739: Cyber Drones
+740: Cyber Electronic Systems
+741: Cyber Engineering
+742: Cyber Gunnery
+743: Cyber Production
+744: Cyber Leadership
+745: Cyber Learning
+746: Cyber Missile
+747: Cyber Navigation
+748: Cyber Science
+749: Cyber Shields
+750: Cyber Social
+751: Cyber Trade
+753: ECM Enhancer
+754: Salvaged Materials
+755: Asteroid Rogue Drone BattleCruiser
+756: Asteroid Rogue Drone Battleship
+757: Asteroid Rogue Drone Cruiser
+758: Asteroid Rogue Drone Destroyer
+759: Asteroid Rogue Drone Frigate
+760: Asteroid Rogue Drone Hauler
+761: Asteroid Rogue Drone Swarm
+762: Inertial Stabilizer
+763: Nanofiber Internal Structure
+764: Overdrive Injector System
+765: Expanded Cargohold
+766: Power Diagnostic System
+767: Capacitor Power Relay
+768: Capacitor Flux Coil
+769: Reactor Control Unit
+770: Shield Flux Coil
+771: Missile Launcher Heavy Assault
+772: Heavy Assault Missile
+773: Rig Armor
+774: Rig Shield
+775: Rig Energy Weapon
+776: Rig Hybrid Weapon
+777: Rig Projectile Weapon
+778: Rig Drones
+779: Rig Launcher
+781: Rig Core
+782: Rig Navigation
+783: Cyber X Specials
+784: Large Collidable Ship
+786: Rig Electronic Systems
+787: Rig Blueprint
+789: Asteroid Angel Cartel Commander Frigate
+790: Asteroid Angel Cartel Commander Cruiser
+791: Asteroid Blood Raiders Commander Cruiser
+792: Asteroid Blood Raiders Commander Frigate
+793: Asteroid Angel Cartel Commander BattleCruiser
+794: Asteroid Angel Cartel Commander Destroyer
+795: Asteroid Blood Raiders Commander BattleCruiser
+796: Asteroid Blood Raiders Commander Destroyer
+797: Asteroid Guristas Commander BattleCruiser
+798: Asteroid Guristas Commander Cruiser
+799: Asteroid Guristas Commander Destroyer
+800: Asteroid Guristas Commander Frigate
+801: Deadspace Rogue Drone BattleCruiser
+802: Deadspace Rogue Drone Battleship
+803: Deadspace Rogue Drone Cruiser
+804: Deadspace Rogue Drone Destroyer
+805: Deadspace Rogue Drone Frigate
+806: Deadspace Rogue Drone Swarm
+807: Asteroid Sansha's Nation Commander BattleCruiser
+808: Asteroid Sansha's Nation Commander Cruiser
+809: Asteroid Sansha's Nation Commander Destroyer
+810: Asteroid Sansha's Nation Commander Frigate
+811: Asteroid Serpentis Commander BattleCruiser
+812: Asteroid Serpentis Commander Cruiser
+813: Asteroid Serpentis Commander Destroyer
+814: Asteroid Serpentis Commander Frigate
+815: Clone Vat Bay
+816: Mission Generic Battleships
+817: Mission Generic Cruisers
+818: Mission Generic Frigates
+819: Deadspace Overseer Frigate
+820: Deadspace Overseer Cruiser
+821: Deadspace Overseer Battleship
+822: Mission Thukker Battlecruiser
+823: Mission Thukker Battleship
+824: Mission Thukker Cruiser
+825: Mission Thukker Destroyer
+826: Mission Thukker Frigate
+827: Mission Thukker Other
+828: Mission Generic Battle Cruisers
+829: Mission Generic Destroyers
+830: Covert Ops
+831: Interceptor
+832: Logistics
+833: Force Recon Ship
+834: Stealth Bomber
+835: Station Upgrade Platform
+836: Station Improvement Platform
+837: Energy Neutralizing Battery
+838: Cynosural Generator Array
+839: Cynosural System Jammer
+840: Structure Repair Array
+841: Starbase - Control Tower Blueprints
+842: Burst Projectors
+843: Asteroid Rogue Drone Commander BattleCruiser
+844: Asteroid Rogue Drone Commander Battleship
+845: Asteroid Rogue Drone Commander Cruiser
+846: Asteroid Rogue Drone Commander Destroyer
+847: Asteroid Rogue Drone Commander Frigate
+848: Asteroid Angel Cartel Commander Battleship
+849: Asteroid Blood Raiders Commander Battleship
+850: Asteroid Guristas Commander Battleship
+851: Asteroid Sansha's Nation Commander Battleship
+852: Asteroid Serpentis Commander Battleship
+853: Starbase - Laser Battery Blueprints
+854: Starbase - Projectile Battery Blueprints
+855: Starbase - Hybrid Battery Blueprints
+856: Starbase - ECM Jamming Array Blueprints
+857: Starbase - Warp Scrambling Battery Blueprints
+858: Starbase - Stasis Webification Battery Blueprints
+859: Starbase - Sensor Dampening Array Blueprints
+860: Starbase - Energy Neutralizing Battery Blueprints
+861: Mission Fighter Drone
+862: Missile Launcher Bomb
+863: Bomb ECM
+864: Bomb Energy
+865: Mission Amarr Empire Carrier
+866: Mission Caldari State Carrier
+867: Mission Gallente Federation Carrier
+868: Mission Minmatar Republic Carrier
+870: Remote Hull Repairer Blueprint
+871: Starbase - Missile Battery Blueprints
+872: Outpost Improvements
+873: Capital Construction Components
+874: Disruptable Station Services
+875: Mission Faction Transports
+876: Outpost Upgrades
+877: Target Painting Battery
+878: Cloak Enhancements
+879: Slave Reception
+880: Sleeper Components
+881: Freedom Programs
+882: Enslavement Programs
+883: Capital Industrial Ship
+884: Test Compressed Ore
+885: Cosmic Anomaly
+886: Rogue Drone Components
+888: Ore Compression Blueprints
+889: Ore Enhancement Blueprints
+890: Ice Compression Blueprints
+891: Starbase - Mobile Laboratory Blueprints
+892: Planet Satellites
+893: Electronic Attack Ship
+894: Heavy Interdiction Cruiser
+896: Rig Security Transponder
+897: Covert Beacon
+898: Black Ops
+899: Warp Disrupt Field Generator
+900: Marauder
+901: Mining Enhancer
+902: Jump Freighter
+903: Ancient Compressed Ice
+904: Rig Mining
+905: Covert Cynosural Field Generator
+906: Combat Recon Ship
+907: Tracking Script
+908: Warp Disruption Script
+909: Tracking Disruption Script
+910: Sensor Booster Script
+911: Sensor Dampener Script
+912: Script Blueprint
+913: Advanced Capital Construction Components
+914: Advanced Capital Construction Component Blueprints
+915: Capital Construction Blueprints
+916: Nanite Repair Paste
+917: Data Miner Blueprint
+918: Scan Probe Launcher Blueprint
+920: Effect Beacon
+922: Capture Point
+924: Mission Faction Battleship
+925: FW Infrastructure Hub
+927: Mission Faction Industrials
+934: Zombie Entities
+935: WorldSpace
+937: Decorations
+940: Furniture
+941: Industrial Command Ship
+943: Legacy Currency
+944: Capital Industrial Ship Blueprint
+945: Industrial Command Ship Blueprint
+952: Mission Container
+954: Defensive Systems
+955: Depricated Subsystems
+956: Offensive Systems
+957: Propulsion Systems
+958: Core Systems
+959: Deadspace Sleeper Sleepless Sentinel
+960: Deadspace Sleeper Awakened Sentinel
+961: Deadspace Sleeper Emergent Sentinel
+963: Strategic Cruiser
+964: Hybrid Tech Components
+965: Hybrid Component Blueprints
+966: Ancient Salvage
+967: Wormhole Minerals
+971: Sleeper Propulsion Relics
+972: Obsolete Probes
+973: Subsystem Blueprints
+974: Hybrid Polymers
+976: Festival Charges Expired
+977: Hybrid Reactions
+979: Decryptors - Hybrid
+982: Deadspace Sleeper Sleepless Defender
+983: Deadspace Sleeper Sleepless Patroller
+984: Deadspace Sleeper Awakened Defender
+985: Deadspace Sleeper Awakened Patroller
+986: Deadspace Sleeper Emergent Defender
+987: Deadspace Sleeper Emergent Patroller
+988: Wormhole
+990: Sleeper Electronics Relics
+991: Sleeper Offensive Relics
+992: Sleeper Engineering Relics
+993: Sleeper Defensive Relics
+995: Secondary Sun
+996: Strategic Cruiser Blueprints
+997: Sleeper Hull Relics
+1003: Territorial Claim Unit
+1004: Defense Bunkers
+1005: Sovereignty Blockade Unit
+1006: Mission Faction Cruiser
+1007: Mission Faction Frigate
+1010: Compact XL Torpedo
+1012: Infrastructure Hub
+1013: Supercarrier Blueprints
+1016: Strategic Upgrades
+1019: XL Cruise Missile
+1020: Industrial Upgrades
+1021: Military Upgrades
+1022: Prototype Exploration Ship
+1023: Fighter Bomber
+1025: Orbital Infrastructure
+1026: Extractors
+1027: Command Centers
+1028: Processors
+1029: Storage Facilities
+1030: Spaceports
+1031: Planetary Resources
+1032: Planet Solid
+1033: Planet Liquid-Gas
+1034: Refined Commodities
+1035: Planet Organic
+1036: Planetary Links
+1040: Specialized Commodities
+1041: Advanced Commodities
+1042: Basic Commodities
+1045: Sovereignty Structure Blueprint
+1046: Nanite Repair Paste Blueprint
+1048: Starbase Blueprint
+1051: Incursion Sansha's Nation Industrial
+1052: Incursion Sansha's Nation Capital
+1053: Incursion Sansha's Nation Frigate
+1054: Incursion Sansha's Nation Cruiser
+1056: Incursion Sansha's Nation Battleship
+1063: Extractor Control Units
+1067: MaterialZone
+1068: DetailMesh
+1071: Flashpoint
+1073: Test Orbitals
+1079: Generic
+1081: Mercenary Bases
+1082: Capsuleer Bases
+1083: Eyewear
+1084: Tattoos
+1085: Piercings
+1086: Scars
+1087: Mid Layer
+1088: Outer
+1089: Tops
+1090: Bottoms
+1091: Footwear
+1092: Headwear
+1093: Makeup
+1105: Lens Flares
+1106: Orbital Construction Platform
+1107: Particle Systems
+1108: Animated Lights
+1109: Audio
+1110: Point Lights
+1111: Box Lights
+1112: Spot Lights
+1118: Surface Infrastructure Prefab Units
+1121: Perception Points
+1122: Salvager
+1123: Salvager Blueprint
+1126: PhysicalPortals
+1136: Fuel Block
+1137: Fuel Block Blueprint
+1139: Mining Laser Upgrade Blueprint
+1141: Research Data
+1142: Energy Neutralizer Drone Blueprint
+1143: Electronic Warfare Drone Blueprint
+1144: Logistic Drone Blueprint
+1145: Heavy Fighter Blueprint
+1146: Light Fighter Blueprint
+1147: Stasis Webifying Drone Blueprint
+1149: Mobile Jump Disruptor
+1150: Armor Resistance Shift Hardener
+1151: Armor Resistance Shift Hardener Blueprint
+1152: Drone Damage Module Blueprint
+1153: Shield Booster Script
+1154: Target Breaker
+1155: Target Breaker Blueprint
+1156: Ancillary Shield Booster
+1157: Fueled Shield Booster Blueprint
+1158: Heavy Defender Missile
+1159: Salvage Drone
+1160: Survey Probe Blueprints
+1162: Container Blueprints
+1165: Satellite
+1166: FW Minmatar Republic Frigate
+1167: FW Caldari State Frigate
+1168: FW Gallente Federation Frigate
+1169: FW Amarr Empire Frigate
+1174: Asteroid Rogue Drone Officer
+1175: FW Amarr Empire Destroyer
+1176: FW Caldari State Destroyer
+1177: FW Gallente Federation Destroyer
+1178: FW Minmatar Republic Destroyer
+1179: FW Amarr Empire Cruiser
+1180: FW Caldari State Cruiser
+1181: FW Gallente Federation Cruiser
+1182: FW Minmatar Republic Cruiser
+1183: FW Amarr Empire Battlecruiser
+1184: FW Caldari State Battlecruiser
+1185: FW Gallente Federation Battlecruiser
+1186: FW Minmatar Republic Battlecruiser
+1189: Micro Jump Drive
+1190: Salvage Drone Blueprint
+1191: Micro Jump Drive Blueprint
+1194: Special Edition Commodities
+1195: 'Tournament Cards
+1197: Special Edition Commodity Blueprints
+1198: Orbital Target
+1199: Ancillary Armor Repairer
+1200: Fueled Armor Repairer Blueprint
+1201: Attack Battlecruiser
+1202: Blockade Runner
+1206: Security Tags
+1207: Scatter Container
+1209: Shields
+1210: Armor
+1212: Personal Hangar
+1213: Targeting
+1216: Engineering
+1217: Scanning
+1218: Resource Processing
+1220: Neural Enhancement
+1222: ECM Stabilizer Blueprint
+1223: Scanning Upgrade
+1224: Scanning Upgrade Blueprint
+1225: 'Tournament Cards
+1226: Survey Probe Launcher
+1227: Survey Probe Launcher Blueprint
+1228: Cyber Targeting
+1229: Cyber Resource Processing
+1230: Cyber Scanning
+1231: Cyber Biology
+1232: Rig Resource Processing
+1233: Rig Scanning
+1234: Rig Targeting
+1238: Scanning Upgrade Time
+1239: Scanning Upgrade Time Blueprint
+1240: Subsystems
+1241: Planet Management
+1245: Missile Launcher Rapid Heavy
+1246: Mobile Depot
+1247: Mobile Siphon Unit
+1248: Empire Bounty Reimbursement Tags
+1249: Mobile Cyno Inhibitor
+1250: Mobile Tractor Unit
+1252: Ghost Sites Angel Cartel Cruiser
+1255: Ghost Sites Blood Raiders Cruiser
+1259: Ghost Sites Guristas Cruiser
+1262: Ghost Sites Serpentis Cruiser
+1265: Ghost Sites Sanshas Cruiser
+1267: Mobile Siphon Unit Blueprint
+1268: Mobile Cynosural Inhibitor Blueprint
+1269: Mobile Depot Blueprint
+1270: Mobile Tractor Unit Blueprint
+1271: Prosthetics
+1273: Encounter Surveillance System
+1274: Mobile Decoy Unit
+1275: Mobile Scan Inhibitor
+1276: Mobile Micro Jump Unit
+1277: Encounter Surveillance System Blueprint
+1282: Compression Array
+1283: Expedition Frigate
+1285: Asteroid Mordus Legion Commander Frigate
+1286: Asteroid Mordus Legion Commander Cruiser
+1287: Asteroid Mordus Legion Commander Battleship
+1288: Ghost Sites Mordu's Legion
+1289: Warp Accelerator
+1292: Drone Tracking Enhancer
+1293: Mobile Scan Inhibitor Blueprint
+1294: Mobile Micro Jump Unit Blueprint
+1295: Mobile Decoy Unit Blueprint
+1297: Mobile Vault
+1299: Jump Drive Economizer
+1301: Services
+1304: Generic Decryptor
+1305: Tactical Destroyer
+1306: Ship Modifiers
+1307: Roaming Sleepers Cruiser
+1308: Rig Anchor
+1309: Tactical Destroyer Blueprint
+1310: Drifter Battleship
+1311: Super Kerr-Induced Nanocoatings
+1312: Observatory Structures
+1313: Entosis Link
+1314: Unknown Components
+1316: Entosis Command Node
+1317: Infrastructure Upgrade Blueprint
+1318: Entosis Link Blueprint
+1319: Miscellaneous
+1321: Structure Citadel Service Module
+1322: Structure Resource Processing Service Module
+1323: Structure Observatory Service Module
+1324: Structure Stargate Service Module
+1325: Structure Administration Service Module
+1326: Structure Advertisement Service Module
+1327: Structure AXL Missile Launcher
+1328: Structure Guided Bomb Launcher
+1329: Structure Energy Neutralizer
+1330: Structure Area Denial Module
+1331: Structure Bumping Module
+1332: Structure ECM Battery
+1333: Structure Doomsday Weapon
+1395: Missile Guidance Enhancer
+1396: Missile Guidance Computer
+1397: Missile Guidance Enhancer Blueprint
+1399: Missile Guidance Computer Blueprint
+1400: Missile Guidance Script
+1402: Amarr Navy Roaming Battleship
+1404: Engineering Complex
+1405: Laboratory
+1406: Refinery
+1407: Observatory Array
+1408: Stargate
+1409: Administration Hub
+1410: Advertisement Center
+1411: Amarr Navy Roaming Cruiser
+1412: Amarr Navy Roaming Capital
+1413: Amarr Navy Roaming Logistics
+1414: Amarr Navy Roaming Frigate
+1415: Structure Engineering Service Module
+1416: Structure Research Service Module
+1429: Structure Weapon Upgrade
+1430: Structure Fitting Module
+1441: Structure Stasis Webifier
+1442: Structure Warp Scrambler
+1452: Blood Raider Event Battleship
+1453: Blood Raider Event Frigate
+1454: Blood Raider Event Cruiser
+1455: Blood Raider Event Battlecruiser
+1461: Unknown Blueprint
+1462: Structure Blueprints
+1465: Mission Generic Supercarrier
+1527: Logistics Frigate
+1529: Deadspace Sleeper Upgraded Avenger
+1530: Drifter Response Battleship
+1533: Micro Jump Field Generators
+1534: Command Destroyer
+1535: Structure Signal Amplifier
+1537: Support Fighter
+1538: Force Auxiliary
+1542: Command Destroyer Blueprint
+1543: Micro Jump Field Generator Blueprint
+1545: Structure Management
+1546: Structure Anti-Capital Missile
+1547: Structure Anti-Subcapital Missile
+1548: Structure Guided Bomb
+1549: Structure ECM script
+1550: Structure Stasis Webifier Script
+1551: Structure Warp Disruptor Script
+1559: Structure Resistance Switcher Script
+1562: Structure ASML Missile Launcher
+1566: Serpentis Event Frigate
+1567: Serpentis Event Cruiser
+1568: Serpentis Event Battlecruiser
+1569: Guidance Disruption Script
+1570: Structure Assembly Rig M - Small Tech I Ship
+1579: Structure Assembly Rig M - Medium Tech I Ship
+1580: Structure Assembly Rig M - Large Tech I Ship
+1581: Structure Assembly Rig M - Small Tech II Ship
+1582: Structure Assembly Rig M - Medium Tech II Ship
+1583: Structure Assembly Rig M - Large Tech II Ship
+1584: Structure Assembly Rig M - Drone
+1585: Structure Assembly Rig M - Consumable
+1586: Structure Assembly Rig M - Module
+1587: Structure Assembly Rig L - Module, Consumable, Drone
+1588: Structure Assembly Rig L - Tech I Ship
+1589: Structure Assembly Rig L - Tech II Ship
+1590: Structure Assembly Rig L - Tech II Component
+1591: Structure Assembly Rig L - Tech I Capital Component
+1592: Structure Assembly Rig L - Structure Component
+1593: Structure Assembly Rig L - Subsystem
+1594: Structure Assembly Rig XL - Equipment
+1595: Structure Assembly Rig XL - Ship
+1596: Structure Assembly Rig XL - All Components
+1598: Structure Laboratory Rig M - Small Ship
+1599: Structure Laboratory Rig M - Medium Ship
+1600: Structure Laboratory Rig M - Large Ship
+1601: Structure Laboratory Rig M - Drone
+1602: Structure Laboratory Rig M - Consumable
+1603: Structure Laboratory Rig M - Module
+1604: Structure Laboratory Rig L - Module, Consumable, Drone
+1605: Structure Laboratory Rig L - Ship
+1606: Structure Laboratory Rig L - Component
+1607: Structure Laboratory Rig L - Capital Component
+1608: Structure Laboratory Rig L - Structure Component
+1609: Structure Laboratory Rig L - Subsystem
+1610: Structure Laboratory Rig XL - Equipment
+1611: Structure Laboratory Rig XL - Ship
+1612: Structure Laboratory Rig XL - All Components
+1613: Structure Combat Rig M - Missile Application
+1614: Structure Combat Rig M - Missile Projection
+1615: Structure Combat Rig M - Energy Neutralizer Projection
+1616: Structure Combat Rig M - Energy Neutralizer Cap Reduction
+1617: Structure Citadel Rig M - Drone Hitpoints
+1618: Structure Citadel Rig M - Drone Speed
+1619: Structure Combat Rig M - EW projection
+1620: Structure Combat Rig M - EW Cap Reduction
+1621: Structure Combat Rig M - Max Targets
+1622: Structure Combat Rig M - Sensor Resolution
+1629: Structure Combat Rig L - Missile Application and Projection
+1630: Structure Combat Rig L - Energy Neutralizer Projection and Cap Reduction
+1631: Structure Citadel Rig L - Drone Hitpoints and Speed
+1632: Structure Combat Rig L - EW Projection and Cap Reduction
+1633: Structure Combat Rig L - AoE Launcher Application and Projection
+1634: Structure Combat Rig L - Point Defense Battery Application and Projection
+1635: Structure Combat Rig L - Max Targets and Sensor Resolution
+1639: Structure Combat Rig XL - Missile and AoE Missile
+1640: Structure Citadel Rig XL - Drone and PDB
+1641: Structure Combat Rig XL - Energy Neutralizer and EW
+1642: Structure Combat Rig XL - Doomsday and Targeting
+1647: OLD Structure Resource Rig M - HS Ore Reprocessing
+1648: OLD Structure Resource Rig L - Ore Reprocessing
+1649: OLD Structure Resource Rig XL - Reprocessing
+1652: Light Fighter
+1653: Heavy Fighter
+1657: Citadel
+1664: Guristas Event Frigate
+1665: Guristas Event Cruiser
+1666: Guristas Event Battlecruiser
+1667: Guristas Event Battleship
+1670: Augmentations
+1672: Stasis Grappler
+1673: Missile Launcher Rapid Torpedo
+1674: Missile Launcher XL Cruise
+1676: Named Components
+1677: Advanced XL Torpedo
+1678: Advanced XL Cruise Missile
+1679: Support Fighter Blueprint
+1681: Asteroid Angel Cartel Dreadnought
+1682: Asteroid Angel Cartel Titan
+1683: Asteroid Blood Raider Dreadnought
+1684: Asteroid Blood Raider Titan
+1685: Asteroid Guristas Dreadnought
+1686: Asteroid Guristas Titan
+1687: Asteroid Sansha's Nation Dreadnought
+1688: Asteroid Sansha's Nation Supercarrier
+1689: Asteroid Serpentis Dreadnought
+1690: Asteroid Serpentis Titan
+1691: Asteroid Rogue Drone Carrier
+1692: Asteroid Rogue Drone Supercarrier
+1693: OLD Structure Resource Rig M - LNS Ore Reprocessing
+1694: OLD Structure Resource Rig M - Ice 1 Reprocessing
+1695: OLD Structure Resource Rig M - Ice 2 Reprocessing
+1696: OLD Structure Resource Rig L - Ice Reprocessing
+1697: Ancillary Remote Shield Booster
+1698: Ancillary Remote Armor Repairer
+1699: Flex Armor Hardener
+1700: Flex Shield Hardener
+1701: Flex Armor Hardener Script
+1702: Flex Shield Hardener Script
+1703: Burst Projector Blueprint
+1704: Super Weapon Beacon
+1706: Capital Sensor Array
+1707: Structure Module Blueprint
+1708: Structure Rig Blueprint
+1709: Unpublished Structure Module and Rig Blueprints
+1717: Unpublished Structure Modules
+1718: Force Auxiliary Blueprint
+1719: Structure Disruption Battery
+1720: Roaming Serpentis Battleship
+1721: Roaming Serpentis Cruiser
+1722: Roaming Serpentis Frigate
+1723: Shield Resistance Shift Hardener Blueprint
+1724: Angel Cartel Event Frigate
+1725: Angel Cartel Event Cruiser
+1726: Angel Cartel Event Battlecruiser
+1727: Roaming Angel Cartel Battleship
+1728: Roaming Angel Cartel Cruiser
+1729: Roaming Angel Cartel Frigate
+1730: Special Edition Implant
+1731: Event Container
+1734: Roaming Blood Raider Frigate
+1735: Roaming Blood Raider Cruiser
+1736: Roaming Blood Raider Battlecruiser
+1737: Roaming Blood Raider Battleship
+1739: Skill Injectors
+1759: Amarr Event Frigate
+1761: Amarr Event Cruiser
+1762: Amarr Event Battlecruiser
+1764: ♦ Mining Frigate
+1765: ♦ Mining Barge
+1766: ♦ Mining Exhumer
+1767: ♦ Mining Hauler
+1768: Tutorial Seekers
+1769: Shield Command Burst Charges
+1770: Command Burst
+1771: Mining Foreman Burst Charges
+1772: Skirmish Command Burst Charges
+1773: Information Command Burst Charges
+1774: Armor Command Burst Charges
+1788: Hidden Zenith Drifters
+1789: Hidden Zenith Amarr Battleship
+1790: Hidden Zenith Amarr Cruiser
+1791: Hidden Zenith Amarr Frigate
+1792: 'Hidden Zenith Caldari Battleship '
+1793: Hidden Zenith Caldari Cruiser
+1794: Hidden Zenith Caldari Frigate
+1795: Hidden Zenith Gallente Battleship
+1796: Hidden Zenith Gallente Cruiser
+1797: Hidden Zenith Gallente Frigate
+1798: Hidden Zenith Minmatar Battleship
+1799: Hidden Zenith Minmatar Cruiser
+1800: Hidden Zenith Minmatar Frigate
+1803: ♦ Frigate
+1804: Hidden Zenith Amarr Capital
+1805: Hidden Zenith Caldari Capital
+1806: Hidden Zenith Gallente Capital
+1807: Hidden Zenith Minmatar Capital
+1810: Command Burst Charge Blueprint
+1812: Command Burst Blueprint
+1813: ♦ Cruiser
+1814: ♦ Battleship
+1815: Titan Phenomena Generator
+1816: Structure Engineering Rig M - Equipment ME
+1818: Strong Boxes
+1819: Structure Engineering Rig M - Equipment TE
+1820: Structure Engineering Rig M - Ammunition ME
+1821: Structure Engineering Rig M - Ammunition TE
+1822: Structure Engineering Rig M - Drone and Fighter ME
+1823: Structure Engineering Rig M - Drone and Fighter TE
+1824: Structure Engineering Rig M - Basic Small Ship ME
+1825: Structure Engineering Rig M - Basic Small Ship TE
+1826: Structure Engineering Rig M - Basic Medium Ship ME
+1827: Structure Engineering Rig M - Basic Medium Ship TE
+1828: Structure Engineering Rig M - Basic Large Ship ME
+1829: Structure Engineering Rig M - Basic Large Ship TE
+1830: Structure Engineering Rig M - Advanced Small Ship ME
+1831: Structure Engineering Rig M - Advanced Small Ship TE
+1832: Structure Engineering Rig M - Advanced Medium Ship ME
+1833: Structure Engineering Rig M - Advanced Medium Ship TE
+1834: Structure Engineering Rig M - Advanced Large Ship ME
+1835: Structure Engineering Rig M - Advanced Large Ship TE
+1836: Structure Engineering Rig M - Advanced Component ME
+1837: Structure Engineering Rig M - Advanced Component TE
+1838: Structure Engineering Rig M - Basic Capital Component TE
+1839: Structure Engineering Rig M - Basic Capital Component ME
+1840: Structure Engineering Rig M - Structure ME
+1841: Structure Engineering Rig M - Structure TE
+1842: Structure Engineering Rig M - Invention Cost Optimization
+1843: Structure Engineering Rig M - Invention Accelerator
+1844: Structure Engineering Rig M - ME Research Cost Optimization
+1845: Structure Engineering Rig M - ME Research Accelerator
+1846: Structure Engineering Rig M - TE Research Cost Optimization
+1847: Structure Engineering Rig M - TE Research Accelerator
+1848: Structure Engineering Rig M - Blueprint Copy Cost Optimization
+1849: Structure Engineering Rig M - Blueprint Copy Accelerator
+1850: Structure Engineering Rig L - Equipment Efficiency
+1851: Structure Engineering Rig L - Ammunition Efficiency
+1852: Structure Engineering Rig L - Drone and Fighter Efficiency
+1853: Structure Engineering Rig L - Basic Small Ship Efficiency
+1854: Structure Engineering Rig L - Basic Medium Ship Efficiency
+1855: Structure Engineering Rig L - Basic Large Ship Efficiency
+1856: Structure Engineering Rig L - Advanced Small Ship Efficiency
+1857: Structure Engineering Rig L - Advanced Medium Ship Efficiency
+1858: Structure Engineering Rig L - Advanced Large Ship Efficiency
+1859: Structure Engineering Rig L - Capital Ship Efficiency
+1860: Structure Engineering Rig L - Advanced Component Efficiency
+1861: Structure Engineering Rig L - Basic Capital Component Efficiency
+1862: Structure Engineering Rig L - Structure Efficiency
+1863: Structure Engineering Rig L - Invention Optimization
+1864: Structure Engineering Rig L - ME Research Optimization
+1865: Structure Engineering Rig L - TE Research Optimization
+1866: Structure Engineering Rig L - Blueprint Copy Optimization
+1867: Structure Engineering Rig XL - Equipment and Consumable Efficiency
+1868: Structure Engineering Rig XL - Ship Efficiency
+1869: Structure Engineering Rig XL - Structure and Component Efficiency
+1870: Structure Engineering Rig XL - Laboratory Optimization
+1872: Structure Entities
+1875: PLEX
+1876: ♦ Engineering Complex
+1878: ♦ Titan
+1879: ♦ Force Auxiliary
+1880: ♦ Dreadnought
+1882: MassiveEnvironments
+1884: Ubiquitous Moon Asteroids
+1886: Technical Data Chips
+1887: Structure Moon Drilling Service Module
+1888: Composite Reaction Formulas
+1889: Polymer Reaction Formulas
+1890: Biochemical Reaction Formulas
+1891: Depricated Subsystem Blueprints
+1894: Non-Repeating Hardeners
+1895: Event Ships
+1896: '♦ Industrial Command '
+1909: ♦ Battlecruiser
+1911: Empire Asteroids
+1912: Structure Drilling Rig M - Efficiency
+1913: Structure Drilling Rig M - Stability
+1914: Structure Drilling Rig L - Proficiency
+1915: Moon Mining Beacon
+1920: Common Moon Asteroids
+1921: Uncommon Moon Asteroids
+1922: Rare Moon Asteroids
+1923: Exceptional Moon Asteroids
+1924: ♦ Forward Operating Base
+1925: Sleeper Event Frigate
+1926: Sleeper Event Destroyer
+1927: Sleeper Event Cruiser
+1928: Sleeper Event Battlecruiser
+1929: Sleeper Event Battleship
+1933: Structure Composite Reactor Rig M - TE
+1934: Structure Composite Reactor Rig M - ME
+1935: Structure Hybrid Reactor Rig M - TE
+1936: Structure Hybrid Reactor Rig M - ME
+1937: Structure Biochemical Reactor Rig M - TE
+1938: Structure Biochemical Reactor Rig M - ME
+1939: Structure Reactor Rig L - Efficiency
+1940: Moon Chunk
+1941: Structure Resource Rig M - Asteroid Ore Reprocessing
+1942: Structure Resource Rig M - Ice Reprocessing
+1943: Structure Resource Rig M - Moon Ore Reprocessing
+1944: Structure Resource Rig L - Reprocessing
+1945: Structure Resource Rig XL - Reprocessing
+350858: Infantry Weapons
+351064: Infantry Dropsuits
+351121: Infantry Modules
+351210: Infantry Vehicles
+351648: Infantry Skills
+351844: Infantry Equipment
+354641: Infantry Skill Enhancers
+354753: Infantry Installations
+364204: Surface Infrastructure
+367487: 'Services '
+367580: Agents
+367594: Visual Customization
+367774: Salvage Containers
+367776: Salvage Decryptors
+368656: Battle Salvage
+368666: Warbarge
+368726: Infantry Color Skin
