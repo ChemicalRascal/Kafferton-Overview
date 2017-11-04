@@ -615,6 +615,13 @@ presets:
         - 1807
         - 1813
         - 1814
+        - 1876
+        - 1878
+        - 1879
+        - 1880
+        - 1896
+        - 1909
+        - 1924
 - - '⌘ Brackets: Combat/Targets/Friendly (+Dro)'
   - - - alwaysShownStates
       - []
@@ -1016,6 +1023,13 @@ presets:
         - 1807
         - 1813
         - 1814
+        - 1876
+        - 1878
+        - 1879
+        - 1880
+        - 1896
+        - 1909
+        - 1924
 - - '⌘ Brackets: Combat/Targets/Friendly (-Dro)'
   - - - alwaysShownStates
       - []
@@ -1407,6 +1421,13 @@ presets:
         - 1807
         - 1813
         - 1814
+        - 1876
+        - 1878
+        - 1879
+        - 1880
+        - 1896
+        - 1909
+        - 1924
 - - '⌘ Brackets: Misc'
   - - - alwaysShownStates
       - []
@@ -1814,6 +1835,13 @@ presets:
         - 1803
         - 1813
         - 1814
+        - 1876
+        - 1878
+        - 1879
+        - 1880
+        - 1896
+        - 1909
+        - 1924
 - - '⌘ Brackets: Travel'
   - - - alwaysShownStates
       - []
@@ -3144,6 +3172,13 @@ presets:
         - 1807
         - 1813
         - 1814
+        - 1876
+        - 1878
+        - 1879
+        - 1880
+        - 1896
+        - 1909
+        - 1924
 - - '<color=0xFFFFFF66>✜ --- PvE: Basic (-Dro)</color>'
   - - - alwaysShownStates
       - []
@@ -3537,6 +3572,13 @@ presets:
         - 1807
         - 1813
         - 1814
+        - 1876
+        - 1878
+        - 1879
+        - 1880
+        - 1896
+        - 1909
+        - 1924
 - - '<color=0xFFFFFF66>✜ --- PvE: Mission Filter (+LCO +LCS)</color>'
   - - - alwaysShownStates
       - []
@@ -3931,6 +3973,13 @@ presets:
         - 1807
         - 1813
         - 1814
+        - 1876
+        - 1878
+        - 1879
+        - 1880
+        - 1896
+        - 1909
+        - 1924
 - - '<color=0xFFFFFF66>✜ PvE: Anoms</color>'
   - - - alwaysShownStates
       - []
@@ -4318,6 +4367,13 @@ presets:
         - 1807
         - 1813
         - 1814
+        - 1876
+        - 1878
+        - 1879
+        - 1880
+        - 1896
+        - 1909
+        - 1924
 - - '<color=0xFFFFFF66>✜ PvE: Incursion</color>'
   - - - alwaysShownStates
       - []
@@ -4957,6 +5013,13 @@ presets:
         - 1803
         - 1813
         - 1814
+        - 1876
+        - 1878
+        - 1879
+        - 1880
+        - 1896
+        - 1909
+        - 1924
 - - '<color=0xFFFFFF66>✜ PvE: Ratting</color>'
   - - - alwaysShownStates
       - []
@@ -5345,6 +5408,13 @@ presets:
         - 1807
         - 1813
         - 1814
+        - 1876
+        - 1878
+        - 1879
+        - 1880
+        - 1896
+        - 1909
+        - 1924
 - - '<color=0xFFFFFF66>✜ PvE: Salvage/Loot</color>'
   - - - alwaysShownStates
       - []
@@ -5526,6 +5596,13 @@ presets:
         - 1807
         - 1813
         - 1814
+        - 1876
+        - 1878
+        - 1879
+        - 1880
+        - 1896
+        - 1909
+        - 1924
 - - '<color=0xFFFF6666>✥ --- PvP: Basic (+Neut +NPC)</color>'
   - - - alwaysShownStates
       - []
@@ -5844,6 +5921,13 @@ presets:
         - 1807
         - 1813
         - 1814
+        - 1876
+        - 1878
+        - 1879
+        - 1880
+        - 1896
+        - 1909
+        - 1924
 - - '<color=0xFFFF6666>✥ --- PvP: Basic (+Neut -NPC)</color>'
   - - - alwaysShownStates
       - []
@@ -6263,6 +6347,13 @@ presets:
         - 1807
         - 1813
         - 1814
+        - 1876
+        - 1878
+        - 1879
+        - 1880
+        - 1896
+        - 1909
+        - 1924
 - - '<color=0xFFFF6666>✥ --- PvP: Basic (-Neut -NPC)</color>'
   - - - alwaysShownStates
       - []
@@ -6892,6 +6983,13 @@ presets:
         - 1807
         - 1813
         - 1814
+        - 1876
+        - 1878
+        - 1879
+        - 1880
+        - 1896
+        - 1909
+        - 1924
 - - '<color=0xFFFF6666>✥ = Deployables</color>'
   - - - alwaysShownStates
       - []
@@ -8242,6 +8340,13 @@ presets:
         - 1803
         - 1813
         - 1814
+        - 1876
+        - 1878
+        - 1879
+        - 1880
+        - 1896
+        - 1909
+        - 1924
 - - '<color=0xFFFF6666>✥ PvP: PI</color>'
   - - - alwaysShownStates
       - []
