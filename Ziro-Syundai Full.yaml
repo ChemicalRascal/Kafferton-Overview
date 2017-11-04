@@ -10113,16 +10113,16 @@ tabSetup:
   - - - bracket
       - '⌘ --- Brackets: All'
     - - name
-      - '<color=0xFFCC66FF><b>Drones</b></color>'
+      - '<color=0xFFFF6666><b>Ships Only</b></color>'
     - - overview
-      - '<color=0xFFFD9666>✥ Target: Drones</color>'
+      - '<color=0xFFFF6666>✥ -- Ships only</color>'
 - - 3
   - - - bracket
       - '⌘ --- Brackets: All'
     - - name
-      - '<color=0xFFFFFF66><b>Misc</b></color>'
+      - '<color=0xFFFD9666><b>Target</b></color>'
     - - overview
-      - '<color=0xFFFFFF66>✜ PvE: Salvage/Loot</color>'
+      - '<color=0xFFFD9666>✥ Target: Drones</color>'
 - - 4
   - - - bracket
       - '⌘ --- Brackets: All'
@@ -10131,6 +10131,20 @@ tabSetup:
     - - overview
       - '<color=0xFF66CCFF>✪ --- Friendly: All (-Dro)</color>'
 - - 5
+  - - - bracket
+      - '⌘ --- Brackets: All'
+    - - name
+      - '<color=0xFF66CCFF><b>Fleet</b></color>'
+    - - overview
+      - '<color=0xFF66CCFF>✪ = Friendly: Fleet</color>'
+- - 6
+  - - - bracket
+      - '⌘ --- Brackets: All'
+    - - name
+      - '<color=0xFFFFFF66><b>PvE</b></color>'
+    - - overview
+      - '<color=0xFFFFFF66>✜ --- PvE: Basic (-Dro)</color>'
+- - 7
   - - - bracket
       - '⌘ --- Brackets: All'
     - - name
