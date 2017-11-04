@@ -1,57 +1,48 @@
-# Zirio-Syundai Special Overview, Kafferton Mod
+# Kafferton Overview: A Fork Of Zirio-Syundai
 ### Overview Pack for EVE Online
 
-The Zirio-Syundai Special™ Overview was created to provide a generalized, user-friendly, 6-Tab Overview, ready to use as-is with room to be tailored as needed.
-What started as a stop-gap measure to bring the SaraShawa overview up-to-date for 118.6 instead snowballed into a complete re-write of the .yaml file and total overhaul of the visuals.
-If you're familiar with SaraShawa, it shouldn't take too long to adjust to the changes.
+Based on Zirio-Syundai, and thus in turn SaraShawa, The Kafferton Overview aims to be a single, ready-to-use overview pack following established best-practices, and roughly applicable to most-if-not-all playstyles.
 
-This, however, is not the Zirio-Syundai Special Overview. This is the Kafferton Mod to Zirio-Syundai. It is intended as a place to maintain a set of modifications and tweaks atop the Zirio-Syundai Overview.
-
-#### Current Version: v5.2.0m4
-- For Release: 119.4
-- Updated: 2017.03.23
-- Rorquals: Balanced!
-
-#### Current Version based on: Zirio-Syundai 5.2.0 (5.11.0424)
-
-### Current Differences to Z-S 5.2.0 (5.11.0424)
-- Ship labels are all on one line, no forced linebreak messing up who-scrambled-who messages.
-- D-Scan Hunting presets have wrecks and biomasses.
-- PvE Basic presets have LCOs.
-- Brackets: All preset is maintained.
-- Default brackets on all tabs is, consistently, "Brackets: All".
-- Tag column is removed.
-- Fontsize attributes and padding spaces in overview tab names are removed.
+#### Current Version: v5.3.0
+- For Release: Lifeblood
+- Updated: 2017.11.05
 
 ### Credits and Feedback
-Zirio-Syundai 5.2.0 credits are as follows:
+The Kafferton Overview is maintained by:
+- Sally Kafferton
+
+Based on a fork of Zirio-Syundai 5.2.0:
 - Zirio - YAML Coding & Pack Maintenence
 - Deuce Syundai - Design & Text Formatting
-- Mailing List in-game: **Z-S Overview**
-- Visit them on: **[Slack](https://tweetfleet.slack.com/messages/zs-overview-dev/) - [Twitter](https://twitter.com/Arziel1992)**
 - Glance at their [GitHub repository](https://github.com/Arziel1992/Z-S-Overview-Pack)
 
-The Kafferton Mod is maintained by:
-- Sally Kafferton - Minor Tweak Maintenence
-- If you really, really want to provide feedback... Just EVE-Mail me. Or open an issue. I dunno, whatever works for you.
+If you've an issue with the pack... Well, kick it into the repo bugtracker.
 
 ### License
-At the times of forking, Z-S was licensed under the GNU GPLv3. The Kafferton Mod is licensed similarly as a result. Further information can be found in the LICENSE file of the repository.
+At the times of forking, Z-S was licensed under the GNU GPLv3. The Kafferton Overview is licensed similarly as a result. Further information can be found in the LICENSE file of the repository.
 
 ### How to install
 1. Click the green "Clone or download" button located at the top right of the above file list, then click "Download ZIP".
 2. Once downloaded in the folder of your preference, extract the .zip file contents in a folder of your preference.
-3. Copy the "Zirio-Syundai Full.yaml" file to "C:\Users\**<USERNAME>**\Documents\EVE\Overview".
+3. Copy the "Kafferton.yaml" file to "C:\Users\**<USERNAME>**\Documents\EVE\Overview".
 4. Start the game and open up your Overview Settings ( ≡ button at top left of the Overview window).
 5. Go to the "Misc" tab and click "Reset All Overview Settings".
    - Note, this will nuke all your current overview customizations all the way back to CCP's defaults. Maybe export your overview first, as a backup, if you've made \~\~important customizations\~\~.
 6. Go to the "Misc" tab and click "Import Overview Settings".
-7. Select "Zirio-Syundai Full" on the left list and click "Check All" on the top middle, then click "Import".
+7. Select "Kafferton" on the left list and click "Check All" on the top middle, then click "Import".
    - Optionally, you can be clever and not import all of the presets, for whatever reason you choose! Make choices! Do things! Live life to the full!
 
 ### Changelog
 ##### A note on versioning:
-> The version numbers listed here are not identical to upstream version numbers. Versions are renumbered here in order to attempt to maintain semver.
+> Historical version numbers of Z-S have been changed for consistency.
+
+##### Version v5.3.0
+>1. Established better default tab format: 1 Travel, 3 Combat tabs, 2 Friendly tabs, 1 PvE tab, 1 Warpout.
+>2. Added Refinery to all presets already with Citadels in 'em.
+>3. Made presence of new-AI rats consistent.
+>4. Add moon-mining 'roids to PvE Mining.
+>5. Culled a bunch of presets -- will do this more if some aren't useful. But you don't need +Dro/-Dro variants of your core stuff, use a Target Drones tab or something.
+>6. groupsShort, UnusedIDs files added.
 
 ##### Version v5.2.0m4
 >1. Removed linebreak in ship labels.
