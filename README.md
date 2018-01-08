@@ -24,7 +24,7 @@ At the times of forking, Z-S was licensed under the GNU GPLv3. The Kafferton Ove
 ### How to install
 1. Click the green "Clone or download" button located at the top right of the above file list, then click "Download ZIP".
 2. Once downloaded in the folder of your preference, extract the .zip file contents in a folder of your preference.
-3. Copy the "Kafferton.yaml" file to "C:\Users\<USERNAME>\Documents\EVE\Overview".
+3. Copy the "Kafferton.yaml" file to "C:\Users\\\<USERNAME>\Documents\EVE\Overview".
 4. Start the game and open up your Overview Settings ( ≡ button at top left of the Overview window).
 5. Go to the "Misc" tab and click "Reset All Overview Settings".
    - Note, this will nuke all your current overview customizations all the way back to CCP's defaults. Maybe export your overview first, as a backup, if you've made \~\~important customizations\~\~.
