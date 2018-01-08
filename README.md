@@ -3,9 +3,9 @@
 
 Based on Zirio-Syundai, and thus in turn SaraShawa, The Kafferton Overview aims to be a single, ready-to-use overview pack following established best-practices, and roughly applicable to most-if-not-all playstyles.
 
-#### Current Version: v5.3.0
-- For Release: Lifeblood
-- Updated: 2017.11.05
+#### Current Version: v5.3.1
+- For Release: Arms Race 1.6
+- Updated: 2018.01.08
 
 ### Credits and Feedback
 The Kafferton Overview is maintained by:
@@ -24,7 +24,7 @@ At the times of forking, Z-S was licensed under the GNU GPLv3. The Kafferton Ove
 ### How to install
 1. Click the green "Clone or download" button located at the top right of the above file list, then click "Download ZIP".
 2. Once downloaded in the folder of your preference, extract the .zip file contents in a folder of your preference.
-3. Copy the "Kafferton.yaml" file to "C:\Users\**<USERNAME>**\Documents\EVE\Overview".
+3. Copy the "Kafferton.yaml" file to "C:\Users\*\*<USERNAME>\*\*\Documents\EVE\Overview".
 4. Start the game and open up your Overview Settings ( ≡ button at top left of the Overview window).
 5. Go to the "Misc" tab and click "Reset All Overview Settings".
    - Note, this will nuke all your current overview customizations all the way back to CCP's defaults. Maybe export your overview first, as a backup, if you've made \~\~important customizations\~\~.
@@ -34,13 +34,8 @@ At the times of forking, Z-S was licensed under the GNU GPLv3. The Kafferton Ove
 
 ### Recent Changes:
 
-##### Version v5.3.0
->1. Established better default tab format: 1 Travel, 3 Combat tabs, 2 Friendly tabs, 1 PvE tab, 1 Warpout.
->2. Added Refinery to all presets already with Citadels in 'em.
->3. Made presence of new-AI rats consistent.
->4. Add moon-mining 'roids to PvE Mining.
->5. Culled a bunch of presets -- will do this more if some aren't useful. But you don't need +Dro/-Dro variants of your core stuff, use a Target Drones tab or something.
->6. groupsShort, UnusedIDs files added.
+##### Version v5.3.1
+>1. Add `✪ = Friendly: Fleet: Bridgers` preset: Just titans and blops, for when that's relevant.
 
 ## Notice
 SaraShawa Overview Pack did not have a GitHub repository nor it was under any License at the moment of the manual fork and at the moment of creation of Z-S' fork.

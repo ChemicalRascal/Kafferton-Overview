@@ -1,3 +1,14 @@
+##### Version v5.3.1
+>1. Add `✪ = Friendly: Fleet: Bridgers` preset: Just titans and blops, for when that's relevant.
+
+##### Version v5.3.0
+>1. Established better default tab format: 1 Travel, 3 Combat tabs, 2 Friendly tabs, 1 PvE tab, 1 Warpout.
+>2. Added Refinery to all presets already with Citadels in 'em.
+>3. Made presence of new-AI rats consistent.
+>4. Add moon-mining 'roids to PvE Mining.
+>5. Culled a bunch of presets -- will do this more if some aren't useful. But you don't need +Dro/-Dro variants of your core stuff, use a Target Drones tab or something.
+>6. groupsShort, UnusedIDs files added.
+
 ##### Version v5.3.0
 >1. Established better default tab format: 1 Travel, 3 Combat tabs, 2 Friendly tabs, 1 PvE tab, 1 Warpout.
 >2. Added Refinery to all presets already with Citadels in 'em.

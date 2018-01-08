@@ -7879,6 +7879,35 @@ presets:
         - 1538
         - 1548
         - 1704
+- - '<color=0xFF66CCFF>✪ = Friendly: Fleet: Bridgers</color>'
+  - - - alwaysShownStates
+      - - 11
+    - - filteredStates
+      - - 9
+        - 10
+        - 12
+        - 13
+        - 14
+        - 15
+        - 16
+        - 17
+        - 18
+        - 19
+        - 20
+        - 21
+        - 36
+        - 37
+        - 44
+        - 45
+        - 48
+        - 49
+        - 50
+        - 51
+        - 52
+        - 53
+    - - groups
+      - - 30
+        - 898
 - - '<color=0xFF66CCFF>✪ Friendly: Capitals</color>'
   - - - alwaysShownStates
       - - 11
