@@ -1,4 +1,4 @@
-0, '#System'
+0, #System
 1, Character
 2, Corporation
 3, Region
@@ -809,14 +809,14 @@
 1029, Storage Facilities
 1030, Spaceports
 1031, Planetary Resources
-1032, Planet Solid
-1033, Planet Liquid-Gas
-1034, Refined Commodities
-1035, Planet Organic
+1032, Planet Solid - Raw Resource
+1033, Planet Liquid-Gas - Raw Resource
+1034, Refined Commodities - Tier 2
+1035, Planet Organic - Raw Resource
 1036, Planetary Links
-1040, Specialized Commodities
-1041, Advanced Commodities
-1042, Basic Commodities
+1040, Specialized Commodities - Tier 3
+1041, Advanced Commodities - Tier 4
+1042, Basic Commodities - Tier 1
 1045, Sovereignty Structure Blueprint
 1046, Nanite Repair Paste Blueprint
 1048, Starbase Blueprint
@@ -902,7 +902,7 @@
 1190, Salvage Drone Blueprint
 1191, Micro Jump Drive Blueprint
 1194, Special Edition Commodities
-1195, 'Tournament Cards
+1195, Tournament Cards: New Eden Open YC 114
 1197, Special Edition Commodity Blueprints
 1198, Orbital Target
 1199, Ancillary Armor Repairer
@@ -922,7 +922,7 @@
 1222, ECM Stabilizer Blueprint
 1223, Scanning Upgrade
 1224, Scanning Upgrade Blueprint
-1225, 'Tournament Cards
+1225, Tournament Cards: Alliance Tournament All Stars
 1226, Survey Probe Launcher
 1227, Survey Probe Launcher Blueprint
 1228, Cyber Targeting
@@ -978,7 +978,6 @@
 1308, Rig Anchor
 1309, Tactical Destroyer Blueprint
 1310, Drifter Battleship
-1311, Super Kerr-Induced Nanocoatings
 1312, Observatory Structures
 1313, Entosis Link
 1314, Unknown Components
@@ -992,11 +991,11 @@
 1324, Structure Stargate Service Module
 1325, Structure Administration Service Module
 1326, Structure Advertisement Service Module
-1327, Structure AXL Missile Launcher
+1327, Structure XL Missile Launcher
 1328, Structure Guided Bomb Launcher
 1329, Structure Energy Neutralizer
 1330, Structure Area Denial Module
-1331, Structure Bumping Module
+1331, Structure Burst Projector
 1332, Structure ECM Battery
 1333, Structure Doomsday Weapon
 1395, Missile Guidance Enhancer
@@ -1022,10 +1021,10 @@
 1430, Structure Fitting Module
 1441, Structure Stasis Webifier
 1442, Structure Warp Scrambler
-1452, Blood Raider Event Battleship
-1453, Blood Raider Event Frigate
-1454, Blood Raider Event Cruiser
-1455, Blood Raider Event Battlecruiser
+1452, Irregular Drone
+1453, Irregular EW Drone
+1454, Irregular Fighter
+1455, Irregular Fighter Squadron
 1461, Unknown Blueprint
 1462, Structure Blueprints
 1465, Mission Generic Supercarrier
@@ -1047,10 +1046,10 @@
 1550, Structure Stasis Webifier Script
 1551, Structure Warp Disruptor Script
 1559, Structure Resistance Switcher Script
-1562, Structure ASML Missile Launcher
-1566, Serpentis Event Frigate
-1567, Serpentis Event Cruiser
-1568, Serpentis Event Battlecruiser
+1562, Structure Multirole Missile Launcher
+1566, Irregular Shuttle
+1567, Irregular Corvette
+1568, Irregular Frigate
 1569, Guidance Disruption Script
 1570, Structure Assembly Rig M - Small Tech I Ship
 1579, Structure Assembly Rig M - Medium Tech I Ship
@@ -1061,7 +1060,7 @@
 1584, Structure Assembly Rig M - Drone
 1585, Structure Assembly Rig M - Consumable
 1586, Structure Assembly Rig M - Module
-1587, Structure Assembly Rig L - Module, Consumable, Drone
+1587, Structure Assembly Rig L - Module\, Consumable\, Drone
 1588, Structure Assembly Rig L - Tech I Ship
 1589, Structure Assembly Rig L - Tech II Ship
 1590, Structure Assembly Rig L - Tech II Component
@@ -1077,7 +1076,7 @@
 1601, Structure Laboratory Rig M - Drone
 1602, Structure Laboratory Rig M - Consumable
 1603, Structure Laboratory Rig M - Module
-1604, Structure Laboratory Rig L - Module, Consumable, Drone
+1604, Structure Laboratory Rig L - Module\, Consumable\, Drone
 1605, Structure Laboratory Rig L - Ship
 1606, Structure Laboratory Rig L - Component
 1607, Structure Laboratory Rig L - Capital Component
@@ -1095,14 +1094,14 @@
 1619, Structure Combat Rig M - EW projection
 1620, Structure Combat Rig M - EW Cap Reduction
 1621, Structure Combat Rig M - Max Targets
-1622, Structure Combat Rig M - Sensor Resolution
+1622, Structure Combat Rig M - Boosted Sensors
 1629, Structure Combat Rig L - Missile Application and Projection
 1630, Structure Combat Rig L - Energy Neutralizer Projection and Cap Reduction
 1631, Structure Citadel Rig L - Drone Hitpoints and Speed
 1632, Structure Combat Rig L - EW Projection and Cap Reduction
 1633, Structure Combat Rig L - AoE Launcher Application and Projection
 1634, Structure Combat Rig L - Point Defense Battery Application and Projection
-1635, Structure Combat Rig L - Max Targets and Sensor Resolution
+1635, Structure Combat Rig L - Max Targets and Sensor Boosting
 1639, Structure Combat Rig XL - Missile and AoE Missile
 1640, Structure Citadel Rig XL - Drone and PDB
 1641, Structure Combat Rig XL - Energy Neutralizer and EW
@@ -1113,10 +1112,10 @@
 1652, Light Fighter
 1653, Heavy Fighter
 1657, Citadel
-1664, Guristas Event Frigate
-1665, Guristas Event Cruiser
-1666, Guristas Event Battlecruiser
-1667, Guristas Event Battleship
+1664, Irregular Destroyer
+1665, Irregular Cruiser
+1666, Irregular Battlecruiser
+1667, Irregular Battleship
 1670, Augmentations
 1672, Stasis Grappler
 1673, Missile Launcher Rapid Torpedo
@@ -1160,22 +1159,22 @@
 1721, Roaming Serpentis Cruiser
 1722, Roaming Serpentis Frigate
 1723, Shield Resistance Shift Hardener Blueprint
-1724, Angel Cartel Event Frigate
-1725, Angel Cartel Event Cruiser
-1726, Angel Cartel Event Battlecruiser
+1724, Irregular Dreadnought
+1725, Irregular Force Auxiliary
+1726, Irregular Carrier
 1727, Roaming Angel Cartel Battleship
 1728, Roaming Angel Cartel Cruiser
 1729, Roaming Angel Cartel Frigate
 1730, Special Edition Implant
-1731, Event Container
+1731, Irregular Super Carrier
 1734, Roaming Blood Raider Frigate
 1735, Roaming Blood Raider Cruiser
 1736, Roaming Blood Raider Battlecruiser
 1737, Roaming Blood Raider Battleship
 1739, Skill Injectors
-1759, Amarr Event Frigate
-1761, Amarr Event Cruiser
-1762, Amarr Event Battlecruiser
+1759, Irregular Titan
+1761, Irregular Mining Frigate
+1762, Irregular Mining Barge
 1764, ♦ Mining Frigate
 1765, ♦ Mining Barge
 1766, ♦ Mining Exhumer
@@ -1191,7 +1190,7 @@
 1789, Hidden Zenith Amarr Battleship
 1790, Hidden Zenith Amarr Cruiser
 1791, Hidden Zenith Amarr Frigate
-1792, 'Hidden Zenith Caldari Battleship '
+1792, Hidden Zenith Caldari Battleship 
 1793, Hidden Zenith Caldari Cruiser
 1794, Hidden Zenith Caldari Frigate
 1795, Hidden Zenith Gallente Battleship
@@ -1279,8 +1278,8 @@
 1890, Biochemical Reaction Formulas
 1891, Depricated Subsystem Blueprints
 1894, Non-Repeating Hardeners
-1895, Event Ships
-1896, '♦ Industrial Command '
+1895, Irregular Industrial
+1896, ♦ Industrial Command 
 1909, ♦ Battlecruiser
 1911, Empire Asteroids
 1912, Structure Drilling Rig M - Efficiency
@@ -1292,11 +1291,11 @@
 1922, Rare Moon Asteroids
 1923, Exceptional Moon Asteroids
 1924, ♦ Forward Operating Base
-1925, Sleeper Event Frigate
-1926, Sleeper Event Destroyer
-1927, Sleeper Event Cruiser
-1928, Sleeper Event Battlecruiser
-1929, Sleeper Event Battleship
+1925, Irregular Industrial Command Ship
+1926, Irregular Freighter
+1927, Irregular Structure
+1928, Irregular Container
+1929, Irregular - Unidentified
 1933, Structure Composite Reactor Rig M - TE
 1934, Structure Composite Reactor Rig M - ME
 1935, Structure Hybrid Reactor Rig M - TE
@@ -1310,6 +1309,47 @@
 1943, Structure Resource Rig M - Moon Ore Reprocessing
 1944, Structure Resource Rig L - Reprocessing
 1945, Structure Resource Rig XL - Reprocessing
+1948, Cyber Scanning Implant Blueprints
+1950, Permanent SKIN
+1951, Volatile SKIN
+1952, 7-Day SKIN
+1953, 30-Day SKIN
+1954, 90-Day SKIN
+1955, 1-Year SKIN
+1956, Drifter Reinforcements
+1962, Structure QA Modules
+1964, Mutaplasmids
+1966, Structure Capacitor Battery
+1967, Structure Capacitor Power Relay
+1968, Structure Armor Reinforcer
+1969, 
+1971, Uninteractable Localized Effect Beacon
+1972, Flag Cruiser
+1973, Locators
+1974, Structure Festival Launcher
+1975, Non-Interactable Object
+1976, Structure Festival Charges
+1977, Trinary Data Vaults
+1978, Industrial Support Facility
+1979, Abyssal Filaments
+1980, Non-Scalable Clouds
+1981, Triglavian Support Pylons
+1982, Abyssal Spaceship Entities
+1983, Abyssal Environment
+1984, Outpost Conversion Rigs
+1986, Precursor Weapon
+1987, Exotic Plasma Charge
+1988, Entropic Radiation Sink
+1989, Advanced Exotic Plasma Charge
+1990, Precursor Weapon Blueprint
+1991, Abyssal Trace
+1992, Entropic Radiation Sink Blueprint
+1993, Exotic Plasma Charge Blueprint
+1994, Advanced Exotic Plasma Charge Blueprint
+1995, Triglavian Data
+1996, Abyssal Materials
+1997, Abyssal Drone Entities
+1998, Station Conversion Monuments
 350858, Infantry Weapons
 351064, Infantry Dropsuits
 351121, Infantry Modules
@@ -1319,7 +1359,7 @@
 354641, Infantry Skill Enhancers
 354753, Infantry Installations
 364204, Surface Infrastructure
-367487, 'Services '
+367487, Services 
 367580, Agents
 367594, Visual Customization
 367774, Salvage Containers
