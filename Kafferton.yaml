@@ -624,6 +624,10 @@ presets:
         - 1915 #Moon Mining Beacon
         - 1924
         - 1972 #Flag Cruiser
+        - 1981 #Triglavian Support Pylons
+        - 1982 #Abyssal Spaceship Entities
+        - 1991 #Abyssal Trace
+        - 1997 #Abyssal Drone Entities
 - - '⌘ Brackets: Combat/Targets/Friendly (+Dro)'
   - - - alwaysShownStates
       - []
@@ -2100,6 +2104,10 @@ presets:
         - 1909
         - 1924
         - 1972 #Flag Cruiser
+        - 1981 #Triglavian Support Pylons
+        - 1982 #Abyssal Spaceship Entities
+        - 1991 #Abyssal Trace
+        - 1997 #Abyssal Drone Entities
 - - '<color=0xFFFFFF66>✜ --- PvE: Basic (-Dro)</color>'
   - - - alwaysShownStates
       - []
@@ -2500,6 +2508,10 @@ presets:
         - 1909
         - 1924
         - 1972 #Flag Cruiser
+        - 1981 #Triglavian Support Pylons
+        - 1982 #Abyssal Spaceship Entities
+        - 1991 #Abyssal Trace
+        - 1997 #Abyssal Drone Entities
 - - '<color=0xFFFFFF66>✜ --- PvE: Mission Filter (+LCO +LCS)</color>'
   - - - alwaysShownStates
       - []
@@ -4342,6 +4354,10 @@ presets:
         - 1909
         - 1924
         - 1972 #Flag Cruiser
+        - 1981 #Triglavian Support Pylons
+        - 1982 #Abyssal Spaceship Entities
+        - 1991 #Abyssal Trace
+        - 1997 #Abyssal Drone Entities
 - - '<color=0xFFFFFF66>✜ PvE: Salvage/Loot</color>'
   - - - alwaysShownStates
       - []
@@ -4854,6 +4870,10 @@ presets:
         - 1909
         - 1924
         - 1972 #Flag Cruiser
+        - 1981 #Triglavian Support Pylons
+        - 1982 #Abyssal Spaceship Entities
+        - 1991 #Abyssal Trace
+        - 1997 #Abyssal Drone Entities
 - - '<color=0xFFFF6666>✥ --- PvP: Basic (-Neut)</color>'
   - - - alwaysShownStates
       - []
@@ -5181,6 +5201,10 @@ presets:
         - 1909
         - 1924
         - 1972 #Flag Cruiser
+        - 1981 #Triglavian Support Pylons
+        - 1982 #Abyssal Spaceship Entities
+        - 1991 #Abyssal Trace
+        - 1997 #Abyssal Drone Entities
 - - '<color=0xFFFF6666>✥ -- Ships only</color>'
   - - - alwaysShownStates
       - []
@@ -5723,6 +5747,10 @@ presets:
         - 1923 #Exceptional Moon Asteroids
         - 1924
         - 1972 #Flag Cruiser
+        - 1981 #Triglavian Support Pylons
+        - 1982 #Abyssal Spaceship Entities
+        - 1991 #Abyssal Trace
+        - 1997 #Abyssal Drone Entities
 - - '<color=0xFFFF6666>✥ = Deployables</color>'
   - - - alwaysShownStates
       - []
