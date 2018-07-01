@@ -623,6 +623,7 @@ presets:
         - 1909
         - 1915 #Moon Mining Beacon
         - 1924
+        - 1972 #Flag Cruiser
 - - '⌘ Brackets: Combat/Targets/Friendly (+Dro)'
   - - - alwaysShownStates
       - []
@@ -1031,6 +1032,7 @@ presets:
         - 1896
         - 1909
         - 1924
+        - 1972 #Flag Cruiser
 - - '⌘ Brackets: Combat/Targets/Friendly (-Dro)'
   - - - alwaysShownStates
       - []
@@ -1429,6 +1431,7 @@ presets:
         - 1896
         - 1909
         - 1924
+        - 1972 #Flag Cruiser
 - - '⌘ Brackets: Warpout (!)'
   - - - alwaysShownStates
       - []
@@ -2096,6 +2099,7 @@ presets:
         - 1896
         - 1909
         - 1924
+        - 1972 #Flag Cruiser
 - - '<color=0xFFFFFF66>✜ --- PvE: Basic (-Dro)</color>'
   - - - alwaysShownStates
       - []
@@ -2495,6 +2499,7 @@ presets:
         - 1896
         - 1909
         - 1924
+        - 1972 #Flag Cruiser
 - - '<color=0xFFFFFF66>✜ --- PvE: Mission Filter (+LCO +LCS)</color>'
   - - - alwaysShownStates
       - []
@@ -2895,6 +2900,7 @@ presets:
         - 1896
         - 1909
         - 1924
+        - 1972 #Flag Cruiser
 - - '<color=0xFFFFFF66>✜ PvE: Anoms</color>'
   - - - alwaysShownStates
       - []
@@ -3288,6 +3294,7 @@ presets:
         - 1896
         - 1909
         - 1924
+        - 1972 #Flag Cruiser
 - - '<color=0xFFFFFF66>✜ PvE: Incursion</color>'
   - - - alwaysShownStates
       - []
@@ -3607,6 +3614,7 @@ presets:
         - 1759
         - 1761
         - 1762
+        - 1972 #Flag Cruiser
 - - '<color=0xFFFFFF66>✜ PvE: Mining</color>'
   - - - alwaysShownStates
       - []
@@ -3938,6 +3946,7 @@ presets:
         - 1922 #Rare Moon Asteroids
         - 1923 #Exceptional Moon Asteroids
         - 1924
+        - 1972 #Flag Cruiser
 - - '<color=0xFFFFFF66>✜ PvE: Ratting</color>'
   - - - alwaysShownStates
       - []
@@ -4332,6 +4341,7 @@ presets:
         - 1896
         - 1909
         - 1924
+        - 1972 #Flag Cruiser
 - - '<color=0xFFFFFF66>✜ PvE: Salvage/Loot</color>'
   - - - alwaysShownStates
       - []
@@ -4843,6 +4853,7 @@ presets:
         - 1896
         - 1909
         - 1924
+        - 1972 #Flag Cruiser
 - - '<color=0xFFFF6666>✥ --- PvP: Basic (-Neut)</color>'
   - - - alwaysShownStates
       - []
@@ -5169,6 +5180,7 @@ presets:
         - 1896
         - 1909
         - 1924
+        - 1972 #Flag Cruiser
 - - '<color=0xFFFF6666>✥ -- Ships only</color>'
   - - - alwaysShownStates
       - []
@@ -5231,6 +5243,7 @@ presets:
         - 1538
         - 1548
         - 1704
+        - 1972 #Flag Cruiser
 - - '<color=0xFFFF6666>✥ = CovOps: Collidables</color>'
   - - - alwaysShownStates
       - []
@@ -5709,6 +5722,7 @@ presets:
         - 1922 #Rare Moon Asteroids
         - 1923 #Exceptional Moon Asteroids
         - 1924
+        - 1972 #Flag Cruiser
 - - '<color=0xFFFF6666>✥ = Deployables</color>'
   - - - alwaysShownStates
       - []
@@ -5975,6 +5989,7 @@ presets:
         - 1538
         - 1548
         - 1704
+        - 1972 #Flag Cruiser
 - - '<color=0xFFFF6666>✥ = Structures</color>'
   - - - alwaysShownStates
       - []
@@ -6443,6 +6458,7 @@ presets:
         - 1538
         - 1548
         - 1704
+        - 1972 #Flag Cruiser
 - - '<color=0xFFFF6666>✥ PvP: Exploring</color>'
   - - - alwaysShownStates
       - []
@@ -6727,6 +6743,7 @@ presets:
         - 1759
         - 1761
         - 1762
+        - 1972 #Flag Cruiser
 - - '<color=0xFFFF6666>✥ PvP: FW</color>'
   - - - alwaysShownStates
       - []
@@ -7063,6 +7080,7 @@ presets:
         - 1896
         - 1909
         - 1924
+        - 1972 #Flag Cruiser
 - - '<color=0xFFFD9666>✥ Target: Antibombers (!)</color>'
   - - - filteredStates
       - - 11
@@ -7192,6 +7210,7 @@ presets:
         - 894
         - 906
         - 963
+        - 1972 #Flag Cruiser
 - - '<color=0xFFFD9666>✥ Target: CS/T3</color>'
   - - - alwaysShownStates
       - []
@@ -7529,6 +7548,7 @@ presets:
         - 1548
         - 1657
         - 1704
+        - 1972 #Flag Cruiser
 - - '<color=0xFF66CCFF>✪ = Friendly: Fleet</color>'
   - - - alwaysShownStates
       - - 11
@@ -7620,6 +7640,7 @@ presets:
         - 1538
         - 1548
         - 1704
+        - 1972 #Flag Cruiser
 - - '<color=0xFF66CCFF>✪ = Friendly: Fleet: Bridgers</color>'
   - - - alwaysShownStates
       - - 11
@@ -8041,6 +8062,7 @@ presets:
         - 1652
         - 1653
         - 1657
+        - 1972 #Flag Cruiser
 - - '<color=0xFFFD96CF>※ D-Scan: Hunter (+Dro / Offensive)</color>'
   - - - alwaysShownStates
       - []
@@ -8124,6 +8146,7 @@ presets:
         - 1652
         - 1653
         - 1657
+        - 1972 #Flag Cruiser
 - - '<color=0xFFFD96CF>※ D-Scan: Hunter (-Dro / Offensive)</color>'
   - - - alwaysShownStates
       - []
@@ -8197,6 +8220,7 @@ presets:
         - 1534
         - 1538
         - 1657
+        - 1972 #Flag Cruiser
 - - '<color=0xFFFD96CF>※ D-Scan: POS +Mods</color>'
   - - - alwaysShownStates
       - []
@@ -8320,6 +8344,7 @@ presets:
         - 1534
         - 1538
         - 1657
+        - 1972 #Flag Cruiser
 shipLabelOrder:
 - ship type
 - alliance
