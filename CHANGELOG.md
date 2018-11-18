@@ -1,3 +1,15 @@
+##### Version v5.3.3
+>1. Remove Citadels, ECs, Refineries from Defensive D-Scan preset.
+>2. Add Upwell Jump Gates to presets with regular gates in them.
+>3. Add Upwell Cyno Jammers/Beacons to most general-purpose presets.
+
+##### Version v5.3.2
+>1. Remove refineries from most Overview-intended presets, because refinery spam is real.
+>2. Remove nonsensical PI "PvP" preset.
+>3. Trim D-Scan presets.
+>4. Add Flag Cruiser where appropriate.
+>5. Add Abyssal rats.
+
 ##### Version v5.3.1
 >1. Add `✪ = Friendly: Fleet: Bridgers` preset: Just titans and blops, for when that's relevant.
 

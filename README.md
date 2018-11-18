@@ -3,9 +3,9 @@
 
 Based on Zirio-Syundai, and thus in turn SaraShawa, The Kafferton Overview aims to be a single, ready-to-use overview pack following established best-practices, and roughly applicable to most-if-not-all playstyles.
 
-#### Current Version: v5.3.2
-- For Release: Into The Abyss 1.8
-- Updated: 2018.07.02
+#### Current Version: v5.3.3
+- For Release: Onslaught 1.2
+- Updated: 2018.11.19
 
 ### Credits and Feedback
 The Kafferton Overview is maintained by:
@@ -34,11 +34,10 @@ At the times of forking, Z-S was licensed under the GNU GPLv3. The Kafferton Ove
 
 ### Recent Changes:
 
-##### Version v5.3.2
->1. Remove "PvP: PI" preset
->2. Remove various D-Scan presets (Defensive +Dro, POS -Mods are both gone)
->3. Add Flag Cruiser where appropriate
->4. Add Abyssal rats where appropriate
+##### Version v5.3.3
+>1. Remove Citadels, ECs, Refineries from Defensive D-Scan preset.
+>2. Add Upwell Jump Gates to presets with regular gates in them.
+>3. Add Upwell Cyno Jammers/Beacons to most general-purpose presets.
 
 ## Notice
 SaraShawa Overview Pack did not have a GitHub repository nor it was under any License at the moment of the manual fork and at the moment of creation of Z-S' fork.
