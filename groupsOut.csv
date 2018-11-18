@@ -397,7 +397,7 @@
 533, Storyline Mission Cruiser
 534, Storyline Mission Battleship
 535, Construction Platform Blueprint
-536, Station Components
+536, Structure Components
 537, Dreadnought Blueprint
 538, Data Miners
 540, Command Ship
@@ -978,6 +978,7 @@
 1308, Rig Anchor
 1309, Tactical Destroyer Blueprint
 1310, Drifter Battleship
+1311, Super Kerr-Induced Nanocoatings
 1312, Observatory Structures
 1313, Entosis Link
 1314, Unknown Components
@@ -988,7 +989,7 @@
 1321, Structure Citadel Service Module
 1322, Structure Resource Processing Service Module
 1323, Structure Observatory Service Module
-1324, Structure Stargate Service Module
+1324, Structure Navigation Service Module
 1325, Structure Administration Service Module
 1326, Structure Advertisement Service Module
 1327, Structure XL Missile Launcher
@@ -1008,7 +1009,7 @@
 1405, Laboratory
 1406, Refinery
 1407, Observatory Array
-1408, Stargate
+1408, Upwell Jump Gate
 1409, Administration Hub
 1410, Advertisement Center
 1411, Amarr Navy Roaming Cruiser
@@ -1179,7 +1180,7 @@
 1765, ♦ Mining Barge
 1766, ♦ Mining Exhumer
 1767, ♦ Mining Hauler
-1768, Tutorial Seekers
+1768, Seeker Scouts
 1769, Shield Command Burst Charges
 1770, Command Burst
 1771, Mining Foreman Burst Charges
@@ -1323,7 +1324,7 @@
 1967, Structure Capacitor Power Relay
 1968, Structure Armor Reinforcer
 1969, 
-1971, Uninteractable Localized Effect Beacon
+1971, Abyssal Hazards
 1972, Flag Cruiser
 1973, Locators
 1974, Structure Festival Launcher
@@ -1350,6 +1351,19 @@
 1996, Abyssal Materials
 1997, Abyssal Drone Entities
 1998, Station Conversion Monuments
+2001, Citizen Ships
+2002, Triglavian Datastreams
+2003, Citizen Modules
+2004, Citizen Mining Laser
+2005, Deployable Advertisement
+2006, Deadspace Asteroids
+2008, Mass Entanglers
+2009, Precursor Cache
+2010, Mass Entangler Blueprints
+2013, Stasis Nullifiers
+2015, Upwell Monument
+2016, Upwell Cyno Jammer
+2017, Upwell Cyno Beacon
 350858, Infantry Weapons
 351064, Infantry Dropsuits
 351121, Infantry Modules
