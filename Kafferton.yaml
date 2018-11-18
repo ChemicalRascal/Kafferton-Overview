@@ -629,6 +629,8 @@ presets:
         - 1982 #Abyssal Spaceship Entities
         - 1991 #Abyssal Trace
         - 1997 #Abyssal Drone Entities
+        - 2016 #Upwell Cyno Jammer
+        - 2017 #Upwell Cyno Beacon
 - - '⌘ Brackets: Combat/Targets/Friendly (+Dro)'
   - - - alwaysShownStates
       - []
@@ -1039,6 +1041,8 @@ presets:
         - 1909
         - 1924
         - 1972 #Flag Cruiser
+        - 2016 #Upwell Cyno Jammer
+        - 2017 #Upwell Cyno Beacon
 - - '⌘ Brackets: Combat/Targets/Friendly (-Dro)'
   - - - alwaysShownStates
       - []
@@ -1439,6 +1443,8 @@ presets:
         - 1909
         - 1924
         - 1972 #Flag Cruiser
+        - 2016 #Upwell Cyno Jammer
+        - 2017 #Upwell Cyno Beacon
 - - '⌘ Brackets: Warpout (!)'
   - - - alwaysShownStates
       - []
@@ -1490,6 +1496,8 @@ presets:
         - 1406 #Refinery
         - 1408 #Upwell Jump Gate
         - 1657
+        - 2016 #Upwell Cyno Jammer
+        - 2017 #Upwell Cyno Beacon
 - - '<color=0xFF66FF66>➲ Extra: Podsaver (!)</color>'
   - - - alwaysShownStates
       - []
@@ -1687,6 +1695,8 @@ presets:
         - 1548
         - 1657
         - 1704
+        - 2016 #Upwell Cyno Jammer
+        - 2017 #Upwell Cyno Beacon
 - - '<color=0xFFFFFFFF>✈ Just Refineries</color>'
   - - - alwaysShownStates
       - []
@@ -2114,6 +2124,8 @@ presets:
         - 1982 #Abyssal Spaceship Entities
         - 1991 #Abyssal Trace
         - 1997 #Abyssal Drone Entities
+        - 2016 #Upwell Cyno Jammer
+        - 2017 #Upwell Cyno Beacon
 - - '<color=0xFFFFFF66>✜ --- PvE: Basic (-Dro)</color>'
   - - - alwaysShownStates
       - []
@@ -2519,6 +2531,8 @@ presets:
         - 1982 #Abyssal Spaceship Entities
         - 1991 #Abyssal Trace
         - 1997 #Abyssal Drone Entities
+        - 2016 #Upwell Cyno Jammer
+        - 2017 #Upwell Cyno Beacon
 - - '<color=0xFFFFFF66>✜ --- PvE: Mission Filter (+LCO +LCS)</color>'
   - - - alwaysShownStates
       - []
@@ -2921,6 +2935,8 @@ presets:
         - 1909
         - 1924
         - 1972 #Flag Cruiser
+        - 2016 #Upwell Cyno Jammer
+        - 2017 #Upwell Cyno Beacon
 - - '<color=0xFFFFFF66>✜ PvE: Anoms</color>'
   - - - alwaysShownStates
       - []
@@ -3316,6 +3332,8 @@ presets:
         - 1909
         - 1924
         - 1972 #Flag Cruiser
+        - 2016 #Upwell Cyno Jammer
+        - 2017 #Upwell Cyno Beacon
 - - '<color=0xFFFFFF66>✜ PvE: Incursion</color>'
   - - - alwaysShownStates
       - []
@@ -3638,6 +3656,8 @@ presets:
         - 1761
         - 1762
         - 1972 #Flag Cruiser
+        - 2016 #Upwell Cyno Jammer
+        - 2017 #Upwell Cyno Beacon
 - - '<color=0xFFFFFF66>✜ PvE: Mining</color>'
   - - - alwaysShownStates
       - []
@@ -3970,6 +3990,8 @@ presets:
         - 1923 #Exceptional Moon Asteroids
         - 1924
         - 1972 #Flag Cruiser
+        - 2016 #Upwell Cyno Jammer
+        - 2017 #Upwell Cyno Beacon
 - - '<color=0xFFFFFF66>✜ PvE: Ratting</color>'
   - - - alwaysShownStates
       - []
@@ -4370,6 +4392,8 @@ presets:
         - 1982 #Abyssal Spaceship Entities
         - 1991 #Abyssal Trace
         - 1997 #Abyssal Drone Entities
+        - 2016 #Upwell Cyno Jammer
+        - 2017 #Upwell Cyno Beacon
 - - '<color=0xFFFFFF66>✜ PvE: Salvage/Loot</color>'
   - - - alwaysShownStates
       - []
@@ -4558,6 +4582,8 @@ presets:
         - 1896
         - 1909
         - 1924
+        - 2016 #Upwell Cyno Jammer
+        - 2017 #Upwell Cyno Beacon
 - - '<color=0xFFFF6666>✥ --- PvP: Basic (+Neut)</color>'
   - - - alwaysShownStates
       - []
@@ -4888,6 +4914,8 @@ presets:
         - 1982 #Abyssal Spaceship Entities
         - 1991 #Abyssal Trace
         - 1997 #Abyssal Drone Entities
+        - 2016 #Upwell Cyno Jammer
+        - 2017 #Upwell Cyno Beacon
 - - '<color=0xFFFF6666>✥ --- PvP: Basic (-Neut)</color>'
   - - - alwaysShownStates
       - []
@@ -5220,6 +5248,8 @@ presets:
         - 1982 #Abyssal Spaceship Entities
         - 1991 #Abyssal Trace
         - 1997 #Abyssal Drone Entities
+        - 2016 #Upwell Cyno Jammer
+        - 2017 #Upwell Cyno Beacon
 - - '<color=0xFFFF6666>✥ -- Ships only</color>'
   - - - alwaysShownStates
       - []
@@ -5767,6 +5797,8 @@ presets:
         - 1982 #Abyssal Spaceship Entities
         - 1991 #Abyssal Trace
         - 1997 #Abyssal Drone Entities
+        - 2016 #Upwell Cyno Jammer
+        - 2017 #Upwell Cyno Beacon
 - - '<color=0xFFFF6666>✥ = Deployables</color>'
   - - - alwaysShownStates
       - []
@@ -6035,6 +6067,8 @@ presets:
         - 1548
         - 1704
         - 1972 #Flag Cruiser
+        - 2016 #Upwell Cyno Jammer
+        - 2017 #Upwell Cyno Beacon
 - - '<color=0xFFFF6666>✥ = Structures</color>'
   - - - alwaysShownStates
       - []
@@ -6254,6 +6288,8 @@ presets:
         - 1409
         - 1410
         - 1657
+        - 2016 #Upwell Cyno Jammer
+        - 2017 #Upwell Cyno Beacon
 - - '<color=0xFFFF6666>✥ = Wartargets</color>'
   - - - alwaysShownStates
       - - 13
@@ -6505,6 +6541,8 @@ presets:
         - 1548
         - 1704
         - 1972 #Flag Cruiser
+        - 2016 #Upwell Cyno Jammer
+        - 2017 #Upwell Cyno Beacon
 - - '<color=0xFFFF6666>✥ PvP: Exploring</color>'
   - - - alwaysShownStates
       - []
@@ -6791,6 +6829,8 @@ presets:
         - 1761
         - 1762
         - 1972 #Flag Cruiser
+        - 2016 #Upwell Cyno Jammer
+        - 2017 #Upwell Cyno Beacon
 - - '<color=0xFFFF6666>✥ PvP: FW</color>'
   - - - alwaysShownStates
       - []
@@ -7129,6 +7169,8 @@ presets:
         - 1909
         - 1924
         - 1972 #Flag Cruiser
+        - 2016 #Upwell Cyno Jammer
+        - 2017 #Upwell Cyno Beacon
 - - '<color=0xFFFD9666>✥ Target: Antibombers (!)</color>'
   - - - filteredStates
       - - 11
@@ -7598,6 +7640,8 @@ presets:
         - 1657
         - 1704
         - 1972 #Flag Cruiser
+        - 2016 #Upwell Cyno Jammer
+        - 2017 #Upwell Cyno Beacon
 - - '<color=0xFF66CCFF>✪ = Friendly: Fleet</color>'
   - - - alwaysShownStates
       - - 11
@@ -7691,6 +7735,8 @@ presets:
         - 1548
         - 1704
         - 1972 #Flag Cruiser
+        - 2016 #Upwell Cyno Jammer
+        - 2017 #Upwell Cyno Beacon
 - - '<color=0xFF66CCFF>✪ = Friendly: Fleet: Bridgers</color>'
   - - - alwaysShownStates
       - - 11
@@ -8113,6 +8159,8 @@ presets:
         - 1653
         - 1657
         - 1972 #Flag Cruiser
+        - 2016 #Upwell Cyno Jammer
+        - 2017 #Upwell Cyno Beacon
 - - '<color=0xFFFD96CF>※ D-Scan: Hunter (+Dro / Offensive)</color>'
   - - - alwaysShownStates
       - []
