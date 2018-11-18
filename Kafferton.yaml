@@ -8309,7 +8309,7 @@ presets:
         - 1212
         - 1247
         - 1282
-- - '<color=0xFFFD96CF>※ D-Scan: Ships (-Dro / Defensive)</color>'
+- - '<color=0xFFFD96CF>※ D-Scan: Ships (Defensive)</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -8361,9 +8361,7 @@ presets:
         - 1249
         - 1283
         - 1305
-        - 1404
         - 1405
-        - 1406 #Refinery
         - 1407
         - 1408
         - 1409
@@ -8371,7 +8369,6 @@ presets:
         - 1527
         - 1534
         - 1538
-        - 1657
         - 1972 #Flag Cruiser
 shipLabelOrder:
 - ship type
