@@ -3990,6 +3990,38 @@ presets:
         - 1923 #Exceptional Moon Asteroids
         - 1924
         - 1972 #Flag Cruiser
+        - 2006 #Deadspace Asteroids
+        - 2016 #Upwell Cyno Jammer
+        - 2017 #Upwell Cyno Beacon
+- - '<color=0xFFFFFF66>✜ PvE: Roid Rage</color>'
+  - - - alwaysShownStates
+      - []
+    - - filteredStates
+      - []
+    - - groups
+      - - 450 #Arkonor
+        - 451 #Bistot
+        - 452 #Crokite
+        - 453 #Dark Ochre
+        - 454 #Hedbergite
+        - 455 #Hemorphite
+        - 456 #Jaspet
+        - 457 #Kernite
+        - 458 #Plagioclase
+        - 459 #Pyroxeres
+        - 460 #Scordite
+        - 461 #Spodumain
+        - 462 #Veldspar
+        - 467 #Gneiss
+        - 468 #Mercoxit
+        - 469 #Omber
+        - 1884 #Ubiquitous Moon Asteroids
+        - 1911 #Empire Asteroids
+        - 1920 #Common Moon Asteroids
+        - 1921 #Uncommon Moon Asteroids
+        - 1922 #Rare Moon Asteroids
+        - 1923 #Exceptional Moon Asteroids
+        - 2006 #Deadspace Asteroids
         - 2016 #Upwell Cyno Jammer
         - 2017 #Upwell Cyno Beacon
 - - '<color=0xFFFFFF66>✜ PvE: Ratting</color>'
