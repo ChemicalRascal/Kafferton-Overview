@@ -1,3 +1,7 @@
+##### Version v5.3.4
+>1. Add "Roid Rage" preset.
+>2. Add "Future Home of Cyno Fields" to all overviews with beacons already in 'em (futureproofing!).
+
 ##### Version v5.3.3
 >1. Remove Citadels, ECs, Refineries from Defensive D-Scan preset.
 >2. Add Upwell Jump Gates to presets with regular gates in them.
