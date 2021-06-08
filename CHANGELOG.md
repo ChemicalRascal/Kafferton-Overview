@@ -1,3 +1,6 @@
+##### Version v5.3.5
+>1. Add the second, non-beacon ESS group ID (ergo, the actual ESS itself) in overviews that had the beacon present.
+
 ##### Version v5.3.4
 >1. Add "Roid Rage" preset.
 >2. Add "Future Home of Cyno Fields" to all overviews with beacons already in 'em (futureproofing!).

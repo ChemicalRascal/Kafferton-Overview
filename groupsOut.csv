@@ -218,9 +218,9 @@
 323,Billboard
 324,Assault Frigate
 325,Remote Armor Repairer
-326,Armor Plating Energized
+326,Energized Armor Membrane
 328,Armor Hardener
-329,Armor Reinforcer
+329,Armor Plate
 330,Cloaking Device
 332,Tool
 333,Datacores
@@ -239,7 +239,7 @@
 346,Co-Processor Blueprint
 347,Signal Amplifier Blueprint
 348,Armor Hardener Blueprint
-349,Armor Reinforcer Blueprint
+349,Armor Plate Blueprint
 350,Remote Armor Repairer Blueprint
 352,Auxiliary Power Core Blueprint
 353,QA Module
@@ -494,7 +494,7 @@
 655,Advanced Heavy Missile
 656,Advanced Cruise Missile
 657,Advanced Torpedo
-658,Cynosural Field
+658,Cynosural Field Generator
 659,Supercarrier
 660,Energy Vampire Slayer
 661,Simple Biochemical Reactions
@@ -718,7 +718,7 @@
 893,Electronic Attack Ship
 894,Heavy Interdiction Cruiser
 896,Rig Security Transponder
-897,Covert Beacon
+897,Covert Cynosural Field
 898,Black Ops
 899,Warp Disrupt Field Generator
 900,Marauder
@@ -754,11 +754,11 @@
 944,Capital Industrial Ship Blueprint
 945,Industrial Command Ship Blueprint
 952,Mission Container
-954,Defensive Systems
+954,Defensive Subsystem
 955,Depricated Subsystems
-956,Offensive Systems
-957,Propulsion Systems
-958,Core Systems
+956,Offensive Subsystem
+957,Propulsion Subsystem
+958,Core Subsystem
 959,Deadspace Sleeper Sleepless Sentinel
 960,Deadspace Sleeper Awakened Sentinel
 961,Deadspace Sleeper Emergent Sentinel
@@ -872,8 +872,8 @@
 1151,Armor Resistance Shift Hardener Blueprint
 1152,Drone Damage Module Blueprint
 1153,Shield Booster Script
-1154,Target Breaker
-1155,Target Breaker Blueprint
+1154,Signature Suppressor
+1155,Signature Suppressor Blueprint
 1156,Ancillary Shield Booster
 1157,Fueled Shield Booster Blueprint
 1158,Heavy Defender Missile
@@ -939,7 +939,7 @@
 1245,Missile Launcher Rapid Heavy
 1246,Mobile Depot
 1247,Mobile Siphon Unit
-1248,Empire Bounty Reimbursement Tags
+1248,Bounty Encrypted Bonds
 1249,Mobile Cyno Inhibitor
 1250,Mobile Tractor Unit
 1252,Ghost Sites Angel Cartel Cruiser
@@ -1061,7 +1061,7 @@
 1584,Structure Assembly Rig M - Drone
 1585,Structure Assembly Rig M - Consumable
 1586,Structure Assembly Rig M - Module
-1587,Structure Assembly Rig L - Module\, Consumable\, Drone
+1587,"Structure Assembly Rig L - Module, Consumable, Drone"
 1588,Structure Assembly Rig L - Tech I Ship
 1589,Structure Assembly Rig L - Tech II Ship
 1590,Structure Assembly Rig L - Tech II Component
@@ -1077,7 +1077,7 @@
 1601,Structure Laboratory Rig M - Drone
 1602,Structure Laboratory Rig M - Consumable
 1603,Structure Laboratory Rig M - Module
-1604,Structure Laboratory Rig L - Module\, Consumable\, Drone
+1604,"Structure Laboratory Rig L - Module, Consumable, Drone"
 1605,Structure Laboratory Rig L - Ship
 1606,Structure Laboratory Rig L - Component
 1607,Structure Laboratory Rig L - Capital Component
@@ -1176,10 +1176,10 @@
 1759,Irregular Titan
 1761,Irregular Mining Frigate
 1762,Irregular Mining Barge
-1764,♦ Mining Frigate
-1765,♦ Mining Barge
-1766,♦ Mining Exhumer
-1767,♦ Mining Hauler
+1764,? Mining Frigate
+1765,? Mining Barge
+1766,? Mining Exhumer
+1767,? Mining Hauler
 1768,Seeker Scouts
 1769,Shield Command Burst Charges
 1770,Command Burst
@@ -1200,15 +1200,15 @@
 1798,Hidden Zenith Minmatar Battleship
 1799,Hidden Zenith Minmatar Cruiser
 1800,Hidden Zenith Minmatar Frigate
-1803,♦ Frigate
+1803,? Frigate
 1804,Hidden Zenith Amarr Capital
 1805,Hidden Zenith Caldari Capital
 1806,Hidden Zenith Gallente Capital
 1807,Hidden Zenith Minmatar Capital
 1810,Command Burst Charge Blueprint
 1812,Command Burst Blueprint
-1813,♦ Cruiser
-1814,♦ Battleship
+1813,? Cruiser
+1814,? Battleship
 1815,Titan Phenomena Generator
 1816,Structure Engineering Rig M - Equipment ME
 1818,Strong Boxes
@@ -1266,10 +1266,10 @@
 1870,Structure Engineering Rig XL - Laboratory Optimization
 1872,Structure Entities
 1875,PLEX
-1876,♦ Engineering Complex
-1878,♦ Titan
-1879,♦ Force Auxiliary
-1880,♦ Dreadnought
+1876,? Engineering Complex
+1878,? Titan
+1879,? Force Auxiliary
+1880,? Dreadnought
 1882,MassiveEnvironments
 1884,Ubiquitous Moon Asteroids
 1886,Technical Data Chips
@@ -1280,8 +1280,8 @@
 1891,Depricated Subsystem Blueprints
 1894,Non-Repeating Hardeners
 1895,Irregular Industrial
-1896,♦ Industrial Command 
-1909,♦ Battlecruiser
+1896,? Industrial Command 
+1909,? Battlecruiser
 1911,Empire Asteroids
 1912,Structure Drilling Rig M - Efficiency
 1913,Structure Drilling Rig M - Stability
@@ -1291,7 +1291,7 @@
 1921,Uncommon Moon Asteroids
 1922,Rare Moon Asteroids
 1923,Exceptional Moon Asteroids
-1924,♦ Forward Operating Base
+1924,? Forward Operating Base
 1925,Irregular Industrial Command Ship
 1926,Irregular Freighter
 1927,Irregular Structure
@@ -1323,7 +1323,7 @@
 1966,Structure Capacitor Battery
 1967,Structure Capacitor Power Relay
 1968,Structure Armor Reinforcer
-1969,
+1969,[no messageID: 532741]
 1971,Abyssal Hazards
 1972,Flag Cruiser
 1973,Locators
@@ -1364,6 +1364,57 @@
 2015,Upwell Monument
 2016,Upwell Cyno Jammer
 2017,Upwell Cyno Beacon
+2018,Mutadaptive Remote Armor Repairer
+2019,Mutadaptive Remote Armor Repairer Blueprint
+2020,Cynosural Fields
+2022,Temporal Resources
+2023,Cyber Electronics Implant Blueprints
+2024,Fluorite
+2026,Triglavian Artifacts
+4028,Triglavian Entities
+4029,Talassonite
+4030,Rakovene
+4031,Bezdnacine
+4033,Destructible Effect Beacon
+4034,EDENCOM Entities
+4035,Drifter Entities
+4036,Sleeper Entities
+4037,Rogue Drone Entities
+4040,180-Day SKIN
+4041,Jump Filaments
+4050,Abyssal Proving Filaments
+4052,Jump Filament Blueprint
+4053,Irregular Capsule
+4055,Invisible Beacon
+4057,Masks
+4060,Vorton Projector
+4061,Advanced Condenser Pack
+4062,Condenser Pack
+4064,Vorton Projector Blueprint
+4065,Condenser Pack Blueprint
+4066,Advanced Condenser Pack Blueprint
+4067,Vorton Projector Upgrade
+4069,Vorton Projector Upgrade Blueprints
+4070,Exotic Artefact
+4071,Type Graveyard
+4072,Expired Jump Filaments
+4073,Temporary Collidable Structure
+4079,Encounter Surveillance System
+4081,Disrupted Gate
+4086,Quantum Cores
+4087,Triglavian Space Filaments
+4088,Interdiction Burst Probes
+4090,QA Expert Systems
+4091,Standard Expert Systems
+4093,Mobile Cynosural Beacon
+4094,Scalable Decorative Asteroid
+4095,Mobile Cynosural Beacon Blueprint
+4096,Molecular-Forged Materials
+4097,Molecular-Forged Reaction Formulas
+4098,Promotional Expert Systems
+4100,Tournament Champion Monument
+4117,Interdiction Nullifier
+4118,Interdiction Nullifier Blueprint
 350858,Infantry Weapons
 351064,Infantry Dropsuits
 351121,Infantry Modules
