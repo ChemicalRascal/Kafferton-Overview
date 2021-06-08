@@ -3,9 +3,9 @@
 
 Based on Zirio-Syundai, and thus in turn SaraShawa, The Kafferton Overview aims to be a single, ready-to-use overview pack following established best-practices, and roughly applicable to most-if-not-all playstyles.
 
-#### Current Version: v5.3.4
-- For Release: (December 2018 Patch) 1.0
-- Updated: 2018.12.07
+#### Current Version: v5.3.5
+- For Release: Version 19.05
+- Updated: 2021.06.09
 
 ### Credits and Feedback
 The Kafferton Overview is maintained by:
@@ -34,9 +34,8 @@ At the times of forking, Z-S was licensed under the GNU GPLv3. The Kafferton Ove
 
 ### Recent Changes:
 
-##### Version v5.3.4
->1. Add "Roid Rage" preset.
->2. Add "Future Home of Cyno Fields" to all overviews with beacons already in 'em (futureproofing!).
+##### Version v5.3.5
+>1. Add the second, non-beacon ESS group ID (ergo, the actual ESS itself) in overviews that had the beacon present.
 
 ## Notice
 SaraShawa Overview Pack did not have a GitHub repository nor it was under any License at the moment of the manual fork and at the moment of creation of Z-S' fork.
